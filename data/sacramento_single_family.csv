@@ -1,0 +1,187 @@
+,index,property_id,prop_type,price,baths_half,baths_full,beds,city,postal_code,state_code,county,building_size,lot_size
+0,0,M1420126120,single_family,499700,0.0,3,4,Dixon,95620,CA,Solano,2169,4783.0
+1,1,M2415397004,single_family,340000,0.0,2,3,Sacramento,95826,CA,Sacramento,1270,5920.0
+2,2,M1186346624,single_family,375900,0.0,3,4,Citrus Heights,95610,CA,Sacramento,1736,6098.0
+3,3,M2897618299,single_family,395000,0.0,2,3,Sacramento,95826,CA,Sacramento,1516,6739.0
+4,4,M2738139661,single_family,1275000,0.0,3,3,Sacramento,95831,CA,Sacramento,3375,24202.0
+5,5,M1231037447,single_family,474999,0.0,2,3,West Sacramento,95691,CA,Yolo,2182,3920.0
+6,6,M2055327904,single_family,649900,0.0,2,2,Sacramento,95819,CA,Sacramento,1611,5306.0
+7,7,M1123778177,single_family,660000,0.0,3,4,Auburn,95603,CA,Placer,2620,8973.0
+8,8,M1008706754,single_family,454950,0.0,2,3,Elk Grove,95757,CA,Sacramento,1639,6316.0
+9,9,M1881725963,single_family,519900,0.0,3,4,Elk Grove,95624,CA,Sacramento,2189,7279.0
+10,10,M2407936662,single_family,359900,0.0,2,3,Roseville,95678,CA,Placer,1189,8307.0
+11,11,M1095711355,single_family,554800,0.0,3,4,Roseville,95747,CA,Placer,2186,7514.0
+12,12,M1200068714,single_family,435000,0.0,3,5,Sacramento,95828,CA,Sacramento,2742,8795.0
+13,13,M1710778861,single_family,524500,1.0,2,4,Carmichael,95608,CA,Sacramento,2021,9518.0
+14,14,M1366453994,single_family,649900,0.0,3,4,Rocklin,95677,CA,Placer,2508,12985.0
+15,15,M2996477691,single_family,675000,1.0,3,4,Loomis,95650,CA,Placer,3015,10594.0
+16,16,M2224550959,single_family,440000,1.0,2,4,Rocklin,95677,CA,Placer,1694,4870.0
+17,17,M1300966727,single_family,1200000,1.0,4,6,Lincoln,95648,CA,Placer,5242,17633.0
+18,18,M1707054192,single_family,345000,0.0,2,3,Sacramento,95824,CA,Sacramento,1661,4792.0
+19,19,M1052498731,single_family,425000,0.0,2,3,Orangevale,95662,CA,Sacramento,1644,8577.0
+20,20,M2523844779,single_family,399000,1.0,2,3,Lincoln,95648,CA,Placer,1542,4526.0
+21,21,M2695006519,single_family,330000,0.0,2,3,Sacramento,95842,CA,Sacramento,1236,5663.0
+22,22,M1636503495,single_family,560000,0.0,3,4,Roseville,95747,CA,Placer,2917,5018.0
+23,23,M2979751611,single_family,574500,0.0,2,2,Sacramento,95835,CA,Sacramento,2089,7183.0
+24,24,M2220364731,single_family,329900,1.0,1,3,Sacramento,95821,CA,Sacramento,1075,10585.0
+25,25,M2825223901,single_family,815000,1.0,3,4,Rocklin,95765,CA,Placer,3555,14845.0
+26,26,M1572157778,single_family,899000,0.0,3,4,Sacramento,95829,CA,Sacramento,3238,34412.0
+27,27,M2953908613,single_family,549900,0.0,3,4,Roseville,95678,CA,Placer,2338,6368.0
+28,28,M2161286840,single_family,515000,0.0,2,3,Sacramento,95864,CA,Sacramento,1710,5227.0
+29,29,M2895423155,single_family,889000,0.0,3,3,Davis,95618,CA,Yolo,2777,5837.0
+30,30,M2076563682,single_family,330000,0.0,2,4,Sacramento,95823,CA,Sacramento,1591,6090.0
+31,31,M2402832084,single_family,649500,0.0,1,2,Sacramento,95819,CA,Sacramento,1345,5001.0
+32,32,M1182069264,single_family,325000,0.0,2,3,Sacramento,95828,CA,Sacramento,1130,6098.0
+33,33,M2750791220,single_family,525000,0.0,3,4,Elk Grove,95757,CA,Sacramento,2723,6125.0
+34,34,M2746840296,single_family,320000,0.0,2,3,Rancho Cordova,95670,CA,Sacramento,1390,6534.0
+35,35,M2177098972,single_family,289900,0.0,1,2,Sacramento,95821,CA,Sacramento,943,5227.0
+36,36,M2983347637,single_family,299900,0.0,1,3,Sacramento,95821,CA,Sacramento,1229,10019.0
+37,37,M2299370455,single_family,269900,0.0,1,3,Sacramento,95824,CA,Sacramento,875,6098.0
+38,38,M1345721688,single_family,409000,0.0,2,3,Sacramento,95815,CA,Sacramento,1291,7841.0
+39,39,M2397730715,single_family,599000,0.0,3,5,Lincoln,95648,CA,Placer,3119,7144.0
+40,40,M1999810362,single_family,399999,1.0,2,4,Citrus Heights,95621,CA,Sacramento,1673,5789.0
+41,41,M2899894671,single_family,665000,1.0,2,3,Sacramento,95841,CA,Sacramento,2224,44867.0
+42,42,M2586467275,single_family,575000,0.0,2,3,Sacramento,95831,CA,Sacramento,1770,12197.0
+43,43,M2026965862,single_family,449500,1.0,2,4,Carmichael,95608,CA,Sacramento,1749,12902.0
+44,44,M1181156356,single_family,565000,0.0,3,4,Rocklin,95765,CA,Placer,2422,6351.0
+45,45,M2968754642,single_family,599000,0.0,3,5,Galt,95632,CA,Sacramento,3440,14244.0
+46,46,M1778078004,single_family,335000,0.0,2,3,Citrus Heights,95621,CA,Sacramento,1335,7841.0
+47,47,M2013521080,single_family,579900,0.0,2,4,Rancho Murieta,95683,CA,Sacramento,2094,3354.0
+48,48,M2667307621,single_family,635000,0.0,2,3,Lincoln,95648,CA,Placer,1334,230868.0
+49,49,M1647073695,single_family,460000,0.0,3,4,Elk Grove,95758,CA,Sacramento,2196,6504.0
+50,50,M1492878597,single_family,739900,1.0,3,4,Rancho Murieta,95683,CA,Sacramento,3730,6364.0
+51,51,M1161320236,single_family,425000,0.0,2,3,Woodland,95695,CA,Yolo,1646,14323.0
+52,52,M1172026200,single_family,959900,0.0,4,5,Rocklin,95765,CA,Placer,3555,13403.0
+53,53,M1046028978,single_family,449000,0.0,2,4,Sacramento,95821,CA,Sacramento,1967,10820.0
+54,54,M2756672941,single_family,285000,1.0,1,2,Sacramento,95834,CA,Sacramento,1054,5663.0
+55,55,M1760864714,single_family,915000,0.0,3,4,Granite Bay,95746,CA,Placer,2549,10106.0
+56,56,M1124433372,single_family,320000,0.0,2,2,Antelope,95843,CA,Sacramento,1090,4905.0
+57,57,M2363480869,single_family,539000,0.0,2,3,Davis,95616,CA,Yolo,1234,7527.0
+58,58,M1317971003,single_family,1389000,0.0,4,5,Granite Bay,95746,CA,Placer,3931,217800.0
+59,59,M1613984687,single_family,157500,0.0,1,2,Sacramento,95838,CA,Sacramento,724,8712.0
+60,60,M2430408880,single_family,749000,0.0,3,3,Sacramento,95818,CA,Sacramento,1934,4356.0
+61,61,M1316161817,single_family,449900,0.0,3,5,Lodi,95240,CA,San Joaquin,2300,7802.0
+62,62,M1075384972,single_family,899000,0.0,3,3,Davis,95616,CA,Yolo,2244,10559.0
+63,63,M2606924352,single_family,409000,1.0,2,4,Orangevale,95662,CA,Sacramento,2040,11761.0
+64,64,M2787938333,single_family,710000,1.0,2,2,Sacramento,95818,CA,Sacramento,1536,6534.0
+65,65,M1703960263,single_family,429900,0.0,2,3,Roseville,95747,CA,Placer,1577,6007.0
+66,66,M2224887208,single_family,429000,0.0,1,2,Sacramento,95819,CA,Sacramento,758,3816.0
+67,67,M1717584007,single_family,324900,0.0,2,3,Sacramento,95842,CA,Sacramento,1600,6098.0
+68,68,M1465894784,single_family,385000,0.0,2,3,Woodland,95776,CA,Yolo,1335,4792.0
+69,69,M2198115830,single_family,440000,0.0,3,3,Rancho Cordova,95670,CA,Sacramento,2325,4587.0
+70,70,M2748534933,single_family,549000,1.0,3,4,Orangevale,95662,CA,Sacramento,3276,10550.0
+71,71,M2164686264,single_family,415000,0.0,2,4,Elk Grove,95624,CA,Sacramento,1744,7614.0
+72,72,M1416714378,single_family,600000,0.0,3,4,Roseville,95661,CA,Placer,2608,14074.0
+73,73,M1488272141,single_family,445000,1.0,2,4,Sacramento,95829,CA,Sacramento,1881,7449.0
+74,74,M2204048057,single_family,379999,1.0,2,2,West Sacramento,95605,CA,Yolo,1313,1742.0
+75,75,M2525222885,single_family,299900,0.0,2,3,Sacramento,95842,CA,Sacramento,960,6098.0
+76,76,M1325669462,single_family,372000,0.0,2,3,Antelope,95843,CA,Sacramento,1408,6625.0
+77,77,M1382195599,single_family,369900,0.0,2,3,Rancho Cordova,95670,CA,Sacramento,1127,6970.0
+78,78,M1719075745,single_family,625000,0.0,3,4,Roseville,95678,CA,Placer,3110,7444.0
+79,84,P417000483911,single_family,600000,1.0,2,2,Sacramento,95814,CA,Sacramento,1520,
+80,94,M2017816538,single_family,439900,0.0,3,4,Elk Grove,95758,CA,Sacramento,2000,5776.0
+81,95,M1926446316,single_family,345000,0.0,2,3,Sacramento,95838,CA,Sacramento,1381,5536.0
+82,96,M2430309678,single_family,869000,1.0,2,4,Sacramento,95864,CA,Sacramento,2250,9148.0
+83,97,M1310859872,single_family,451887,0.0,2,4,Plumas Lake,95961,CA,Yuba,1884,13700.0
+84,98,M1941367702,single_family,499900,0.0,3,5,Roseville,95747,CA,Placer,2567,4983.0
+85,99,M2328149209,single_family,514900,0.0,2,3,Citrus Heights,95610,CA,Sacramento,2088,9148.0
+86,100,M2567890463,single_family,1489000,0.0,4,4,Acampo,95220,CA,San Joaquin,5289,217800.0
+87,101,M2501632014,single_family,394500,0.0,2,3,Sacramento,95835,CA,Sacramento,1877,4992.0
+88,102,M2897804629,single_family,417000,0.0,2,3,Sacramento,95826,CA,Sacramento,1600,6325.0
+89,103,M2075961130,single_family,499000,0.0,2,3,Sacramento,95831,CA,Sacramento,1538,9148.0
+90,104,M1340378534,single_family,959000,1.0,2,5,Davis,95616,CA,Yolo,2430,9518.0
+91,105,M1194202614,single_family,409895,0.0,2,3,Sacramento,95835,CA,Sacramento,1527,4530.0
+92,106,M1209176492,single_family,1125000,0.0,3,4,El Dorado Hills,95762,CA,El Dorado,3266,19184.0
+93,107,M2506776243,single_family,319000,0.0,2,3,North Highlands,95660,CA,Sacramento,1309,8276.0
+94,108,M1165377271,single_family,429000,0.0,3,4,Citrus Heights,95610,CA,Sacramento,1972,7405.0
+95,109,M1932953335,single_family,1330000,0.0,4,5,Granite Bay,95746,CA,Placer,4033,18761.0
+96,110,M2305904988,single_family,1250000,0.0,3,4,Davis,95616,CA,Yolo,2223,13286.0
+97,111,M1183324934,single_family,369999,0.0,2,3,Elk Grove,95758,CA,Sacramento,1279,4569.0
+98,112,M2351931971,single_family,978888,0.0,3,4,Sacramento,95831,CA,Sacramento,3319,8778.0
+99,113,M2846430852,single_family,968888,1.0,3,5,El Dorado Hills,95762,CA,El Dorado,3837,16553.0
+100,114,M2335485036,single_family,420000,0.0,2,3,West Sacramento,95691,CA,Yolo,1605,6098.0
+101,115,M2949385858,single_family,799950,0.0,3,4,Roseville,95661,CA,Placer,2735,15564.0
+102,116,M1389499724,single_family,425000,0.0,2,3,Rancho Cordova,95670,CA,Sacramento,1407,6490.0
+103,117,M2781747112,single_family,440000,0.0,3,4,Elk Grove,95758,CA,Sacramento,2059,6303.0
+104,118,M1657434850,single_family,880000,0.0,4,5,Rocklin,95677,CA,Placer,3896,13656.0
+105,119,M1986995097,single_family,557900,0.0,2,3,Roseville,95747,CA,Placer,2069,7418.0
+106,120,M9557208734,single_family,602430,0.0,3,4,West Sacramento,95691,CA,Yolo,2114,6626.0
+107,121,M1541973587,single_family,449900,0.0,3,4,Rancho Cordova,95670,CA,Sacramento,2109,6965.0
+108,122,M2347193176,single_family,395000,0.0,2,3,Roseville,95678,CA,Placer,1513,4822.0
+109,123,M2124435132,single_family,768000,0.0,2,2,Newcastle,95658,CA,Placer,1199,261360.0
+110,124,M2751506640,single_family,440000,0.0,2,3,Woodland,95695,CA,Yolo,1574,6499.0
+111,125,M1000441571,single_family,498000,0.0,3,5,Sacramento,95824,CA,Sacramento,2573,9165.0
+112,126,M1713576955,single_family,530000,0.0,3,5,Sacramento,95834,CA,Sacramento,2791,6512.0
+113,127,M1555002388,single_family,669000,0.0,3,4,Roseville,95747,CA,Placer,3036,6364.0
+114,128,M2539123081,single_family,315000,0.0,1,3,Sacramento,95842,CA,Sacramento,960,8276.0
+115,129,M2588749944,single_family,690000,0.0,3,4,Carmichael,95608,CA,Sacramento,2342,19515.0
+116,130,M2250115396,single_family,399000,0.0,2,3,Roseville,95678,CA,Placer,1253,6604.0
+117,131,M2806214634,single_family,294888,0.0,2,3,Lodi,95240,CA,San Joaquin,1311,7200.0
+118,132,M2829625624,single_family,290000,0.0,1,3,Sacramento,95815,CA,Sacramento,1057,7405.0
+119,133,M1527096100,single_family,429900,0.0,2,3,Roseville,95661,CA,Placer,1359,8307.0
+120,134,M2178495727,single_family,579950,0.0,3,4,Lodi,95242,CA,San Joaquin,2778,7841.0
+121,135,M2352260274,single_family,549000,0.0,2,4,Fair Oaks,95628,CA,Sacramento,1724,10454.0
+122,136,M2651772828,single_family,390000,0.0,2,3,Sacramento,95835,CA,Sacramento,1358,4713.0
+123,137,M2437190609,single_family,399900,0.0,2,3,Sacramento,95834,CA,Sacramento,1838,2509.0
+124,138,M1868758667,single_family,340000,1.0,2,4,Sacramento,95823,CA,Sacramento,1807,2073.0
+125,139,M1893965639,single_family,1495000,1.0,2,4,Sacramento,95816,CA,Sacramento,3746,6098.0
+126,140,M2601858110,single_family,529000,0.0,3,4,Sacramento,95831,CA,Sacramento,1793,8712.0
+127,141,M1260431011,single_family,549900,0.0,3,4,Elk Grove,95757,CA,Sacramento,3281,6264.0
+128,142,M1840390543,single_family,415000,1.0,2,3,Woodland,95776,CA,Yolo,1556,3049.0
+129,143,M2124089528,single_family,480000,0.0,2,3,Roseville,95747,CA,Placer,2084,6103.0
+130,144,M2798420243,single_family,559900,1.0,2,4,West Sacramento,95691,CA,Yolo,3018,7405.0
+131,145,M1862265833,single_family,499900,0.0,3,4,Elk Grove,95757,CA,Sacramento,2645,4770.0
+132,146,M1215235953,single_family,349900,0.0,2,3,Sacramento,95828,CA,Sacramento,1407,6146.0
+133,147,M2687171224,single_family,419900,0.0,1,2,Sacramento,95817,CA,Sacramento,988,7405.0
+134,148,M1615566303,single_family,300000,0.0,1,3,Sacramento,95822,CA,Sacramento,1410,9583.0
+135,149,M1136232155,single_family,249900,0.0,2,3,Sacramento,95828,CA,Sacramento,1222,4129.0
+136,150,M1929526794,single_family,369000,1.0,2,3,Citrus Heights,95621,CA,Sacramento,1258,6970.0
+137,151,M1208242061,single_family,437000,1.0,2,4,Lincoln,95648,CA,Placer,2218,6429.0
+138,152,M1416353091,single_family,429900,0.0,2,3,Roseville,95661,CA,Placer,1680,6473.0
+139,153,M2671285567,single_family,279900,0.0,2,2,Sacramento,95823,CA,Sacramento,1132,3245.0
+140,154,M1003893639,single_family,719900,0.0,3,4,Loomis,95650,CA,Placer,2734,36534.0
+141,155,M1478858379,single_family,365000,1.0,2,3,Sacramento,95833,CA,Sacramento,1734,5663.0
+142,156,M1592143206,single_family,699000,0.0,3,4,Lodi,95242,CA,San Joaquin,2605,7719.0
+143,157,M1640403091,single_family,410000,1.0,2,3,Elk Grove,95758,CA,Sacramento,1410,5702.0
+144,158,M2268546659,single_family,515000,0.0,2,3,Rancho Cordova,95742,CA,Sacramento,2305,4726.0
+145,159,M2020593386,single_family,519500,1.0,2,4,Carmichael,95608,CA,Sacramento,1894,10454.0
+146,160,M1340613105,single_family,485000,0.0,3,4,Antelope,95843,CA,Sacramento,2047,7889.0
+147,161,M2960635008,single_family,399900,0.0,2,3,Sacramento,95826,CA,Sacramento,1379,6939.0
+148,162,M1436997353,single_family,559000,0.0,3,4,Carmichael,95608,CA,Sacramento,2222,7841.0
+149,163,M2889364000,single_family,548000,0.0,3,4,Roseville,95678,CA,Placer,2382,6167.0
+150,164,M1375398676,single_family,510000,1.0,1,3,Sacramento,95822,CA,Sacramento,1579,7841.0
+151,165,M1935069757,single_family,420000,1.0,2,4,Roseville,95747,CA,Placer,1658,2274.0
+152,166,M1251354875,single_family,230000,0.0,2,4,Sacramento,95832,CA,Sacramento,1199,6534.0
+153,167,M2661174118,single_family,349888,0.0,2,3,Sacramento,95823,CA,Sacramento,2063,8712.0
+154,168,M2253492806,single_family,439999,1.0,2,4,Sacramento,95834,CA,Sacramento,2113,3228.0
+155,169,M1570221172,single_family,939000,0.0,4,5,Folsom,95630,CA,Sacramento,4212,11935.0
+156,170,M1763719244,single_family,394000,0.0,3,4,Sacramento,95841,CA,Sacramento,1696,10019.0
+157,171,M1460379424,single_family,315000,0.0,2,2,Woodland,95776,CA,Yolo,1153,3358.0
+158,172,P413871321910,single_family,299900,1.0,2,3,Sacramento,95838,CA,Sacramento,1396,
+159,173,P412519759058,single_family,583990,0.0,3,5,Woodland,95776,CA,Yolo,3105,
+160,174,P412735312992,single_family,502950,1.0,2,3,Dixon,95620,CA,Solano,2490,
+161,175,P416036054146,single_family,627900,0.0,3,4,Elk Grove,95757,CA,Sacramento,3225,
+162,176,P414119494140,single_family,592900,1.0,2,4,Elk Grove,95757,CA,Sacramento,2655,
+163,177,P415490483692,single_family,478990,1.0,2,3,Rocklin,95765,CA,Placer,2111,
+164,178,P415185624948,single_family,496990,0.0,3,4,Roseville,95747,CA,Placer,2228,
+165,179,P412280954928,single_family,567900,1.0,2,3,Elk Grove,95757,CA,Sacramento,2348,
+166,180,P412474560000,single_family,533230,1.0,3,3,Roseville,95747,CA,Placer,2842,
+167,181,P411859807908,single_family,653900,1.0,3,5,Elk Grove,95757,CA,Sacramento,3580,
+168,182,P414968677067,single_family,400990,1.0,2,3,Roseville,95747,CA,Placer,1691,
+169,183,M2026616680,single_family,369000,0.0,2,3,Antelope,95843,CA,Sacramento,1545,4726.0
+170,184,M2508542264,single_family,359900,0.0,2,3,Orangevale,95662,CA,Sacramento,1008,10454.0
+171,185,M1536113388,single_family,499900,0.0,3,4,Sacramento,95825,CA,Sacramento,2131,11761.0
+172,186,M2345368001,single_family,549000,0.0,1,2,Sacramento,95819,CA,Sacramento,1129,5946.0
+173,187,M1124980989,single_family,624900,1.0,2,4,Citrus Heights,95610,CA,Sacramento,2300,29621.0
+174,188,M1880698290,single_family,550000,1.0,2,3,Roseville,95747,CA,Placer,2609,7484.0
+175,189,M1951673127,single_family,520000,1.0,3,4,Sacramento,95835,CA,Sacramento,2614,5776.0
+176,190,M2338901397,single_family,589000,0.0,2,3,Folsom,95630,CA,Sacramento,1884,8176.0
+177,191,M1345658528,single_family,419000,1.0,1,3,Carmichael,95608,CA,Sacramento,1296,12972.0
+178,192,M1994237834,single_family,415000,1.0,2,4,Sacramento,95835,CA,Sacramento,2093,3149.0
+179,193,M2778754464,single_family,309900,0.0,2,4,North Highlands,95660,CA,Sacramento,1286,6534.0
+180,194,M1877804815,single_family,355000,0.0,2,3,Sacramento,95864,CA,Sacramento,1421,5227.0
+181,195,M2385140575,single_family,685000,0.0,3,5,El Dorado Hills,95762,CA,El Dorado,3105,20909.0
+182,196,M2780521554,single_family,649000,0.0,2,3,Loomis,95650,CA,Placer,1580,217800.0
+183,197,M1366416728,single_family,975000,1.0,3,5,Granite Bay,95746,CA,Placer,4111,29503.0
+184,198,M1826716785,single_family,490000,0.0,3,4,Sacramento,95831,CA,Sacramento,2031,6534.0
+185,199,M1044700702,single_family,250000,0.0,1,2,Sacramento,95817,CA,Sacramento,900,6098.0

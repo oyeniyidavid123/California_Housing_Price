@@ -1,0 +1,194 @@
+,property_id,prop_type,price,baths_half,baths_full,beds,city,postal_code,state_code,county,building_size,lot_size
+0,M2537367913,single_family,550000,0.0,1,2,Oakland,94605,CA,Alameda,1050,3325.0
+1,M2266195910,single_family,1550000,0.0,3,4,Danville,94526,CA,Contra Costa,2919,11067.0
+2,M1925232987,single_family,2099000,0.0,3,5,Pleasant Hill,94523,CA,Contra Costa,3381,84376.0
+3,M2488169930,single_family,789888,1.0,1,2,Redwood City,94063,CA,San Mateo,760,2500.0
+4,M1073688011,single_family,448888,0.0,1,1,Berkeley,94706,CA,Alameda,642,3800.0
+5,M2099355398,single_family,789000,0.0,1,2,Oakland,94606,CA,Alameda,1308,5250.0
+6,M2487643774,single_family,2295000,1.0,3,4,Piedmont,94610,CA,Alameda,2656,4070.0
+7,M2957649574,single_family,539000,1.0,3,3,San Pablo,94806,CA,Contra Costa,1597,2424.0
+8,M2378155458,single_family,1295000,1.0,4,5,Hercules,94547,CA,Contra Costa,4022,7183.0
+9,M9718196622,single_family,2075000,0.0,3,4,Oakland,94610,CA,Alameda,2706,7400.0
+10,M1367238138,single_family,1099888,0.0,2,3,Fremont,94536,CA,Alameda,1522,5600.0
+11,M1794081173,single_family,1598000,1.0,2,4,Brisbane,94005,CA,San Mateo,2460,3473.0
+12,M1608813311,single_family,1425000,0.0,2,3,Lafayette,94549,CA,Contra Costa,1896,13500.0
+13,M2048522269,single_family,1495000,0.0,2,3,San Francisco,94122,CA,San Francisco,1506,2996.0
+14,M2646809763,single_family,729000,0.0,2,3,Castro Valley,94546,CA,Alameda,1476,5040.0
+15,M2679294354,single_family,1185000,0.0,2,3,South San Francisco,94080,CA,San Mateo,1601,4575.0
+16,M1117206409,single_family,748000,1.0,2,3,Hayward,94544,CA,Alameda,1415,3416.0
+17,M2881009428,single_family,1179000,1.0,2,3,San Ramon,94582,CA,Contra Costa,2411,4800.0
+18,M1011952894,single_family,1695000,0.0,3,3,Berkeley,94703,CA,Alameda,2011,2364.0
+19,M1833835558,single_family,1598000,0.0,2,4,Oakland,94609,CA,Alameda,2073,4140.0
+20,M1414597740,single_family,1025000,0.0,2,3,Kensington,94708,CA,Contra Costa,1373,4000.0
+21,M1434600441,single_family,898888,0.0,2,3,Union City,94587,CA,Alameda,1357,5500.0
+22,M1747791645,single_family,960000,0.0,1,3,Alameda,94501,CA,Alameda,1600,130680.0
+23,M1597871062,single_family,1075000,0.0,3,5,Hayward,94541,CA,Alameda,3140,7500.0
+24,M1562629436,single_family,575000,0.0,2,4,Richmond,94806,CA,Contra Costa,1165,6000.0
+25,M2376424927,single_family,4495000,0.0,2,3,Belvedere,94920,CA,Marin,1750,7527.0
+26,M2452315660,single_family,6800000,2.0,5,5,Piedmont,94611,CA,Alameda,7214,21413.0
+27,M9907903630,single_family,975000,0.0,2,3,Richmond,94804,CA,Contra Costa,2980,9250.0
+28,M1996089546,single_family,1200000,0.0,2,4,Pleasanton,94566,CA,Alameda,2100,7156.0
+29,M1499966861,single_family,2177000,0.0,2,4,Tiburon,94920,CA,Marin,2723,2017.0
+30,M1257405317,single_family,389999,0.0,2,3,Vallejo,94591,CA,Solano,1228,9583.0
+31,M2384875678,single_family,550000,0.0,1,4,Oakland,94621,CA,Alameda,1361,3500.0
+32,M2842261408,single_family,999800,1.0,2,4,Pleasanton,94588,CA,Alameda,1835,6132.0
+33,M2831886955,single_family,1899800,0.0,3,5,Fremont,94539,CA,Alameda,2363,10224.0
+34,M2660222353,single_family,898000,0.0,2,4,Berkeley,94702,CA,Alameda,1188,3857.0
+35,M2341880226,single_family,988000,0.0,3,4,Pleasanton,94566,CA,Alameda,1900,3192.0
+36,M1570952212,single_family,1250000,0.0,3,4,Alameda,94501,CA,Alameda,2213,3360.0
+37,M1002802716,single_family,1455000,0.0,2,4,Alamo,94507,CA,Contra Costa,2417,35284.0
+38,M2319696930,single_family,2195000,0.0,4,4,Orinda,94563,CA,Contra Costa,3016,10942.0
+39,M2335556388,single_family,998000,1.0,2,4,Dublin,94568,CA,Alameda,1760,7116.0
+40,M2225080203,single_family,699950,0.0,3,4,Rodeo,94572,CA,Contra Costa,2315,9028.0
+41,M2996098031,single_family,1050000,0.0,2,3,Walnut Creek,94597,CA,Contra Costa,1524,15246.0
+42,M1676548152,single_family,1095000,0.0,2,3,San Francisco,94116,CA,San Francisco,1355,3000.0
+43,M2870237093,single_family,1375000,1.0,2,2,Pleasanton,94566,CA,Alameda,2372,5132.0
+44,M2773711670,single_family,998000,0.0,2,3,Pleasanton,94566,CA,Alameda,1610,6914.0
+45,M2256443605,single_family,1250000,1.0,2,4,Pleasant Hill,94523,CA,Contra Costa,2929,40920.0
+46,M2019322675,single_family,995000,0.0,2,3,Oakland,94611,CA,Alameda,1965,6660.0
+47,M1635123067,single_family,1418000,1.0,2,4,Moraga,94556,CA,Contra Costa,2416,24780.0
+48,M2736320295,single_family,499000,1.0,1,3,Richmond,94804,CA,Contra Costa,984,3800.0
+49,M1065997593,single_family,1388000,1.0,2,4,San Ramon,94582,CA,Contra Costa,2907,6740.0
+50,M9600309264,single_family,1395000,0.0,2,5,Berkeley,94707,CA,Alameda,1826,3800.0
+51,M1902318988,single_family,995000,0.0,1,3,Oakland,94619,CA,Alameda,1456,5120.0
+52,M2568752135,single_family,899000,0.0,2,3,Fremont,94536,CA,Alameda,1120,5100.0
+53,M2168725935,single_family,899000,0.0,1,2,Oakland,94602,CA,Alameda,1556,4500.0
+54,M2069982377,single_family,790000,1.0,2,4,San Francisco,94134,CA,San Francisco,1726,1425.0
+55,M2090822384,single_family,1235000,0.0,3,4,Danville,94526,CA,Contra Costa,2528,5600.0
+56,M2949962641,single_family,879000,1.0,2,3,Hayward,94544,CA,Alameda,1871,3306.0
+57,M2836736602,single_family,599000,1.0,1,3,Oakland,94602,CA,Alameda,977,4356.0
+58,M2177818642,single_family,1195000,0.0,3,4,San Francisco,94112,CA,San Francisco,1963,2121.0
+59,M1765349038,single_family,2398000,1.0,4,5,Moraga,94556,CA,Contra Costa,4786,24504.0
+60,M1319308603,single_family,1098000,1.0,1,2,San Francisco,94110,CA,San Francisco,800,1324.0
+61,M1685136224,single_family,950000,0.0,2,3,Castro Valley,94546,CA,Alameda,1519,4750.0
+62,M2307514730,single_family,1000000,0.0,3,5,Newark,94560,CA,Alameda,2244,6565.0
+63,M1765237240,single_family,2015000,1.0,3,4,Moraga,94556,CA,Contra Costa,3315,10720.0
+64,M2680546813,single_family,995000,0.0,2,4,Newark,94560,CA,Alameda,1432,9230.0
+65,M1809278188,single_family,1700000,1.0,5,6,Alamo,94507,CA,Contra Costa,4487,30600.0
+66,M2920213200,single_family,950000,1.0,2,2,Danville,94526,CA,Contra Costa,1375,1860.0
+67,M2226375400,single_family,710000,0.0,2,3,San Lorenzo,94580,CA,Alameda,1252,4998.0
+68,M1490433046,single_family,975000,0.0,2,4,Albany,94706,CA,Alameda,1994,4092.0
+69,M2248196459,single_family,1229000,0.0,2,4,Danville,94526,CA,Contra Costa,1681,12000.0
+70,M1765386304,single_family,1954000,1.0,3,4,Moraga,94556,CA,Contra Costa,3131,10440.0
+71,M2180403749,single_family,1100000,0.0,2,4,Fremont,94536,CA,Alameda,1562,9450.0
+72,M2718939844,single_family,999950,0.0,2,3,San Ramon,94583,CA,Contra Costa,1760,7560.0
+73,M2187365752,single_family,800000,0.0,2,4,Oakland,94601,CA,Alameda,1992,3000.0
+74,M2484286720,single_family,849000,0.0,4,3,Richmond,94805,CA,Contra Costa,2018,3569.0
+75,M1401465607,single_family,1325000,0.0,2,3,Lafayette,94549,CA,Contra Costa,1840,10800.0
+76,M1256108897,single_family,1298000,0.0,4,5,Pleasanton,94566,CA,Alameda,2562,52708.0
+77,M2384173922,single_family,1475000,1.0,2,5,Fremont,94536,CA,Alameda,2750,6721.0
+78,M2350600457,single_family,1399999,0.0,3,4,Pleasanton,94566,CA,Alameda,2388,7000.0
+79,M1875556966,single_family,1730000,0.0,3,4,Fremont,94539,CA,Alameda,2145,6510.0
+80,M2998020483,single_family,1580000,0.0,2,3,Greenbrae,94904,CA,Marin,1608,7100.0
+81,M2506104936,single_family,900000,0.0,2,4,Newark,94560,CA,Alameda,1654,3877.0
+82,M2057471628,single_family,975000,0.0,1,3,Alameda,94501,CA,Alameda,1538,3441.0
+83,M1819603117,single_family,1695000,1.0,2,4,Alameda,94501,CA,Alameda,2511,5250.0
+84,M1503435712,single_family,1795000,0.0,2,4,Oakland,94611,CA,Alameda,2445,6000.0
+85,M2145804171,single_family,995000,0.0,2,3,El Cerrito,94530,CA,Contra Costa,1310,5000.0
+86,M1457564485,single_family,979000,0.0,1,3,Albany,94706,CA,Alameda,1305,4400.0
+87,M2381430764,single_family,1158888,0.0,3,4,Dublin,94568,CA,Alameda,2234,8499.0
+88,M1777639403,single_family,1948000,0.0,3,5,Alamo,94507,CA,Contra Costa,3151,16445.0
+89,M2087580247,single_family,1935000,1.0,3,5,Danville,94526,CA,Contra Costa,3541,10580.0
+90,M2000882851,single_family,715000,0.0,3,4,Rodeo,94572,CA,Contra Costa,2462,4940.0
+91,M2602004728,single_family,698000,0.0,2,3,Hayward,94544,CA,Alameda,1231,5320.0
+92,M2003696873,single_family,895000,0.0,1,2,Alameda,94501,CA,Alameda,1174,5400.0
+93,M1438142662,single_family,4925000,1.0,3,4,Belvedere,94920,CA,Marin,3402,5984.0
+94,M1642642441,single_family,958000,1.0,2,4,San Francisco,94112,CA,San Francisco,1780,2495.0
+95,M1752410360,single_family,1624000,1.0,2,4,Alamo,94507,CA,Contra Costa,3007,26180.0
+96,M2869207497,single_family,865000,0.0,2,3,Pleasant Hill,94523,CA,Contra Costa,1748,5000.0
+97,M9935337325,single_family,872500,0.0,2,4,Union City,94587,CA,Alameda,1374,5780.0
+98,M1092903603,single_family,1179000,1.0,2,4,Danville,94526,CA,Contra Costa,1943,9000.0
+99,M2378566361,single_family,995000,0.0,2,4,Piedmont,94618,CA,Alameda,1927,9983.0
+100,M1963078952,single_family,2595000,0.0,3,4,Corte Madera,94925,CA,Marin,3055,16988.0
+101,M2598835930,single_family,2495000,1.0,2,3,Greenbrae,94904,CA,Marin,2589,4060.0
+102,M1761511352,single_family,1190000,0.0,2,3,San Francisco,94121,CA,San Francisco,1395,2996.0
+103,M1662401737,single_family,1650000,0.0,3,5,Moraga,94556,CA,Contra Costa,2562,16500.0
+104,M2252665102,single_family,1475000,0.0,2,4,San Francisco,94121,CA,San Francisco,2033,2535.0
+105,M1340096701,single_family,1450000,0.0,2,3,San Francisco,94121,CA,San Francisco,1825,2374.0
+106,M1733422277,single_family,1839000,0.0,3,2,San Francisco,94127,CA,San Francisco,1975,6446.0
+107,M1841792889,single_family,2900000,0.0,4,4,San Francisco,94110,CA,San Francisco,2185,1613.0
+108,M1267285347,single_family,1295000,0.0,2,3,San Francisco,94112,CA,San Francisco,1425,3100.0
+109,P414532788651,single_family,999000,1.0,3,3,Dublin,94568,CA,Alameda,2589,
+110,P413622866921,single_family,1200000,1.0,3,3,Oakland,94605,CA,Alameda,3161,
+111,M1580387957,single_family,1180000,0.0,3,4,Pleasanton,94566,CA,Alameda,1950,7422.0
+112,M1899959861,single_family,1595000,0.0,3,3,Oakland,94611,CA,Alameda,2931,10318.0
+113,M2694532270,single_family,1068000,1.0,2,3,San Ramon,94582,CA,Contra Costa,1996,3293.0
+114,M1483003489,single_family,1799000,1.0,3,4,Lafayette,94549,CA,Contra Costa,2782,13000.0
+115,M1453043934,single_family,699950,0.0,1,3,San Leandro,94579,CA,Alameda,1459,5670.0
+116,M2183109641,single_family,724000,0.0,2,3,San Lorenzo,94580,CA,Alameda,1282,8512.0
+117,M2522092026,single_family,818000,0.0,2,5,Newark,94560,CA,Alameda,1312,5000.0
+118,M1673434718,single_family,850000,0.0,2,3,Castro Valley,94546,CA,Alameda,1616,5200.0
+119,M2567863713,single_family,899000,0.0,2,4,San Ramon,94583,CA,Contra Costa,1472,7300.0
+120,M1573651045,single_family,775000,0.0,2,3,Hayward,94545,CA,Alameda,1601,6798.0
+121,M1580397465,single_family,1898888,0.0,3,4,Foster City,94404,CA,San Mateo,2450,5700.0
+122,M1936486782,single_family,1950000,0.0,3,4,Fremont,94539,CA,Alameda,2843,9406.0
+123,M1355952519,single_family,399950,0.0,2,3,Richmond,94801,CA,Contra Costa,1679,5000.0
+124,M1968813688,single_family,5850000,3.0,5,6,Alamo,94507,CA,Contra Costa,8000,72745.0
+125,M2671667431,single_family,1398000,0.0,2,2,Redwood City,94063,CA,San Mateo,1490,7500.0
+126,M2049126196,single_family,12000000,1.0,5,5,Berkeley,94705,CA,Alameda,4775,62691.0
+127,M2325604517,single_family,1650000,0.0,2,4,Foster City,94404,CA,San Mateo,1830,6944.0
+128,M1380011797,single_family,1439000,1.0,2,4,Walnut Creek,94596,CA,Contra Costa,2263,22651.0
+129,M2362295909,single_family,495000,0.0,2,3,Oakland,94621,CA,Alameda,1170,4725.0
+130,M2034355371,single_family,2550000,0.0,3,4,Castro Valley,94552,CA,Alameda,3404,1172200.0
+131,M2797215107,single_family,834950,0.0,2,3,Hayward,94541,CA,Alameda,1658,5387.0
+132,M1126336778,single_family,1075000,1.0,2,4,Newark,94560,CA,Alameda,2100,4180.0
+133,M2614697893,single_family,998888,0.0,2,4,Newark,94560,CA,Alameda,1522,7000.0
+134,M1598975102,single_family,1500000,0.0,3,5,Moraga,94556,CA,Contra Costa,2205,16800.0
+135,M1468555554,single_family,1895000,1.0,3,4,San Francisco,94131,CA,San Francisco,2943,3659.0
+136,M1686403266,single_family,838888,0.0,2,3,Castro Valley,94546,CA,Alameda,1336,5900.0
+137,M1763597539,single_family,2125000,1.0,3,3,Moraga,94556,CA,Contra Costa,3003,11667.0
+138,M1092380074,single_family,810000,1.0,2,2,San Ramon,94582,CA,Contra Costa,1265,2505.0
+139,M1818695099,single_family,8995000,4.0,5,5,Orinda,94563,CA,Contra Costa,7160,88862.0
+140,M1605023557,single_family,1649800,1.0,2,4,Alamo,94507,CA,Contra Costa,3962,50965.0
+141,M2446488539,single_family,1099000,0.0,3,4,San Ramon,94583,CA,Contra Costa,2042,5850.0
+142,M1920419750,single_family,589000,0.0,2,3,Richmond,94803,CA,Contra Costa,1557,9600.0
+143,M1673938129,single_family,377000,0.0,1,3,Vallejo,94590,CA,Solano,1308,3750.0
+144,M2800081436,single_family,1000000,0.0,2,3,Berkeley,94710,CA,Alameda,1382,5300.0
+145,M2577406057,single_family,989000,1.0,3,4,San Leandro,94577,CA,Alameda,2123,10004.0
+146,M2776245754,single_family,1100000,0.0,2,3,Sunol,94586,CA,Alameda,2016,11550.0
+147,M2380458700,single_family,599950,0.0,2,3,Hayward,94542,CA,Alameda,1069,7772.0
+148,M2758963467,single_family,1399000,0.0,3,4,San Ramon,94583,CA,Contra Costa,3155,10800.0
+149,M1031646953,single_family,1279000,1.0,2,4,Pleasanton,94588,CA,Alameda,2131,3893.0
+150,M1321355081,single_family,1595000,0.0,2,2,San Francisco,94127,CA,San Francisco,2050,3149.0
+151,M1518576415,single_family,455000,1.0,1,3,Vallejo,94590,CA,Solano,1682,3899.0
+152,M2153071029,single_family,997000,0.0,2,3,El Cerrito,94530,CA,Contra Costa,2072,7200.0
+153,M2224594859,single_family,379000,0.0,1,2,Oakland,94621,CA,Alameda,969,6250.0
+154,M2858325842,single_family,1875000,1.0,2,4,Lafayette,94549,CA,Contra Costa,3613,44064.0
+155,M2781334404,single_family,1845000,1.0,3,4,Lafayette,94549,CA,Contra Costa,3219,10400.0
+156,M2445750587,single_family,1295000,0.0,2,4,Mill Valley,94941,CA,Marin,1606,15682.0
+157,M2308205999,single_family,1299999,0.0,3,5,Pleasant Hill,94523,CA,Contra Costa,2560,21998.0
+158,M2199060413,single_family,995000,0.0,2,4,Oakland,94619,CA,Alameda,1641,3136.0
+159,M2836410655,single_family,1095000,0.0,2,3,Pleasanton,94588,CA,Alameda,1519,9161.0
+160,M2780172007,single_family,1875000,0.0,2,3,Corte Madera,94925,CA,Marin,1822,6120.0
+161,M1745194402,single_family,1949000,0.0,2,5,Oakland,94618,CA,Alameda,2112,4240.0
+162,M1297519521,single_family,559000,1.0,2,3,Richmond,94801,CA,Contra Costa,1431,3969.0
+163,M1054978246,single_family,1995000,1.0,3,3,Walnut Creek,94598,CA,Contra Costa,3493,22085.0
+164,P417000453021,single_family,1179990,1.0,2,3,Dublin,94568,CA,Alameda,2654,
+165,P417000454455,single_family,1314950,1.0,3,5,Hayward,94542,CA,Alameda,3290,
+166,M2302917262,single_family,998000,0.0,3,4,San Francisco,94124,CA,San Francisco,1800,1873.0
+167,M1551949702,single_family,625000,0.0,3,4,Mill Valley,94941,CA,Marin,1938,4861.0
+168,M1817504913,single_family,998000,1.0,1,2,Daly City,94015,CA,San Mateo,1300,4329.0
+169,M2496491088,single_family,1575000,0.0,4,4,San Francisco,94112,CA,San Francisco,2015,2663.0
+170,M1309836756,single_family,3395000,0.0,4,4,San Francisco,94121,CA,San Francisco,3264,2996.0
+171,M1558864689,single_family,699950,1.0,1,3,Oakland,94605,CA,Alameda,1337,5400.0
+172,P412877259392,single_family,1099500,1.0,2,3,Oakland,94605,CA,Alameda,2903,
+173,P415087367704,single_family,969000,1.0,3,4,Dublin,94568,CA,Alameda,2405,
+174,M9990825176,single_family,850000,1.0,2,2,Oakland,94608,CA,Alameda,1280,1921.0
+175,M1505109561,single_family,2995000,1.0,4,4,Tiburon,94920,CA,Marin,2885,5502.0
+176,M1489210852,single_family,499000,1.0,2,3,Vallejo,94591,CA,Solano,1662,7692.0
+177,M2679395573,single_family,568000,0.0,1,2,Union City,94587,CA,Alameda,704,3441.0
+178,M1801535463,single_family,2795000,1.0,3,4,Mill Valley,94941,CA,Marin,4285,59242.0
+179,M2117758507,single_family,2200000,0.0,3,4,Mill Valley,94941,CA,Marin,2215,5502.0
+180,M1275275300,single_family,1125000,0.0,2,2,Redwood City,94063,CA,San Mateo,1280,3000.0
+181,M2213027254,single_family,499000,0.0,2,4,Vallejo,94590,CA,Solano,2272,6499.0
+182,M1025454509,single_family,799000,1.0,1,2,San Leandro,94577,CA,Alameda,1113,16124.0
+183,M1075687593,single_family,890000,1.0,2,3,Dublin,94568,CA,Alameda,1590,3195.0
+184,M1740040329,single_family,1600000,0.0,3,6,Alameda,94501,CA,Alameda,2597,7110.0
+185,M2774568786,single_family,899999,0.0,2,3,Pleasanton,94566,CA,Alameda,1159,6500.0
+186,M2495607313,single_family,849000,1.0,1,2,San Leandro,94577,CA,Alameda,1700,14100.0
+187,M1214328850,single_family,2099998,1.0,3,5,Fremont,94555,CA,Alameda,3202,5400.0
+188,M1931114189,single_family,1100000,0.0,2,3,Oakland,94611,CA,Alameda,1694,6776.0
+189,M1341827840,single_family,678888,0.0,4,5,Oakland,94603,CA,Alameda,1752,3525.0
+190,M1933330550,single_family,1249800,0.0,2,3,Fremont,94536,CA,Alameda,1708,6400.0
+191,M1600960683,single_family,1375000,1.0,1,2,Oakland,94618,CA,Alameda,1140,4000.0
+192,M2216276330,single_family,728000,1.0,1,3,San Lorenzo,94580,CA,Alameda,1482,5400.0
