@@ -1,0 +1,200 @@
+,property_id,prop_type,price,baths_half,baths_full,beds,city,line,postal_code,state_code,county,building_size,lot_size
+0,M1841832878,single_family,519900,1.0,2,4,Corona,534 Wrightwood Rd,92879,CA,Riverside,1959.0,7405.0
+1,M2323855249,single_family,469000,0.0,2,3,Redlands,614 Esther Way,92373,CA,San Bernardino,1326.0,8505.0
+2,M2162371434,single_family,431800,1.0,2,3,Riverside,4565 Filson St,92507,CA,Riverside,1615.0,3049.0
+3,M2669304755,single_family,509900,0.0,3,4,Ontario,3151 E Beringer Way,91761,CA,San Bernardino,2067.0,3201.0
+4,M1242163973,single_family,499000,0.0,3,4,Riverside,10334 Wells Ave,92505,CA,Riverside,3243.0,11325.0
+5,M1318186221,single_family,375000,1.0,2,4,Perris,3259 Norwood Dr,92571,CA,Riverside,2654.0,6970.0
+6,M2907026192,single_family,335000,0.0,2,3,Moreno Valley,24793 Otis Dr,92553,CA,Riverside,1490.0,7841.0
+7,M1616936064,single_family,589000,1.0,2,3,Riverside,1420 Via Vallarta,92506,CA,Riverside,2461.0,13068.0
+8,M1307118390,single_family,325000,0.0,2,4,Riverside,8586 Basswood Ave,92504,CA,Riverside,1488.0,6534.0
+9,M9617729929,single_family,435990,1.0,2,3,Eastvale,13965 Blossom Way,92880,CA,Riverside,1498.0,2178.0
+10,M2110970664,single_family,469000,0.0,2,3,Riverside,19175 Warren Rd,92508,CA,Riverside,1700.0,17860.0
+11,M1186695041,single_family,425000,1.0,2,3,Moreno Valley,26588 Sage Brush Ct,92555,CA,Riverside,2520.0,6970.0
+12,M1453876226,single_family,447000,1.0,2,4,Corona,998 Blackburn Dr,92880,CA,Riverside,2145.0,3704.0
+13,M2435543570,single_family,416500,0.0,3,4,Moreno Valley,13669 Darwin Dr,92555,CA,Riverside,2661.0,9148.0
+14,M1356551953,single_family,839000,0.0,3,3,Norco,3201 Cutting Horse Rd,92860,CA,Riverside,2660.0,40511.0
+15,M1205479644,single_family,524900,0.0,2,4,Corona,406 E Monterey Rd,92879,CA,Riverside,1888.0,7841.0
+16,M2246117820,single_family,585000,0.0,3,4,Eastvale,7426 Clementine Dr,92880,CA,Riverside,2590.0,6098.0
+17,M2715988161,single_family,550000,0.0,3,4,Fontana,17099 Nile Lily Way,92337,CA,San Bernardino,2600.0,6207.0
+18,M1295439629,single_family,439900,1.0,1,3,Corona,1031 Lorna St,92882,CA,Riverside,1025.0,6970.0
+19,M2184993084,single_family,590000,0.0,3,4,Eastvale,6817 Gertrudis Ct,92880,CA,Riverside,2512.0,10000.0
+20,M1521784740,single_family,274999,0.0,2,3,Perris,18519 Decker Rd,92570,CA,Riverside,1230.0,25265.0
+21,M1825785778,single_family,469000,0.0,2,3,Riverside,5444 Tower Rd,92506,CA,Riverside,1350.0,7405.0
+22,M1491908827,single_family,499000,0.0,2,4,Riverside,1590 Ransom Rd,92506,CA,Riverside,1847.0,16553.0
+23,M1534045235,single_family,369900,0.0,2,3,Perris,21575 Mary St,92570,CA,Riverside,1509.0,19166.0
+24,M1591357472,single_family,408000,1.0,2,3,Riverside,9213 Maywood Way,92503,CA,Riverside,1618.0,3485.0
+25,M2731436163,single_family,949990,0.0,4,4,Corona,1580 Vandagriff Way,92883,CA,Riverside,3829.0,14810.0
+26,M2891092755,single_family,453000,1.0,2,3,Riverside,17641 Morning Sun Ct,92503,CA,Riverside,1600.0,4792.0
+27,M2407805268,single_family,360000,0.0,1,1,Riverside,4426 Jurupa Ave,92506,CA,Riverside,832.0,8712.0
+28,M1602510995,single_family,649950,1.0,2,4,Corona,2975 S Buena Vista Ave,92882,CA,Riverside,3012.0,7405.0
+29,M1591394372,single_family,410000,0.0,2,3,Riverside,3405 Pickwick St,92503,CA,Riverside,1107.0,9148.0
+30,M2244508200,single_family,355000,0.0,2,4,Perris,3014 Poppy Ct,92571,CA,Riverside,1774.0,8276.0
+31,M1224573105,single_family,389900,1.0,2,3,Fontana,15527 Villa Del Rio Rd,92337,CA,San Bernardino,1398.0,3600.0
+32,M2766839511,single_family,499000,1.0,3,4,Loma Linda,26388 Keller Dr,92354,CA,San Bernardino,2215.0,3071.0
+33,M2128671987,single_family,504900,1.0,2,4,Riverside,19118 Bergamont Dr,92508,CA,Riverside,1941.0,10890.0
+34,M1328061850,single_family,369000,1.0,1,3,Riverside,4156 Goodman St,92503,CA,Riverside,1057.0,6098.0
+35,M2917044372,single_family,433000,0.0,2,3,Riverside,3543 Lillian St,92504,CA,Riverside,1580.0,9148.0
+36,M2098191594,single_family,339000,0.0,2,3,Moreno Valley,24392 Delphinium Ave,92553,CA,Riverside,1106.0,5227.0
+37,M2145841466,single_family,419000,0.0,3,5,Moreno Valley,27679 Gladstone Dr,92555,CA,Riverside,2841.0,7405.0
+38,M1586934381,single_family,825000,0.0,3,5,Norco,3398 Deputy Evans Dr,92860,CA,Riverside,3582.0,24394.0
+39,M2549814402,single_family,495000,0.0,2,3,Lake Mathews,20740 Knob Pl,92570,CA,Riverside,1631.0,90169.0
+40,M1240188757,single_family,380000,0.0,2,3,Riverside,8592 Holly Ln,92504,CA,Riverside,1119.0,6970.0
+41,M1554835260,single_family,280000,0.0,1,2,Colton,440 Walters St,92324,CA,San Bernardino,1015.0,7405.0
+42,M2672816836,single_family,435000,1.0,2,4,Riverside,5531 Applecross Dr,92507,CA,Riverside,1656.0,9583.0
+43,M2491807440,single_family,688000,0.0,4,6,Eastvale,8018 Tisdale St,92880,CA,Riverside,3585.0,6970.0
+44,M2502713399,single_family,350000,0.0,2,3,Moreno Valley,25245 Wendy Way,92551,CA,Riverside,1227.0,3920.0
+45,M2839304467,single_family,510000,0.0,2,3,Corona,3463 Braemar Ln,92882,CA,Riverside,1607.0,7405.0
+46,M2813121031,single_family,375000,0.0,3,4,Jurupa Valley,4354 Riverbend Ln,92509,CA,Riverside,1580.0,7405.0
+47,M2102545412,single_family,508880,0.0,3,4,Corona,1852 Majestic Dr,92880,CA,Riverside,1753.0,4792.0
+48,M1329826431,single_family,598000,1.0,2,5,Eastvale,13968 Agate Ct,92880,CA,Riverside,2354.0,13068.0
+49,M2454103019,single_family,620000,0.0,3,4,Corona,2770 Peachwood Cir,92882,CA,Riverside,2563.0,7405.0
+50,M2756817632,single_family,350000,1.0,2,4,Perris,1080 Harrier St,92571,CA,Riverside,2327.0,5663.0
+51,M1951773706,single_family,378500,1.0,2,5,Moreno Valley,12545 Broadleaf Ln,92553,CA,Riverside,2141.0,7405.0
+52,M2672281661,single_family,360000,0.0,1,3,Riverside,4337 Saint George Pl,92504,CA,Riverside,957.0,9148.0
+53,M1314299345,single_family,489500,0.0,3,3,Riverside,7955 Milligan Dr,92506,CA,Riverside,2000.0,20473.0
+54,M2060135547,single_family,359900,1.0,2,4,Rialto,331 E Vodden St,92376,CA,San Bernardino,1703.0,4500.0
+55,M2535446348,single_family,599988,1.0,2,5,Corona,3340 Shooting Star Ln,92882,CA,Riverside,2872.0,10890.0
+56,M2510484311,single_family,400000,0.0,2,5,Riverside,5199 Dunwood St,92509,CA,Riverside,1800.0,13504.0
+57,M1199540966,single_family,450000,0.0,2,4,Perris,21775 Burch St,92570,CA,Riverside,2093.0,18731.0
+58,M2523194077,single_family,669900,0.0,3,5,Corona,1000 Trailview Ln,92881,CA,Riverside,2940.0,10890.0
+59,M2141904545,single_family,302900,0.0,2,3,Moreno Valley,14579 Perham Dr,92553,CA,Riverside,1000.0,4792.0
+60,M2898586358,single_family,399000,0.0,2,4,Moreno Valley,13233 Sunlit Ct,92553,CA,Riverside,1925.0,8276.0
+61,M2067664520,single_family,330000,1.0,2,3,Perris,1401 Alta Palma Rd,92571,CA,Riverside,1527.0,3920.0
+62,M2008586109,single_family,749000,1.0,3,4,Riverside,1191 Pamplona Dr,92508,CA,Riverside,3806.0,22216.0
+63,M1045312549,single_family,380000,0.0,2,3,Fontana,14427 El Contento Ave,92337,CA,San Bernardino,1044.0,3600.0
+64,M2257056307,single_family,335000,0.0,2,3,Moreno Valley,24792 Otis Dr,92553,CA,Riverside,1490.0,7840.0
+65,M1571576717,single_family,639000,1.0,3,4,Jurupa Valley,5431 Golf St,92509,CA,Riverside,2746.0,34848.0
+66,M2896647306,single_family,309000,1.0,2,3,San Bernardino,1454 Sycamore Ln,92408,CA,San Bernardino,1274.0,3150.0
+67,M1765922000,single_family,565000,0.0,3,4,Eastvale,5810 Redhaven St,92880,CA,Riverside,2985.0,7405.0
+68,M2011903267,single_family,359000,0.0,2,3,Riverside,8956 Alabama St,92503,CA,Riverside,1123.0,5663.0
+69,M2915560093,single_family,315000,0.0,2,3,Moreno Valley,15449 Camino Grande,92551,CA,Riverside,1152.0,7405.0
+70,M1014334401,single_family,449000,1.0,2,3,Moreno Valley,28402 Championship Dr,92555,CA,Riverside,3284.0,7841.0
+71,M2715909257,single_family,439500,0.0,3,4,Moreno Valley,15516 Hammett Ct,92555,CA,Riverside,2940.0,13939.0
+72,M1468144528,single_family,299000,0.0,1,2,Riverside,3332 Spruce St,92501,CA,Riverside,864.0,6970.0
+73,M2660091693,single_family,610000,0.0,2,3,Eastvale,8677 Vienna Dr,92880,CA,Riverside,2605.0,10019.0
+74,M2750451088,single_family,600000,0.0,3,5,Riverside,16599 Lake Knoll Pkwy,92503,CA,Riverside,2627.0,11326.0
+75,M2544708968,single_family,505000,0.0,2,3,Perris,15835 Yribe Rd,92570,CA,Riverside,2175.0,90169.0
+76,M2747954270,single_family,388000,1.0,2,4,Riverside,3006 Edwards Pl,92503,CA,Riverside,1945.0,10454.0
+77,M1786573783,single_family,330000,0.0,2,3,Moreno Valley,13329 Burney Pass Dr,92555,CA,Riverside,1322.0,7405.0
+78,M2631337763,single_family,329900,0.0,1,2,Riverside,7809 Mission Blvd,92509,CA,Riverside,754.0,13504.0
+79,M1057660171,single_family,470000,0.0,2,3,Riverside,7533 Live Oak Dr,92509,CA,Riverside,1268.0,23958.0
+80,M1040443306,single_family,469900,0.0,3,4,Jurupa Valley,6600 Avenue Juan Diaz,92509,CA,Riverside,2286.0,8276.0
+81,M2752899267,single_family,475000,0.0,2,4,Riverside,6795 30th St,92509,CA,Riverside,1534.0,11761.0
+82,M2090421108,single_family,529800,0.0,3,5,Jurupa Valley,4930 Carl Ct,91752,CA,Riverside,2463.0,8712.0
+83,M2376071682,single_family,574999,0.0,3,6,Riverside,5180 Park Cliff Ct,92504,CA,Riverside,3126.0,9583.0
+84,M2639897557,single_family,437500,0.0,1,3,Riverside,4876 Beatty Dr,92506,CA,Riverside,1731.0,2442.0
+85,M2611384401,single_family,415000,1.0,2,3,Colton,2033 Mesquite Ln,92324,CA,San Bernardino,1568.0,19602.0
+86,M1320433704,single_family,410000,0.0,2,3,Riverside,10061 Singleton Way,92503,CA,Riverside,4623.0,174240.0
+87,M2175176734,single_family,1990000,2.0,4,7,Norco,3079 Temescal Ave,92860,CA,Riverside,3214.0,9583.0
+88,M1701132973,single_family,649900,0.0,3,4,Corona,2480 Maverick Cir,92881,CA,Riverside,896.0,6534.0
+89,M2670082971,single_family,339999,0.0,1,2,Riverside,4242 Via San Jose,92504,CA,Riverside,1308.0,3485.0
+90,M1911150680,single_family,339000,1.0,2,3,Moreno Valley,23536 Woodlander Way,92557,CA,Riverside,1088.0,8276.0
+91,M1349527033,single_family,375000,1.0,1,3,Riverside,3919 Roblyn St,92504,CA,Riverside,2813.0,6534.0
+92,M1812314122,single_family,529000,0.0,3,5,Jurupa Valley,7841 Jude St,92509,CA,Riverside,3106.0,21780.0
+93,M2442481486,single_family,519999,0.0,3,6,Perris,19258 Bridlewood Rd,92570,CA,Riverside,1107.0,6970.0
+94,M1429240963,single_family,320000,0.0,2,3,Moreno Valley,24679 Delphinium Ave,92553,CA,Riverside,2033.0,2614.0
+95,M2333820846,single_family,465000,1.0,2,3,Riverside,6141 Grapevine Way,92504,CA,Riverside,3615.0,16117.0
+96,M2614113038,single_family,689900,1.0,3,5,Riverside,13746 Sweet Ave,92503,CA,Riverside,1853.0,4792.0
+97,M2056003399,single_family,465000,0.0,3,4,Riverside,19943 Silvercrest Ln,92508,CA,Riverside,4236.0,8712.0
+98,M1989518358,single_family,719000,1.0,3,5,Eastvale,14176 Bay Cir,92880,CA,Riverside,2900.0,22216.0
+99,M2894620669,single_family,775000,1.0,2,4,Riverside,1231 Pamplona Dr,92508,CA,Riverside,1044.0,3920.0
+100,M1129896089,single_family,289900,0.0,2,2,Perris,140 Appletree Dr,92571,CA,Riverside,2360.0,43560.0
+101,M2325693876,single_family,679000,0.0,3,5,Norco,2220 Norco Dr,92860,CA,Riverside,1323.0,3049.0
+102,M1956947375,single_family,437000,1.0,2,3,Corona,941 Pinecone Dr,92880,CA,Riverside,1622.0,7405.0
+103,M2571388234,single_family,435000,0.0,2,4,Riverside,12707 Harlow Ave,92503,CA,Riverside,2334.0,4792.0
+104,M2057464013,single_family,569000,1.0,2,4,Eastvale,14470 Symphony Dr,92880,CA,Riverside,1176.0,6970.0
+105,M2112837110,single_family,299000,0.0,2,3,Moreno Valley,24856 Ramona Ln,92553,CA,Riverside,1026.0,19166.0
+106,M1669097011,single_family,240000,0.0,1,3,Perris,20091 Myron St,92570,CA,Riverside,1728.0,4356.0
+107,M2081381505,single_family,455000,1.0,2,4,Riverside,5140 Melbourne Pl,92508,CA,Riverside,2820.0,4020.0
+108,M2059290044,single_family,599900,1.0,3,5,Eastvale,14268 Ballad Dr,92880,CA,Riverside,1786.0,9148.0
+109,M1102043909,single_family,425000,0.0,2,3,Riverside,5971 Deerfield Rd,92504,CA,Riverside,2119.0,20473.0
+110,M2035466715,single_family,645000,0.0,2,4,Norco,2160 Santa Anita Rd,92860,CA,Riverside,1129.0,5663.0
+111,M1831140701,single_family,350000,0.0,2,3,Moreno Valley,22881 Springdale Dr,92557,CA,Riverside,1740.0,7405.0
+112,M2952294805,single_family,524900,0.0,2,4,Corona,1718 Merrywood Ln,92882,CA,Riverside,1885.0,5346.0
+113,M2071281577,single_family,519900,1.0,2,4,Corona,3352 Kentucky Ln,92882,CA,Riverside,1141.0,7841.0
+114,M1149893379,single_family,349888,0.0,2,3,Riverside,6663 Rexford Dr,92504,CA,Riverside,1088.0,6970.0
+115,M1362756442,single_family,319990,1.0,1,3,Riverside,8672 Garfield St,92504,CA,Riverside,936.0,10019.0
+116,M2044230510,single_family,250000,0.0,1,3,Moreno Valley,12820 Mead Ct,92553,CA,Riverside,1507.0,7405.0
+117,M2168847821,single_family,330000,0.0,2,4,Moreno Valley,24324 Finley Dr,92553,CA,Riverside,1500.0,6970.0
+118,M1003538650,single_family,174900,0.0,2,2,Riverside,9410 Indiana Ave,92503,CA,Riverside,1218.0,7405.0
+119,M2642804301,single_family,417000,0.0,1,3,Riverside,4640 Sierra St,92504,CA,Riverside,1027.0,6098.0
+120,M1075871844,single_family,379900,0.0,2,3,Riverside,3526 Ross St,92503,CA,Riverside,2336.0,3881.0
+121,M1933545980,single_family,525000,0.0,3,4,Ontario,5090 S Centennial Cir,91762,CA,San Bernardino,1428.0,8080.0
+122,M2222400907,single_family,385000,0.0,2,4,Grand Terrace,12440 Warbler Ave,92313,CA,San Bernardino,968.0,3920.0
+123,M2856174567,single_family,370000,0.0,2,3,Corona,2355 Weatherwood Rd,92879,CA,Riverside,1580.0,8276.0
+124,M1366718005,single_family,399999,0.0,2,3,Riverside,5795 Jones Ave,92505,CA,Riverside,1843.0,7405.0
+125,M2091701023,single_family,549000,0.0,3,4,Corona,1239 Cornerstone Way,92880,CA,Riverside,1102.0,4500.0
+126,M1229529475,single_family,355000,0.0,2,3,Fontana,11339 Cherimoya Cir,92337,CA,San Bernardino,2390.0,7405.0
+127,M2919460910,single_family,568000,0.0,3,4,Eastvale,13687 Hunters Run Ct,92880,CA,Riverside,1630.0,7405.0
+128,M2427324398,single_family,355000,1.0,2,4,Moreno Valley,25568 Vista Famoso Dr,92551,CA,Riverside,2661.0,9148.0
+129,M2433009486,single_family,425000,0.0,3,4,Moreno Valley,13639 Sydney Ave,92555,CA,Riverside,3046.0,6970.0
+130,M2066143066,single_family,440000,0.0,3,5,Perris,1954 Tupelo Way,92571,CA,Riverside,2085.0,2500.0
+131,M9602967347,single_family,405500,1.0,3,4,Jurupa Valley,7333 Hawkeye Ridge Rd,92509,CA,Riverside,2246.0,8712.0
+132,M1255232826,single_family,539000,1.0,2,4,Riverside,9559 Calle Del Casa,92503,CA,Riverside,2900.0,4250.0
+133,M9153827331,single_family,660000,0.0,4,5,Ontario,4884 S Bountiful Trl,91762,CA,San Bernardino,1697.0,8276.0
+134,M2001970931,single_family,369900,0.0,3,4,Moreno Valley,13826 Cumin St,92553,CA,Riverside,2989.0,6695.0
+135,M2691775967,single_family,578888,1.0,2,4,Fontana,15755 Pecan Ln,92337,CA,San Bernardino,2650.0,7405.0
+136,M2851825150,single_family,509000,1.0,2,4,Riverside,8564 Alexandria St,92508,CA,Riverside,1800.0,4792.0
+137,M2994058064,single_family,450000,1.0,2,4,Riverside,8730 Northstar Dr,92508,CA,Riverside,1284.0,8276.0
+138,M1931687363,single_family,325000,0.0,2,3,Moreno Valley,12987 Tamara Dr,92553,CA,Riverside,1476.0,8276.0
+139,M2021793263,single_family,429900,0.0,2,3,Riverside,9099 Mandarin Ln,92508,CA,Riverside,1619.0,15682.0
+140,M2116732364,single_family,474800,0.0,2,4,Jurupa Valley,6629 Smith Ave,91752,CA,Riverside,1870.0,5227.0
+141,M2864969329,single_family,499900,1.0,2,3,Corona,2941 Brunswick Cir,92879,CA,Riverside,1745.0,10019.0
+142,M2541478203,single_family,439999,0.0,2,3,Riverside,6402 Estes Ct,92506,CA,Riverside,1841.0,7841.0
+143,M1765624026,single_family,489900,0.0,2,4,Corona,1492 Del Norte Dr,92879,CA,Riverside,2524.0,5227.0
+144,M1460705860,single_family,409900,1.0,2,4,Moreno Valley,16485 Zarco Luna Pl,92551,CA,Riverside,1749.0,22216.0
+145,M2226890490,single_family,565000,0.0,2,4,Jurupa Valley,5827 Lucretia Ave,91752,CA,Riverside,1756.0,28314.0
+146,M1577136037,single_family,515000,0.0,3,4,Riverside,4520 Watkins Dr,92507,CA,Riverside,2390.0,7405.0
+147,M1050095031,single_family,580000,0.0,3,4,Eastvale,13618 Sagemont Ct,92880,CA,Riverside,2371.0,7700.0
+148,M1236587259,single_family,569800,0.0,3,5,Loma Linda,11536 Laurel Ave,92354,CA,San Bernardino,1217.0,4792.0
+149,M1231967505,single_family,305000,0.0,2,3,Perris,2772 Genuine Risk St,92571,CA,Riverside,924.0,11326.0
+150,M1348644023,single_family,329900,0.0,1,2,Riverside,5585 Mitchell Ave,92505,CA,Riverside,2194.0,10019.0
+151,M2799578972,single_family,595000,0.0,3,4,Corona,1592 San Almada Rd,92882,CA,Riverside,2572.0,6534.0
+152,M1337836929,single_family,415000,1.0,2,4,Moreno Valley,16081 Via Ultimo,92551,CA,Riverside,1350.0,8276.0
+153,M1266051322,single_family,405000,0.0,2,3,Riverside,9060 Hope Ave,92503,CA,Riverside,2754.0,8712.0
+154,M1089922695,single_family,569900,0.0,2,3,Riverside,17094 Noble View Cir,92503,CA,Riverside,1653.0,9583.0
+155,M1334084411,single_family,485000,0.0,2,4,Corona,800 Alder St,92879,CA,Riverside,1235.0,11326.0
+156,M2940481501,single_family,549900,0.0,2,3,Corona,1728 Bluebird Ln,92882,CA,Riverside,1024.0,3485.0
+157,M1916069784,single_family,295000,0.0,2,3,Moreno Valley,11844 Bayless St,92557,CA,Riverside,2004.0,7841.0
+158,M1640789416,single_family,399900,0.0,3,4,Moreno Valley,24609 Peppermill Dr,92557,CA,Riverside,3125.0,8276.0
+159,M1786071838,single_family,639900,0.0,3,4,Eastvale,14232 Sunny Brook Ln,92880,CA,Riverside,2544.0,9148.0
+160,M1570052359,single_family,594999,1.0,2,5,Corona,600 Avenida Del Sol,92882,CA,Riverside,1985.0,4356.0
+161,M1873922003,single_family,450000,0.0,3,4,Riverside,5904 Matheson Dr,92507,CA,Riverside,1772.0,7841.0
+162,M2569502192,single_family,439000,0.0,2,4,Riverside,6737 Mount Whitney Ave,92506,CA,Riverside,2347.0,10454.0
+163,M2800984255,single_family,440000,0.0,3,3,Moreno Valley,21366 Greyson Rd,92557,CA,Riverside,2623.0,21780.0
+164,M2705871727,single_family,629000,1.0,2,3,Riverside,5932 Speyside Rd,92507,CA,Riverside,1507.0,7405.0
+165,M2162028154,single_family,304999,0.0,2,4,Moreno Valley,24292 Finley Dr,92553,CA,Riverside,1060.0,5663.0
+166,M1384869667,single_family,289900,0.0,2,3,Moreno Valley,16428 Hazelwood Ct,92551,CA,Riverside,1060.0,7405.0
+167,M2020939295,single_family,300000,0.0,2,3,Moreno Valley,25704 Dandelion Ct,92553,CA,Riverside,1988.0,54450.0
+168,M1662314609,single_family,549000,0.0,2,3,Perris,18141 Birch St,92570,CA,Riverside,1542.0,2410.0
+169,M2703774896,single_family,349990,1.0,2,3,Moreno Valley,27455 Moonstone Pl,92555,CA,Riverside,1772.0,30492.0
+170,M1345625481,single_family,465000,0.0,2,3,Riverside,10500 Campbell Ave,92505,CA,Riverside,980.0,10019.0
+171,M1467101081,single_family,375000,0.0,1,3,Riverside,1402 Powell Way,92501,CA,Riverside,3173.0,7841.0
+172,M1784217132,single_family,665000,0.0,3,4,Eastvale,12531 Lakeshore St,91752,CA,Riverside,1283.0,5227.0
+173,M2622806369,single_family,320000,0.0,2,3,Perris,1506 Palma Bonita Ln,92571,CA,Riverside,4057.0,10019.0
+174,M1777176314,single_family,749990,0.0,4,6,Corona,266 Villafranca St,92879,CA,Riverside,1365.0,2000.0
+175,M9897210739,single_family,399990,1.0,2,3,Corona,3827 Grant St Unit 54,92879,CA,Riverside,2128.0,7841.0
+176,M1214088076,single_family,489450,0.0,2,4,Corona,374 W Mission Rd,92882,CA,Riverside,1300.0,7405.0
+177,M1919449397,single_family,325000,0.0,2,2,Moreno Valley,12550 Indian St,92553,CA,Riverside,1890.0,7405.0
+178,M2290185730,single_family,375000,0.0,2,4,Moreno Valley,25529 Brodiaea Ave,92553,CA,Riverside,1085.0,7405.0
+179,M2926573081,single_family,325000,0.0,2,2,Moreno Valley,13649 Plato Dr,92553,CA,Riverside,1015.0,7150.0
+180,M1571828529,single_family,275500,0.0,1,3,Colton,2141 Monroe St,92324,CA,San Bernardino,1975.0,5663.0
+181,M2995626872,single_family,379900,1.0,2,3,Moreno Valley,28151 Belleterre Ave,92555,CA,Riverside,2389.0,6589.0
+182,M1185689011,single_family,648966,0.0,3,4,Chino,16215 Retreat Ct,91708,CA,San Bernardino,1852.0,62726.0
+183,M2109032835,single_family,599500,0.0,2,3,Riverside,17120 Cole Ave,92508,CA,Riverside,2285.0,3920.0
+184,M2018622539,single_family,380000,0.0,3,5,Perris,293 Flame Ave,92571,CA,Riverside,2505.0,39204.0
+185,M2356143300,single_family,595000,0.0,3,4,Riverside,16206 Porter Ave,92504,CA,Riverside,4414.0,31363.0
+186,M1263207738,single_family,999999,0.0,3,4,Riverside,2081 Westminster Dr,92506,CA,Riverside,4466.0,28314.0
+187,M1345118279,single_family,1068000,1.0,4,5,Riverside,1987 Sycamore Hill Dr,92506,CA,Riverside,1380.0,7841.0
+188,M1121410826,single_family,449900,0.0,2,3,Riverside,2739 Adelaide Ct,92506,CA,Riverside,1709.0,4792.0
+189,M1823203056,single_family,354900,1.0,2,3,Moreno Valley,23915 Lone Pine Dr,92557,CA,Riverside,1283.0,15682.0
+190,M1351375809,single_family,389900,0.0,2,2,Corona,1019 Rimpau Ave,92879,CA,Riverside,2550.0,4045.0
+191,M2317606309,single_family,450000,1.0,2,4,Loma Linda,26412 Santa Andrea St,92354,CA,San Bernardino,2040.0,5227.0
+192,M2105750283,single_family,550000,1.0,2,3,Corona,1833 Providence Way,92880,CA,Riverside,2131.0,3920.0
+193,M2773501189,single_family,349000,1.0,2,3,Perris,1479 Avila Dr,92571,CA,Riverside,1204.0,3485.0
+194,M1991275297,single_family,309999,0.0,2,3,Perris,1502 Portrait Rd,92571,CA,Riverside,3640.0,9148.0
+195,M2151552417,single_family,638000,0.0,3,5,Corona,2410 Lenai Cir,92879,CA,Riverside,3683.0,56235.0
+196,M9403328876,single_family,969900,0.0,4,4,Riverside,925 Bradley St,92506,CA,Riverside,1428.0,6970.0
+197,M1337639197,single_family,429900,0.0,2,4,Riverside,8363 Basswood Ave,92504,CA,Riverside,3931.0,9583.0
+198,M1752314153,single_family,719000,1.0,2,4,Corona,438 Leah Naomi Dr,92882,CA,Riverside,1530.0,4356.0
