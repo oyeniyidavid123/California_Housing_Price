@@ -1,0 +1,543 @@
+,Unnamed: 0,property_id,prop_type,price,baths_half,baths_full,beds,city,line,postal_code,state_code,county,building_size
+0,0,M1515003042,condo,425000,0.0,2,2,San Diego,5750 Friars Rd Apt 207,92110,CA,San Diego,1139
+1,1,M2708613173,condo,509000,0.0,2,2,San Diego,4914 Haight Ter,92123,CA,San Diego,1232
+2,2,M1480199800,condo,325000,0.0,1,1,San Diego,2835 C St Unit 7,92102,CA,San Diego,544
+3,3,M9693066790,condo,749000,0.0,2,2,La Jolla,5370 LA Jolla Blvd Unit 105B,92037,CA,San Diego,1466
+4,4,M1025863457,condo,619900,1.0,2,2,San Diego,3955 Nobel Dr Unit 194,92122,CA,San Diego,1100
+5,5,M1131363340,condo,199800,0.0,1,1,San Diego,4860 Rolando Ct Unit 65,92115,CA,San Diego,578
+6,6,M2855209504,condo,418000,0.0,1,2,San Diego,3664 Clairemont Dr Unit 1C,92117,CA,San Diego,840
+7,7,M2581894630,condo,695000,1.0,2,2,San Diego,4057 1st Ave Unit 105,92103,CA,San Diego,1617
+8,8,M2286429420,condo,735000,0.0,2,2,La Jolla,4155 Executive Dr Unit E409,92037,CA,San Diego,1102
+9,9,M2973243920,condo,399000,0.0,1,1,San Diego,425 W Beech St Unit 436,92101,CA,San Diego,749
+10,10,M1955518704,condo,849000,1.0,2,2,La Jolla,6413 Caminito Aronimink,92037,CA,San Diego,1604
+11,11,M1978929267,condo,1925000,1.0,2,3,San Diego,1150 Anchorage Ln Unit 612,92106,CA,San Diego,2208
+12,12,M1446051480,condo,648000,0.0,1,2,La Jolla,7514 Girard Ave Apt A,92037,CA,San Diego,624
+13,13,M2655591012,condo,849999,1.0,2,3,San Diego,10620 Canyon Grove Trl Unit 9,92130,CA,San Diego,1636
+14,14,M2501344862,condo,309900,0.0,1,1,San Diego,4099 Huerfano Ave Unit 111,92117,CA,San Diego,600
+15,15,M1515340942,condo,559000,0.0,2,3,San Diego,5805 Friars Rd Apt 2302,92110,CA,San Diego,1430
+16,16,M1755144775,condo,239000,0.0,1,0,San Diego,1337 Caminito Gabaldon Unit H,92108,CA,San Diego,506
+17,17,M1399343066,condo,729888,1.0,2,3,San Diego,15947 Parkview Loop,92127,CA,San Diego,1628
+18,18,M1962637108,condo,765000,1.0,3,3,San Diego,7940 Modern Oasis Dr,92108,CA,San Diego,1760
+19,19,M1480139636,condo,490000,0.0,1,1,San Diego,1150 J St Unit 822,92101,CA,San Diego,994
+20,20,M2244714829,condo,649999,0.0,2,2,San Diego,1970 Columbia St Unit 506,92101,CA,San Diego,1064
+21,21,M1556889961,condo,329000,0.0,1,2,San Diego,1124 Eureka St Apt 24,92110,CA,San Diego,850
+22,22,M2551762746,condo,945000,1.0,1,2,San Diego,3920 Riviera Dr Unit S,92109,CA,San Diego,1100
+23,23,M2245886827,condo,324900,1.0,1,2,San Diego,6765 Amherst St Unit D,92115,CA,San Diego,1097
+24,24,M1818108840,condo,729500,0.0,2,2,San Diego,1199 Pacific Hwy Unit 404,92101,CA,San Diego,1336
+25,25,M2038792675,condo,849000,1.0,2,4,San Diego,16039 Veridian Cir,92127,CA,San Diego,2086
+26,26,M1415318450,condo,375000,0.0,1,0,San Diego,120 Island Ave Unit 442,92101,CA,San Diego,699
+27,27,M1775158391,condo,180000,0.0,1,0,San Diego,6101 Adelaide Ave Unit 113,92115,CA,San Diego,299
+28,28,M2328927054,condo,429900,0.0,1,1,San Diego,1431 Pacific Hwy Unit 202,92101,CA,San Diego,615
+29,29,M1253007201,condo,389900,0.0,1,1,San Diego,253 10th Ave Unit 229,92101,CA,San Diego,832
+30,30,M1271507373,condo,650000,0.0,2,2,San Diego,2148 Drescher St,92111,CA,San Diego,1248
+31,31,M1812802064,condo,774999,0.0,2,2,San Diego,8377 Distinctive Dr,92108,CA,San Diego,1454
+32,32,M2106786209,condo,299000,0.0,1,1,San Diego,3940 Dove St Unit 209,92103,CA,San Diego,597
+33,33,M1621899435,condo,315000,1.0,1,3,San Ysidro,1580 Monterey Pine Dr Unit D,92173,CA,San Diego,978
+34,34,M1389528613,condo,289000,0.0,1,1,San Diego,6255 Rancho Mission Rd Unit 301,92108,CA,San Diego,675
+35,35,M2962731440,condo,340000,0.0,2,2,San Diego,3259 Bramson Pl Unit 105,92104,CA,San Diego,956
+36,36,M1249765248,condo,319900,0.0,1,0,San Diego,840 Turquoise St Unit 216,92109,CA,San Diego,460
+37,37,M2478380847,condo,719000,1.0,2,2,San Diego,3740 Park Blvd Apt 115,92103,CA,San Diego,1318
+38,38,M2369201604,condo,290000,0.0,2,2,San Diego,4080 Van Dyke Ave Apt 4,92105,CA,San Diego,780
+39,39,M2002504729,condo,425000,1.0,2,3,San Diego,4114 Collwood Ln,92115,CA,San Diego,2099
+40,40,M2969604575,condo,715000,0.0,2,2,San Diego,2909 1st Ave Unit 2C,92103,CA,San Diego,1233
+41,41,M1367307808,condo,449500,0.0,1,1,San Diego,12360 Carmel Country Rd Unit 305B,92130,CA,San Diego,800
+42,42,M1537253317,condo,420000,1.0,1,2,San Diego,7962 Mission Center Ct Unit I,92108,CA,San Diego,1026
+43,43,M9337165371,condo,1600000,1.0,2,3,San Diego,2750 4th Ave Unit 401,92103,CA,San Diego,2093
+44,44,M1276905891,condo,1269000,0.0,2,2,La Jolla,101 Coast Blvd Unit 4C,92037,CA,San Diego,1664
+45,45,M1317135439,condo,424000,0.0,2,2,San Diego,13250 Wimberly Sq Unit 205,92128,CA,San Diego,907
+46,46,M1396778688,condo,569900,1.0,2,2,San Diego,10435 Whitcomb Way Unit 138,92127,CA,San Diego,1484
+47,47,M2481271664,condo,895000,1.0,2,3,San Diego,5027 Santa Monica Ave Apt B,92107,CA,San Diego,1371
+48,48,M1879318045,condo,464900,1.0,2,3,San Diego,4464 Ocean View Blvd Unit 2,92113,CA,San Diego,1460
+49,49,M1380900615,condo,245000,0.0,1,1,San Diego,10240 Black Mountain Rd Apt 109,92126,CA,San Diego,525
+50,50,M2697530667,condo,799999,0.0,2,2,San Diego,1050 Island Ave Unit 705,92101,CA,San Diego,1274
+51,51,M2660297252,condo,430000,1.0,1,2,San Diego,2676 Worden St Unit 61,92110,CA,San Diego,976
+52,52,M2186572592,condo,425000,0.0,1,1,San Diego,1250 Cleveland Ave Unit F105,92103,CA,San Diego,732
+53,53,M2362668722,condo,445000,0.0,2,2,San Diego,9916 Scripps Westview Way Unit 166,92131,CA,San Diego,1052
+54,54,M2779664804,condo,325000,0.0,1,0,San Diego,1080 Park Blvd Unit 1303,92101,CA,San Diego,618
+55,55,M1591065338,condo,375000,0.0,2,2,San Diego,4055 36th St Unit 7,92104,CA,San Diego,880
+56,56,M1188828615,condo,749500,0.0,2,2,La Jolla,7509 Draper Ave Unit 209,92037,CA,San Diego,1000
+57,57,M9545654897,condo,474900,1.0,2,3,San Diego,5140 Calle Sand Arch Unit 61,92154,CA,San Diego,1643
+58,58,M9351820706,condo,855000,0.0,3,3,San Diego,2739 Via Alta Pl Unit 56,92108,CA,San Diego,2015
+59,59,M2026092632,condo,549000,0.0,2,2,San Diego,7405 Charmant Dr Unit 2420,92122,CA,San Diego,1037
+60,60,M9165921405,condo,699550,0.0,2,2,San Diego,2936 Via Alta Pl Unit 51,92108,CA,San Diego,1401
+61,61,M2153126698,condo,725000,1.0,2,3,San Diego,2735 Matera Ln,92108,CA,San Diego,1597
+62,62,M1646913137,condo,359900,0.0,1,2,San Diego,10452 Caminito Sulmona,92129,CA,San Diego,882
+63,63,M1693681895,condo,465000,1.0,1,3,San Diego,11092 Via San Marco,92129,CA,San Diego,1218
+64,64,M2554547880,condo,859900,1.0,2,2,San Diego,1159 Pacific Beach Dr,92109,CA,San Diego,1514
+65,65,M2089836534,condo,435000,0.0,1,1,La Jolla,8352 Via Sonoma Unit F,92037,CA,San Diego,636
+66,66,M2230732734,condo,629950,0.0,2,2,San Diego,1250 Cleveland Ave Unit 324,92103,CA,San Diego,1085
+67,67,M2216918442,condo,515000,0.0,2,2,San Diego,4859 Bella Pacific Row Unit 130,92109,CA,San Diego,1094
+68,68,M2045248796,condo,579000,0.0,2,2,San Diego,12017 Tivoli Park Row Unit 5,92128,CA,San Diego,1341
+69,69,M1434160495,condo,229900,0.0,2,2,San Diego,4041 Oakcrest Dr Unit 308,92105,CA,San Diego,900
+70,70,M2229459331,condo,499999,0.0,1,1,San Diego,575 6th Ave Unit 212,92101,CA,San Diego,1076
+71,71,M1897806690,condo,786900,0.0,2,2,San Diego,575 6th Ave Unit 1604,92101,CA,San Diego,1144
+72,72,M2289432922,condo,559000,0.0,2,2,San Diego,4155 Porte De Palmas Unit 197,92122,CA,San Diego,1004
+73,73,M2203223404,condo,249900,0.0,1,0,San Diego,1375 Caminito Gabaldon Unit D,92108,CA,San Diego,506
+74,74,M1452953903,condo,375000,0.0,2,2,San Diego,6353 Avenida De Las Vistas Unit 6,92154,CA,San Diego,1141
+75,75,M1253402454,condo,669000,0.0,2,3,San Diego,3969 Mahaila Ave Unit 113,92122,CA,San Diego,1376
+76,76,M2047593371,condo,529000,1.0,2,4,San Diego,10529 Caminito Memosac,92131,CA,San Diego,1694
+77,77,M1437272614,condo,650000,1.0,2,2,San Diego,3890 Nobel Dr Units 707 & 708,92122,CA,San Diego,1812
+78,78,M2710606275,condo,285000,0.0,1,0,San Diego,4477 Mentone St Unit 105,92107,CA,San Diego,435
+79,79,M1998258216,condo,549900,0.0,2,2,San Diego,700 W E St Unit 101,92101,CA,San Diego,1041
+80,80,M1396168280,condo,475000,0.0,2,2,San Diego,3890 Nobel Dr Unit 503,92122,CA,San Diego,1153
+81,81,M1684118396,condo,554900,1.0,2,3,San Diego,7436 Caminito Carlotta,92120,CA,San Diego,1659
+82,82,M2328805322,condo,179900,0.0,1,1,San Diego,4260 44th St Apt 215,92115,CA,San Diego,462
+83,83,M1815641768,condo,499000,0.0,1,1,San Diego,2400 5th Ave Unit 332,92101,CA,San Diego,734
+84,84,M1525366153,condo,485000,1.0,2,2,San Diego,9930 Scripps Vista Way Unit 152,92131,CA,San Diego,1116
+85,85,M1639101779,condo,245000,0.0,1,2,San Diego,1679 Pentecost Way Unit 6,92105,CA,San Diego,813
+86,86,M1714063186,condo,520000,0.0,2,2,San Diego,4020 Porte La Paz Unit 104,92122,CA,San Diego,1086
+87,87,M9326654256,condo,799000,0.0,3,3,San Diego,2870 Via Alta Pl Unit 68,92108,CA,San Diego,1515
+88,88,M2784546702,condo,369999,0.0,1,1,San Diego,6140 Calle Mariselda Unit 202,92124,CA,San Diego,815
+89,89,M2844261723,condo,999000,0.0,3,4,San Diego,15520 Paseo Del Sur,92127,CA,San Diego,2596
+90,90,M2796280707,condo,749900,1.0,2,3,San Diego,3641 Caminito Carmel Lndg,92130,CA,San Diego,1368
+91,91,M2260549706,condo,425000,0.0,3,3,San Diego,1346 Starry Way,92154,CA,San Diego,1428
+92,92,M2058772602,condo,325000,0.0,2,2,San Diego,7855 Cowles Mountain Ct Unit A11,92119,CA,San Diego,1048
+93,93,M1206289771,condo,359000,0.0,1,1,San Diego,1080 Park Blvd Unit 1510,92101,CA,San Diego,790
+94,94,M1094145850,condo,599000,1.0,2,2,San Diego,12608 Carmel Country Rd Unit 25,92130,CA,San Diego,1191
+95,95,M1237148174,condo,435000,0.0,2,3,San Diego,2012 Coolidge St Apt 93,92111,CA,San Diego,1190
+96,96,M2483123589,condo,279000,1.0,1,2,San Diego,3615 Lemona Ave Unit A,92105,CA,San Diego,1120
+97,97,M1915148651,condo,1198000,0.0,2,2,La Jolla,8132 Camino Del Sol Unit E,92037,CA,San Diego,1143
+98,98,M2744354727,condo,925000,1.0,2,2,San Diego,645 Front St Unit 1606,92101,CA,San Diego,1291
+99,99,M2563070439,condo,809000,1.0,2,2,San Diego,12912 Candela Pl,92130,CA,San Diego,1401
+100,100,M2818936810,condo,555000,0.0,2,2,San Diego,8355 Station Village Ln Unit 4105,92108,CA,San Diego,1176
+101,101,M2166589486,condo,407000,0.0,1,1,San Diego,3550 Lebon Dr Unit 6304,92122,CA,San Diego,600
+102,102,M2692237160,condo,1895000,1.0,3,3,La Jolla,1020 Genter St Unit 102,92037,CA,San Diego,3168
+103,103,M9137910105,condo,685900,0.0,2,3,San Diego,16750 Coyote Bush Dr Unit 54,92127,CA,San Diego,1544
+104,104,M2034389855,condo,909000,1.0,2,3,San Diego,915 Beryl St Unit 3,92109,CA,San Diego,1531
+105,105,M9578151353,condo,325000,0.0,1,1,San Diego,207 5th Ave Unit 948,92101,CA,San Diego,473
+106,106,M2718368963,condo,789000,0.0,2,2,San Diego,3833 Lamont St Unit 2B,92109,CA,San Diego,1154
+107,107,M2071182713,condo,599900,1.0,2,4,San Diego,10559 Caminito Memosac,92131,CA,San Diego,1708
+108,108,M2389529243,condo,650000,0.0,2,2,San Diego,7612 Palmilla Dr Unit 48,92122,CA,San Diego,1004
+109,109,M2592058267,condo,1085000,1.0,2,3,La Jolla,5546 Caminito Herminia,92037,CA,San Diego,2185
+110,110,M2023556838,condo,285000,0.0,1,1,San Diego,10332 Caminito Aralia Apt 106,92131,CA,San Diego,656
+111,111,M2143227776,condo,220000,0.0,1,0,San Diego,1611 Hotel Cir S Unit A209,92108,CA,San Diego,422
+112,112,M2213614521,condo,310000,0.0,1,2,San Diego,3870 37th St Apt 7,92105,CA,San Diego,782
+113,113,M1657843400,condo,369000,0.0,2,2,San Diego,6780 Friars Rd Unit 263,92108,CA,San Diego,957
+114,114,M1574759607,condo,264900,0.0,1,1,San Diego,4175 Wabash Ave Unit 4,92104,CA,San Diego,504
+115,115,M1513361840,condo,459000,0.0,1,1,La Jolla,4155 Executive Dr Unit E205,92037,CA,San Diego,764
+116,116,M1212036735,condo,595000,1.0,2,2,San Diego,16326 Veridian Cir,92127,CA,San Diego,1306
+117,117,M2876823259,condo,179900,0.0,1,1,San Diego,3776 Alabama St Unit C116,92104,CA,San Diego,378
+118,118,M1498009803,condo,497500,1.0,2,3,San Diego,17557 Ashburton Rd,92128,CA,San Diego,1651
+119,119,M1511780164,condo,385000,0.0,1,1,San Diego,1642 7th Ave Unit 327,92101,CA,San Diego,761
+120,120,M1322091809,condo,439000,0.0,2,2,San Diego,10750 Sabre Hill Dr Unit 144,92128,CA,San Diego,1021
+121,121,M1654116805,condo,549900,0.0,2,2,San Diego,1275 River Vista Row Unit 139,92111,CA,San Diego,1092
+122,122,M1119692221,condo,419500,0.0,2,2,San Diego,17161 Alva Rd Unit 922,92127,CA,San Diego,968
+123,123,M1993676919,condo,350000,0.0,2,3,San Diego,4435 Tremont St Apt 10,92102,CA,San Diego,1053
+124,124,M2191366753,condo,465000,0.0,2,2,San Diego,1212 River Glen Row Unit 110,92111,CA,San Diego,1092
+125,125,M1826294049,condo,349900,0.0,2,2,San Diego,17123 W Bernardo Dr Unit 203,92127,CA,San Diego,955
+126,126,M1999055410,condo,285000,0.0,1,1,San Diego,207 5th Ave Unit 814,92101,CA,San Diego,311
+127,127,M2074189882,condo,619900,0.0,1,1,San Diego,4627 Ocean Blvd Unit 210,92109,CA,San Diego,730
+128,128,M2110098354,condo,379900,0.0,1,2,San Diego,6253 Lucia Way,92111,CA,San Diego,792
+129,129,M1655908078,condo,519000,0.0,2,2,San Diego,3266 1st Ave Unit 17,92103,CA,San Diego,1083
+130,130,M2516439891,condo,297500,0.0,1,2,San Diego,3677 41st St Apt 4,92105,CA,San Diego,782
+131,131,M1308104301,condo,4250000,2.0,3,3,San Diego,165 6th Ave Unit 2602,92101,CA,San Diego,4049
+132,132,M2513480811,condo,274900,0.0,1,1,San Diego,3549 Castle Glen Dr Unit 212,92123,CA,San Diego,564
+133,133,M1016987284,condo,299999,0.0,2,2,San Diego,7835 Cowles Mountain Ct Unit B3,92119,CA,San Diego,1048
+134,134,M1421997581,condo,275000,1.0,1,2,San Ysidro,293 Sycamore Rd Unit 15,92173,CA,San Diego,925
+135,135,M1924965675,condo,325000,0.0,1,1,San Diego,3050 Rue Dorleans Unit 487,92110,CA,San Diego,547
+136,136,M1358299754,condo,424900,0.0,2,2,San Diego,2236 River Run Dr Unit 234,92108,CA,San Diego,977
+137,137,M1998493887,condo,429900,0.0,1,1,San Diego,620 State St Unit 214,92101,CA,San Diego,735
+138,138,M1955103520,condo,650000,0.0,1,1,San Diego,550 Front St Unit 607,92101,CA,San Diego,737
+139,139,M1483855042,condo,745000,0.0,3,6,San Diego,4058 Mahaila Ave Unit F,92122,CA,San Diego,1719
+140,140,M2373125900,condo,369900,0.0,2,2,San Diego,3535 Monroe Ave Unit 22,92116,CA,San Diego,858
+141,141,M1168971278,condo,379900,0.0,1,1,San Diego,253 10th Ave Unit 427,92101,CA,San Diego,802
+142,142,M2910406662,condo,390000,0.0,2,2,San Diego,7225 Navajo Rd Unit 229,92119,CA,San Diego,1302
+143,143,M2287263731,condo,418400,0.0,2,2,San Diego,4133 Florida St Apt 6,92104,CA,San Diego,768
+144,144,M2403572175,condo,339900,0.0,1,2,San Diego,4151 33rd St Unit 7,92104,CA,San Diego,748
+145,145,M1300600733,condo,415000,0.0,2,2,San Diego,8365 Westmore Rd Apt 19,92126,CA,San Diego,912
+146,146,M2679414681,condo,550000,1.0,1,2,San Diego,2287 Caminito Pasada Unit 101,92107,CA,San Diego,1074
+147,147,M9213425758,condo,1900000,1.0,3,3,San Diego,2750 4th Ave Unit 204,92103,CA,San Diego,2833
+148,148,M1116975321,condo,469900,0.0,2,3,San Diego,11840 Caminito Ronaldo Unit 129,92128,CA,San Diego,1218
+149,149,M1744156580,condo,434995,0.0,1,2,San Diego,4437 Mentone St Apt 6,92107,CA,San Diego,761
+150,150,M1852005806,condo,1485000,0.0,2,2,Pacific Beach,1235 Parker Pl Unit 3L,92109,CA,San Diego,1028
+151,151,M2534610601,condo,949000,0.0,2,3,San Diego,4007 Everts St Unit 4A,92109,CA,San Diego,1164
+152,152,M2640360004,condo,959000,0.0,3,4,San Diego,4763 Caminito Canor Unit 100,92130,CA,San Diego,1817
+153,153,M1361249540,condo,360000,0.0,1,0,San Diego,575 6th Ave Unit 503,92101,CA,San Diego,482
+154,154,M2144856441,condo,499000,0.0,1,1,San Diego,3764 Bayside Ln Unit 1,92109,CA,San Diego,435
+155,155,M1018586570,condo,620000,0.0,1,2,San Diego,360 Rosecrans St Apt 2,92106,CA,San Diego,950
+156,156,M1635409333,condo,357000,0.0,1,1,San Diego,12240 Corte Sabio Unit 1107,92128,CA,San Diego,898
+157,157,M1839901896,condo,399000,0.0,1,0,San Diego,2400 5th Ave Unit 433,92101,CA,San Diego,616
+158,158,M2898372055,condo,640000,0.0,2,2,San Diego,3645 7th Ave Unit 201,92103,CA,San Diego,1103
+159,159,M2786070539,condo,459900,1.0,2,3,San Diego,5470 Santa Alicia,92154,CA,San Diego,1505
+160,160,M1024360252,condo,680000,1.0,2,3,San Diego,2444 Aperture Cir,92108,CA,San Diego,1306
+161,161,M2252365720,condo,485000,0.0,2,2,San Diego,1231 Pennsylvania Ave Apt 3,92103,CA,San Diego,909
+162,162,M2189056264,condo,345000,1.0,1,2,San Diego,7940 Mission Center Ct Unit G,92108,CA,San Diego,1020
+163,163,M1563651450,condo,725000,0.0,2,2,San Diego,700 W E St Unit 2405,92101,CA,San Diego,1161
+164,164,M1062448585,condo,325000,0.0,1,1,San Diego,1333 8th Ave Unit 204,92101,CA,San Diego,673
+165,165,M2984764140,condo,469000,0.0,1,1,San Diego,3840 Elijah Ct Unit 837,92130,CA,San Diego,777
+166,166,M1536917005,condo,1640000,0.0,2,2,La Jolla,5420 LA Jolla Blvd Unit B302,92037,CA,San Diego,1707
+167,167,M1536157286,condo,174900,0.0,1,1,San Diego,6650 Amherst St Unit 14A,92115,CA,San Diego,480
+168,168,M1021306343,condo,474999,1.0,1,3,San Diego,9604 Caminito Tizona,92126,CA,San Diego,1264
+169,169,M1432834146,condo,479000,1.0,2,3,San Diego,7695 Stalmer St Unit A,92111,CA,San Diego,1224
+170,170,M1243102532,condo,725000,1.0,2,3,San Diego,12407 Caminito Brioso,92131,CA,San Diego,1556
+171,171,M2227496374,condo,749900,0.0,2,2,San Diego,575 6th Ave Unit 1106,92101,CA,San Diego,1144
+172,172,M1330238530,condo,550000,0.0,2,2,San Diego,12745 Via Nasca,92128,CA,San Diego,1328
+173,173,M1856548585,condo,525000,0.0,2,2,San Diego,10860 Ivy Hill Dr Unit 1,92131,CA,San Diego,946
+174,174,M1621099211,condo,369900,0.0,2,2,San Diego,16533 Caminito Vecinos Unit 56,92128,CA,San Diego,1138
+175,175,M2150808660,condo,485000,0.0,2,2,San Diego,4730 Noyes St Apt 316,92109,CA,San Diego,856
+176,176,M2528089061,condo,825000,0.0,1,2,San Diego,4007 Everts St Unit 2G,92109,CA,San Diego,699
+177,177,M1140148075,condo,1150000,1.0,2,3,San Diego,655 India St Unit 304,92101,CA,San Diego,1757
+178,178,M2377820369,condo,378000,0.0,1,1,San Diego,550 15th St Unit 601,92101,CA,San Diego,726
+179,179,M1375804750,condo,1050000,0.0,2,2,San Diego,500 W Harbor Dr Unit 1314,92101,CA,San Diego,1165
+180,180,M2308556770,condo,1050000,1.0,2,2,San Diego,500 W Harbor Dr Unit 140,92101,CA,San Diego,1574
+181,181,M2684593607,condo,279900,0.0,1,0,San Diego,207 5th Ave Unit 906,92101,CA,San Diego,296
+182,182,M1513698765,condo,529000,0.0,3,3,San Diego,17526 Ashburton Rd,92128,CA,San Diego,1772
+183,183,M2012788356,condo,769000,1.0,2,4,San Diego,16061 Blazewood Way,92127,CA,San Diego,1955
+184,184,M1571535477,condo,527500,0.0,2,2,San Diego,5895 Friars Rd Apt 5116,92110,CA,San Diego,1228
+185,185,M2329113384,condo,1200000,0.0,3,3,San Diego,1431 Pacific Hwy Unit 207,92101,CA,San Diego,1840
+186,186,M1924066584,condo,535000,1.0,2,2,San Diego,10543 Avenida Olinda Unit 2,92127,CA,San Diego,1211
+187,187,M1268652448,condo,395000,0.0,2,2,San Diego,13317 Caminito Ciera Unit 149,92129,CA,San Diego,889
+188,188,M1999597986,condo,289000,0.0,1,1,San Diego,4545 Collwood Blvd Unit 25,92115,CA,San Diego,756
+189,189,M1594784381,condo,2050000,0.0,2,2,La Jolla,939 Coast Blvd Unit 5B,92037,CA,San Diego,1937
+190,190,M2936377234,condo,445000,0.0,2,3,San Diego,9366 Twin Trails Dr Unit 101,92129,CA,San Diego,1127
+191,191,M2493110862,condo,339000,0.0,2,2,San Diego,3980 Faircross Pl Unit 8,92115,CA,San Diego,1069
+192,192,M1421575979,condo,559000,0.0,1,1,San Diego,1601 India St Unit 105,92101,CA,San Diego,926
+193,193,M1027515875,condo,399900,1.0,1,2,San Diego,3727 Herman Ave Apt 6,92104,CA,San Diego,802
+194,194,M1454993502,condo,339000,0.0,2,3,San Diego,8709 Lake Murray Blvd Unit 7,92119,CA,San Diego,1149
+195,195,M2335237809,condo,565000,1.0,2,3,San Diego,4032 Mount Acadia Blvd,92111,CA,San Diego,1872
+196,196,M2532595701,condo,699000,0.0,2,2,San Diego,1225 Island Ave Unit 101,92101,CA,San Diego,1988
+197,197,M2504647406,condo,905000,0.0,2,3,San Diego,1240 India St Unit 1102,92101,CA,San Diego,1388
+198,198,M2645830209,condo,375000,0.0,1,2,San Diego,2752 B St Unit 112,92102,CA,San Diego,770
+199,199,M1899857020,condo,349000,0.0,1,1,San Diego,3440 Lebon Dr Apt 4115,92122,CA,San Diego,535
+0,0,M2295725393,condo,514900,1.0,2,2,Anaheim,3534 W Savanna St,92804,CA,Orange,1412
+1,1,M2902733180,condo,759000,0.0,3,3,Anaheim Hills,215 S San Vicente Ln,92807,CA,Orange,2255
+2,2,M2574967170,condo,349500,0.0,1,1,Anaheim,1801 E Katella Ave Apt 1100,92805,CA,Orange,651
+3,3,M1415009224,condo,400000,1.0,1,1,Anaheim Hills,7920 E Monte Carlo Ave,92808,CA,Orange,880
+4,4,M2734182563,condo,379900,0.0,2,2,Anaheim,1950 W Glenoaks Ave Apt B,92801,CA,Orange,1204
+5,5,M2193334327,condo,475000,1.0,2,3,Anaheim,2022 W Lafayette Dr Unit 6,92801,CA,Orange,1219
+6,6,M2284713293,condo,280000,0.0,1,1,Anaheim,278 N Wilshire Ave Ph B2,92801,CA,Orange,682
+7,7,M2685364178,condo,369000,0.0,1,1,Anaheim,1801 E Katella Ave Apt 3014,92805,CA,Orange,651
+8,8,M1445991744,condo,314900,0.0,1,2,Anaheim,1250 S Brookhurst St Unit 2089,92804,CA,Orange,856
+9,9,M1359147577,condo,647500,1.0,2,3,Anaheim Hills,7923 E Viewrim Dr,92808,CA,Orange,1611
+10,10,M1422462413,condo,388000,1.0,1,1,Anaheim Hills,1022 S Gibraltar Ave,92808,CA,Orange,865
+11,11,M9211699645,condo,573000,1.0,2,2,Anaheim,727 S Mosaic St,92805,CA,,1378
+12,12,M1973713533,condo,525000,0.0,2,3,Anaheim,2086 S June Pl,92802,CA,Orange,1232
+13,13,M1712066202,condo,449999,1.0,1,2,Anaheim,1667 S Heritage Cir Unit B,92804,CA,Orange,1248
+14,14,M2553867829,condo,459000,0.0,2,2,Anaheim,1801 E Katella Ave Apt 1021,92805,CA,Orange,1095
+15,15,M2285088153,condo,635000,0.0,3,3,Anaheim Hills,730 S Camino Grande,92807,CA,Orange,1539
+16,16,M2719384743,condo,544900,1.0,2,3,Anaheim Hills,919 S Pagossa Way,92808,CA,Orange,1250
+17,17,M1395742732,condo,385000,0.0,1,1,Anaheim,1135 S Positano Ave,92808,CA,Orange,761
+18,18,M2197811315,condo,525000,0.0,2,3,Anaheim Hills,5641 E Vista Del Cerro,92807,CA,Orange,1537
+19,19,M2792113770,condo,500000,0.0,2,3,Anaheim Hills,1022 S Rossano Way,92808,CA,Orange,1187
+20,20,M2830325454,condo,479900,0.0,2,2,Anaheim Hills,8412 E Arrowhead Way,92808,CA,Orange,998
+21,21,M1905258871,condo,565000,1.0,2,3,Anaheim Hills,8527 E Tioga Way,92808,CA,Orange,1250
+22,22,M2825019597,condo,479900,0.0,2,2,Anaheim Hills,1023 S Stresa Way,92808,CA,Orange,1014
+23,23,M2979236460,condo,590000,1.0,2,2,Anaheim Hills,984 S Rim Crest Dr Unit 7,92807,CA,Orange,1661
+24,24,M2477966060,condo,549000,0.0,2,2,Anaheim,514 S Anaheim Blvd Unit 2,92805,CA,Orange,1450
+25,25,M2106770618,condo,650000,1.0,2,4,Anaheim Hills,670 S Gentry Ln,92807,CA,Orange,2100
+26,26,M2275410105,condo,539500,1.0,2,3,Anaheim,549 W Summerfield Cir,92802,CA,Orange,1497
+27,27,M2246046589,condo,429000,0.0,2,2,Anaheim,435 W Center Street Promenade Unit 407,92805,CA,Orange,1088
+28,28,M1392388797,condo,599990,0.0,2,2,Anaheim Hills,7733 E Viewrim Dr,92808,CA,Orange,1357
+29,29,M9525666102,condo,665880,1.0,3,3,Anaheim,1696 W Rhombus Ln,92802,CA,Orange,1964
+30,30,M9901974529,condo,384900,1.0,1,3,Anaheim,1779 N Cedar Glen Dr Unit D216,92807,CA,Orange,1134
+31,31,M1913755506,condo,365000,1.0,1,2,Anaheim,1800 W Gramercy Ave Apt 3,92801,CA,Orange,964
+32,32,M9846943995,condo,674921,1.0,3,4,Anaheim,535 Motif St,92805,CA,,2179
+33,33,M9801202116,condo,400000,1.0,1,3,Anaheim,5488 E Willow Woods /C Ln Unit 99,92807,CA,Orange,1068
+34,34,M2484961878,condo,549000,1.0,2,2,Anaheim,2764 W Madison Cir,92801,CA,Orange,1551
+35,35,M2933116724,condo,330000,0.0,2,2,Anaheim,1082 S Citron St Unit 49,92805,CA,Orange,988
+36,36,M2867491399,condo,568000,0.0,2,2,Anaheim Hills,5567 E Stetson Ct Unit 49,92807,CA,Orange,1530
+37,37,M1611441858,condo,335000,0.0,1,1,Anaheim,3535 W Stonepine Ln Unit C,92804,CA,Orange,798
+38,38,M1173680970,condo,559000,1.0,2,3,Anaheim,823 S Anaheim Blvd Unit 102,92805,CA,Orange,1583
+39,39,M1818364414,condo,555000,1.0,2,2,Anaheim Hills,1010 S Dewcrest Dr,92808,CA,Orange,1460
+40,40,M1755632440,condo,329500,0.0,1,1,Anaheim,3575 W Stonepine Ln Unit 213,92804,CA,Orange,798
+41,41,M2841614588,condo,725000,1.0,2,3,Anaheim,1884 W Surf Dr,92801,CA,Orange,2240
+42,42,M1081318603,condo,339000,0.0,2,2,Anaheim,278 N Wilshire Ave Unit 144,92801,CA,Orange,1074
+43,43,M1808365799,condo,629900,1.0,2,3,Anaheim,501 S Anaheim Blvd,92805,CA,Orange,1941
+44,44,M9051452775,condo,659900,0.0,3,3,Anaheim,918 E Weaver Ln,92802,CA,Orange,1533
+45,45,M2140682625,condo,790000,1.0,2,3,Anaheim Hills,4364 E Terra Vista Ln,92807,CA,Orange,2815
+46,46,M1853347413,condo,529000,0.0,3,3,Anaheim Hills,952 S Country Glen Way,92808,CA,Orange,1171
+47,47,M1704605002,condo,286900,0.0,1,2,Anaheim,957 S Citron St Unit 7,92805,CA,Orange,824
+48,48,M1504275678,condo,455000,1.0,2,3,Anaheim,1700 W Cerritos Ave Unit 103,92804,CA,Orange,1239
+49,49,M9457151729,condo,694119,1.0,3,4,Anaheim,783 Mosaic St,92805,CA,,1841
+50,50,M1822708815,condo,370000,0.0,1,1,Anaheim,1801 E Katella Ave Apt 4069,92805,CA,Orange,728
+51,51,M2457412168,condo,395000,0.0,1,2,Anaheim,1704 N Willow Woods Dr Unit B,92807,CA,Orange,882
+52,52,M2167659405,condo,448880,1.0,1,1,Anaheim,425 S Anaheim Blvd Unit 8,92805,CA,Orange,1055
+53,53,M9777041358,condo,542000,1.0,2,2,Anaheim,577 Motif St,92805,CA,,1364
+54,54,M9750295224,condo,661400,1.0,2,2,Anaheim,575 Motif St,92805,CA,,1975
+55,55,M9786318168,condo,709374,1.0,3,4,Anaheim,539 Motif St,92805,CA,,2179
+56,56,M1769770937,condo,659000,0.0,3,3,Anaheim Hills,6092 E Morningview Dr Unit 3,92807,CA,Orange,1392
+57,57,M2459312731,condo,399000,0.0,1,2,Anaheim,1760 N Oak Knoll Dr Unit 250,92807,CA,Orange,882
+58,58,M9389612164,condo,621990,1.0,3,3,Anaheim,642 S Kinney Way,92805,CA,Orange,1699
+59,59,M2913291149,condo,305000,0.0,2,2,Anaheim,1122 S Citron St Unit 84,92805,CA,Orange,988
+60,60,M1042136658,condo,380000,0.0,1,2,Anaheim,3008 W Cheryllyn Ln Unit 6,92804,CA,Orange,834
+61,61,M9760952189,condo,669900,0.0,3,3,Anaheim,939 E Weaver Ln,92802,CA,Orange,1533
+62,62,M1416015405,condo,385000,0.0,1,1,Anaheim Hills,1023 S Positano Ave,92808,CA,Orange,743
+63,63,M1898191547,condo,515000,1.0,2,3,Anaheim,618 W Vermont Ave Unit 31,92805,CA,Orange,1240
+64,64,M2899749459,condo,599000,0.0,2,3,Anaheim,1990 W Windward Dr,92801,CA,Orange,1621
+65,65,M9038483209,condo,659990,1.0,3,3,Anaheim,3316 W Mirano Dr,92801,CA,Orange,1812
+66,66,M1864638993,condo,479000,0.0,2,2,Anaheim Hills,1294 S Country Glen Way,92808,CA,Orange,1046
+67,67,M2271981639,condo,340000,0.0,1,1,Anaheim,3594 W Carrotwood Ct Unit B,92804,CA,Orange,798
+68,68,M1443490554,condo,450000,1.0,1,3,Anaheim,236 S Aron Pl,92804,CA,Orange,1280
+69,69,M2284640961,condo,559900,1.0,2,3,Anaheim Hills,6523 E Camino Vis Unit 4,92807,CA,Orange,1540
+70,70,M1431070846,condo,320000,0.0,1,2,Anaheim,1860 W Glenoaks Ave Apt L,92801,CA,Orange,876
+71,71,M9091525128,condo,658274,1.0,3,4,Anaheim,523 Motif St,92805,CA,,2179
+72,72,M2290508162,condo,514900,1.0,2,2,Anaheim,3538 W Savanna St,92804,CA,Orange,1412
+73,73,M1553967352,condo,314900,0.0,1,2,Anaheim,1250 S Brookhurst St Unit 2009,92804,CA,Orange,856
+74,74,M1173010183,condo,549000,1.0,2,2,Anaheim,1691 E Lincoln Ave,92805,CA,Orange,1628
+75,75,M1954535480,condo,399900,1.0,1,1,Anaheim,702 S Casita St,92805,CA,Orange,755
+76,76,M2143589369,condo,899000,1.0,2,4,Anaheim Hills,675 S Londerry Ln,92807,CA,Orange,2319
+77,77,M2480797356,condo,608000,1.0,2,3,Anaheim,116 W Santa Ana St,92805,CA,Orange,1412
+78,78,M1724438495,condo,450000,0.0,3,2,Anaheim,1669 S Heritage Cir Unit B,92804,CA,Orange,1248
+79,79,M2838743978,condo,365000,0.0,1,1,Anaheim,1801 E Katella Ave Apt 2071,92805,CA,Orange,728
+80,80,M9852914526,condo,612073,1.0,2,2,Anaheim,915 E Mason Ln Unit 15,92805,CA,Orange,1554
+81,81,M2370880403,condo,349900,0.0,2,2,Anaheim,1152 N West St Apt D1,92801,CA,Orange,917
+82,82,M2449052641,condo,419000,0.0,1,1,Anaheim,435 W Center Street Promenade Unit 222,92805,CA,Orange,1035
+83,83,M2643130186,condo,699900,0.0,3,3,Anaheim Hills,6179 E Morningview Dr Unit 18,92807,CA,Orange,2177
+84,84,M2216364680,condo,465000,1.0,2,3,Anaheim,2044 W Hastings Way Unit 52,92801,CA,Orange,1254
+85,85,M1864340866,condo,474900,0.0,2,2,Anaheim Hills,1072 S Country Glen Way,92808,CA,Orange,1046
+86,86,M1416052671,condo,359500,0.0,1,2,Anaheim,1900 W Glenoaks Ave Apt B,92801,CA,Orange,882
+87,87,M2093286644,condo,459000,1.0,2,3,Anaheim,409 N Beth St Unit C,92806,CA,Orange,1266
+88,88,M9139615607,condo,663000,1.0,3,3,Anaheim,942 E Drapery Ln,92802,CA,Orange,1700
+89,89,M2271497181,condo,335000,0.0,1,1,Anaheim,3512 W Stonepine Ln Unit D,92804,CA,Orange,798
+90,90,M9181374283,condo,509900,1.0,2,2,Anaheim,3540 W Savanna St,92804,CA,Orange,1412
+91,91,M2155884743,condo,417500,0.0,2,2,Anaheim,3537 W Greentree Cir Unit 136,92804,CA,Orange,1026
+92,92,M2704874198,condo,365000,0.0,1,2,Anaheim,221 N Tustin Ave Apt B,92807,CA,Orange,786
+93,93,M9033462689,condo,479700,1.0,2,2,Anaheim,1226 S Macduff St,92804,CA,Orange,1412
+94,94,M1969243545,condo,199888,0.0,1,2,Anaheim,994 S Sutter Creek Rd Unit 60,92804,CA,Orange,924
+95,95,M9473680538,condo,656110,1.0,2,3,Anaheim,559 Motif St,92805,CA,,1975
+96,96,M1385680928,condo,520000,1.0,2,2,Anaheim Hills,1153 S Positano Ave,92808,CA,Orange,1190
+97,97,M2670240839,condo,455000,0.0,2,1,Anaheim,1801 E Katella Ave Apt 4165,92805,CA,Orange,1049
+98,98,M1465067535,condo,530000,0.0,3,3,Anaheim,248 S Aron Pl,92804,CA,Orange,1584
+99,99,M1558886456,condo,485000,1.0,2,3,Anaheim,1700 W Cerritos Ave Unit 335,92804,CA,Orange,1166
+100,100,M9173006623,condo,499900,1.0,2,2,Anaheim,3572 W Savanna St,92804,CA,Orange,1412
+101,101,M9295839801,condo,619990,0.0,3,2,Anaheim,634 S Kinney Way,92805,CA,Orange,1569
+102,102,M2637372278,condo,359900,0.0,1,1,Anaheim,1801 E Katella Ave Apt 2104,92805,CA,Orange,728
+103,103,M9713644457,condo,849048,1.0,2,3,Anaheim,526 S Motif St,92805,CA,,2320
+104,104,M9197137639,condo,849900,1.0,2,3,Anaheim,534 S Motif St,92805,CA,,2137
+105,105,M1334738384,condo,483900,1.0,2,3,Anaheim,3083 W Cheryllyn Ln,92804,CA,Orange,1311
+106,106,M1473270414,condo,349900,0.0,2,2,Anaheim,1250 S Brookhurst St Unit 2102,92804,CA,Orange,912
+107,107,M9702116655,condo,664747,1.0,2,3,Anaheim,527 Motif St,92805,CA,,1795
+108,108,M2658129408,condo,369900,0.0,1,1,Anaheim,1801 E Katella Ave Apt 4044,92805,CA,Orange,728
+109,109,M9134855391,condo,657311,1.0,2,3,Anaheim,781 Mosaic St,92805,CA,,1695
+110,110,M9187018394,condo,568368,1.0,2,2,Anaheim,779 Mosaic St,92805,CA,,1378
+111,111,M2430367243,condo,499000,1.0,2,3,Anaheim,3311 W Lincoln Ave Apt 4,92801,CA,Orange,1604
+112,112,M1952685726,condo,499000,1.0,2,3,Anaheim,2361 S Cutty Way Unit 64,92802,CA,Orange,1392
+113,113,M1456351676,condo,319888,0.0,2,2,Anaheim,1250 S Brookhurst St Unit 2034,92804,CA,Orange,912
+114,114,M9744621115,condo,585990,1.0,3,3,Anaheim,670 S Kinney Way,92805,CA,Orange,1701
+115,115,M2197289592,condo,549990,1.0,2,2,Anaheim Hills,5639 E Vista Del Cerro,92807,CA,Orange,1400
+116,116,M9397636765,condo,688585,1.0,2,3,Anaheim,981 E Mason Ln Unit 119,92805,CA,Orange,1858
+117,117,M9209438035,condo,613073,1.0,2,2,Anaheim,1678 S Lewis St,92805,CA,Orange,1554
+118,118,M9089631109,condo,768125,1.0,3,4,Anaheim,981 E Mason Ln Unit 121,92805,CA,Orange,2185
+119,119,M1509232048,condo,315000,0.0,1,2,Anaheim,1250 S Brookhurst St Unit 1075,92804,CA,Orange,856
+120,120,M1320307322,condo,437000,0.0,3,2,Anaheim,294 S Seneca Cir Unit 55,92805,CA,Orange,1292
+121,121,M2209464029,condo,339000,0.0,1,1,Anaheim,1801 E Katella Ave Apt 1065,92805,CA,Orange,651
+122,122,M2840510857,condo,275000,0.0,1,2,Anaheim,1178 S Citron St Unit 76,92805,CA,Orange,824
+123,123,M2990890307,condo,384900,1.0,1,2,Anaheim,3999 E Santa Ana Canyon Rd Apt 112,92807,CA,Orange,986
+124,124,M1875120444,condo,319900,1.0,1,2,Anaheim,500 N Tustin Ave Apt 126,92807,CA,Orange,866
+125,125,M1319748333,condo,270000,0.0,1,2,Anaheim,1166 S Citron St Unit 79,92805,CA,Orange,824
+126,126,M2705009964,condo,375900,0.0,1,1,Anaheim,1801 E Katella Ave Apt 2129,92805,CA,Orange,728
+127,127,M2292064833,condo,425000,1.0,1,3,Anaheim,2148 W York Cir,92804,CA,Orange,1343
+128,128,M9829475459,condo,718000,1.0,3,4,Anaheim,967 E Mason Ln Unit 94,92805,CA,Orange,2070
+129,129,M9202106073,condo,669000,1.0,3,3,Anaheim,2354 S Tapestry Way,92802,CA,Orange,1741
+130,130,M9866054394,condo,583990,1.0,3,3,Anaheim,662 S Kinney Way,92805,CA,Orange,1699
+131,131,M9669096972,condo,540990,0.0,3,3,Anaheim,668 S Kinney Way,92805,CA,Orange,1569
+132,132,M1469730149,condo,250000,0.0,2,3,Anaheim,1250 S Brookhurst St Unit 1104,92804,CA,Orange,1172
+133,133,M1745397698,condo,749900,0.0,3,3,Anaheim Hills,5810 E Mountain Loop Trl Unit 35,92807,CA,Orange,2016
+134,134,M9758030238,condo,513990,1.0,2,2,Anaheim,665 S Kinney Way,92805,CA,Orange,1401
+135,135,M1421307169,condo,405900,0.0,2,3,Anaheim,1901 W Greenleaf Ave Apt B,92801,CA,Orange,1257
+136,136,M2444449487,condo,549000,0.0,2,3,Anaheim,435 W Center Street Promenade Unit 308,92805,CA,Orange,2179
+137,137,M9952538906,condo,594000,1.0,2,2,Anaheim,923 E Mason Ln Unit 34,92805,CA,Orange,1554
+138,138,M2624571746,condo,398000,0.0,2,2,Anaheim,2669 W Cameron Ct Unit 215,92801,CA,Orange,1138
+139,139,M1456836133,condo,320000,0.0,2,3,Anaheim,1250 S Brookhurst St Unit 2051,92804,CA,Orange,1172
+140,140,M2245860259,condo,560000,0.0,2,3,Anaheim,435 W Center Street Promenade Unit 336,92805,CA,Orange,1953
+141,141,M1059643580,condo,550000,0.0,2,2,Anaheim,114 S Harbor Blvd,92805,CA,Orange,1528
+0,0,M1871614480,condo,475000,0.0,2,2,Los Angeles,4049 Via Marisol Apt 322,90042,CA,Los Angeles,1102
+1,1,M1521023494,condo,525000,1.0,2,2,Burbank,8038 Via Latina,91504,CA,Los Angeles,1244
+2,2,M2286048569,condo,1748000,1.0,3,3,Playa Vista,5735 Dawn Crk,90094,CA,Los Angeles,2628
+3,3,M9715181242,condo,663990,3.0,3,4,Winnetka,20612 Desert Ash Ln,91306,CA,Los Angeles,1918
+4,4,M9295211483,condo,624990,3.0,3,3,Winnetka,8221 Oakhaven Ct,91306,CA,Los Angeles,1786
+5,5,M1227722304,condo,569900,0.0,3,2,San Pedro,1915 Mount Shasta Dr Unit 159,90732,CA,Los Angeles,1572
+6,6,M1418431577,condo,739000,0.0,2,2,Westwood Century City,10645 Wilshire Blvd Apt 303,90024,CA,Los Angeles,1126
+7,7,M1825620693,condo,359000,0.0,3,2,Harbor City,1436 257th St Unit 106,90710,CA,Los Angeles,1083
+8,8,M2343780116,condo,3295000,1.0,2,2,Los Angeles,10800 Wilshire Blvd Apt 1302,90024,CA,Los Angeles,2840
+9,9,M1936005199,condo,559950,1.0,1,2,Burbank,9667 Via Torino Unit 152,91504,CA,Los Angeles,1151
+10,10,M1267835532,condo,289000,0.0,2,2,Tarzana,18620 Hatteras St Unit 247,91356,CA,Los Angeles,910
+11,11,M1637288952,condo,544888,0.0,2,2,Los Angeles,316 N Avenue 66 Apt 7,90042,CA,Los Angeles,1069
+12,12,M2837294582,condo,569900,0.0,2,2,Los Angeles,7033 LA Tijera Blvd Apt J201,90045,CA,Los Angeles,1632
+13,13,M1973037701,condo,339900,0.0,1,1,Woodland Hills,5510 Owensmouth Ave Apt 219,91367,CA,Los Angeles,610
+14,14,M1241413978,condo,289000,0.0,2,2,Tarzana,18620 Hatteras St Unit 243,91356,CA,Los Angeles,910
+15,15,M2521350039,condo,429900,0.0,3,3,Panorama City,7869 Ventura Canyon Ave Unit 301,91402,CA,Los Angeles,1286
+16,16,M9229843151,condo,1079000,1.0,2,2,Studio City,4322 Gentry Ave Unit 103,91604,CA,Los Angeles,1435
+17,17,M2292677535,condo,240000,0.0,1,2,Pacoima,12601 Van Nuys Blvd Unit 218,91331,CA,Los Angeles,666
+18,18,M2903662596,condo,749900,0.0,2,1,Los Angeles,10501 Wilshire Blvd Unit 1204,90024,CA,Los Angeles,888
+19,19,M2812691477,condo,100000,0.0,1,1,Los Angeles,3320 3/4 W 76th St,90043,CA,Los Angeles,672
+20,20,M1829923582,condo,1099000,0.0,3,3,Los Angeles,10520 Wilshire Blvd Apt 306,90024,CA,Los Angeles,2071
+21,21,M9556421113,condo,995000,1.0,1,1,Los Angeles,877 Francisco St Apt 1911,90017,CA,Los Angeles,968
+22,22,M2468121646,condo,749000,1.0,2,2,Studio City,12020 Guerin St Apt 102,91604,CA,Los Angeles,1410
+23,23,M1948781088,condo,1495000,0.0,2,2,Los Angeles,1130 S Flower St Apt 420,90015,CA,Los Angeles,2255
+24,24,M2323409097,condo,930000,0.0,2,2,Los Angeles,1871 Greenfield Ave Apt 102,90025,CA,Los Angeles,1540
+25,25,M1206726416,condo,1850000,0.0,2,1,Los Angeles,1855 Industrial St Apt 309,90021,CA,Los Angeles,2360
+26,26,M1825769695,condo,1450000,0.0,2,2,Los Angeles,877 Francisco St Apt 1227,90017,CA,Los Angeles,1184
+27,27,M1718869635,condo,1439000,1.0,2,2,Marina del Rey,13700 Marina Pointe Dr Unit 1531,90292,CA,Los Angeles,1434
+28,28,M2675780105,condo,180000,0.0,3,2,Van Nuys,6801 Mammoth Ave Apt 5,91405,CA,Los Angeles,1218
+29,29,M1071362482,condo,850000,0.0,2,2,Pacific Palisades,16137 W Sunset Blvd Unit 101,90272,CA,Los Angeles,1125
+30,30,M2624493944,condo,589900,1.0,2,3,Sun Valley,10831 Roycroft St Unit 25,91352,CA,Los Angeles,1376
+31,31,M1228206761,condo,405000,0.0,2,2,San Pedro,1246 N Park Western Dr Unit 33,90732,CA,Los Angeles,961
+32,32,M1670797792,condo,929000,0.0,3,2,Playa Vista,13080 Pacific Promenade Apt 324,90094,CA,Los Angeles,1170
+33,33,M9637795533,condo,869990,2.0,2,2,Los Angeles,2909 W Exposition Pl Unit 5,90018,CA,Los Angeles,1660
+34,34,M1044354823,condo,569999,1.0,2,2,Studio City,11306 Moorpark St Unit 10,91602,CA,Los Angeles,1036
+35,35,M1266746596,condo,359999,0.0,3,2,Sylmar,14425 Foothill Blvd Unit 18,91342,CA,Los Angeles,993
+36,36,M1131826214,condo,389900,1.0,2,2,Reseda,19231 Sherman Way Unit 51,91335,CA,Los Angeles,1170
+37,37,M2867951889,condo,499000,0.0,4,3,Chatsworth,10229 Variel Ave Unit 2,91311,CA,Los Angeles,1896
+38,38,M2430013506,condo,589000,0.0,1,2,Los Angeles,312 W 5th St Apt 514,90013,CA,Los Angeles,925
+39,39,M2416215815,condo,995000,0.0,2,4,Los Angeles,956 W 42nd Pl,90037,CA,Los Angeles,1958
+40,40,M2584493067,condo,549000,1.0,2,2,Valley Village,11643 Chandler Blvd Apt 112,91601,CA,Los Angeles,1234
+41,41,M2325099363,condo,269900,0.0,2,2,Pacoima,12601 Van Nuys Blvd Unit 243,91331,CA,Los Angeles,816
+42,42,M1507446860,condo,779000,0.0,3,3,Sherman Oaks,14271 Dickens St Unit 102,91423,CA,Los Angeles,1819
+43,43,M1275847006,condo,410000,0.0,1,1,Hollywood Hills East,3480 Barham Blvd,90068,CA,Los Angeles,812
+44,44,M1533515105,condo,845000,0.0,2,4,Eagle Rock,1420 Yosemite Dr,90041,CA,Los Angeles,1616
+45,45,M9757841036,condo,1460000,1.0,2,3,Studio City,4322 Gentry Ave Unit 205,91604,CA,Los Angeles,1799
+46,46,M2159243174,condo,509950,1.0,2,3,Chatsworth,22218 Germain St Unit 4,91311,CA,Los Angeles,1747
+47,47,M1977354406,condo,499000,0.0,1,1,Playa Del Rey,8675 Falmouth Ave Apt 115,90293,CA,Los Angeles,686
+48,48,M1821943351,condo,320000,1.0,1,2,Torrance,1444 W 227th St Apt 11,90501,CA,Los Angeles,1097
+49,49,M1368229981,condo,365000,0.0,2,2,Tarzana,18619 Collins St Apt F28,91356,CA,Los Angeles,966
+50,50,M2321118051,condo,439000,0.0,1,1,Los Angeles,3810 Wilshire Blvd Apt 1109,90010,CA,Los Angeles,710
+51,51,M1488821868,condo,499000,0.0,1,2,Los Angeles,4501 Finley Ave Apt 10,90027,CA,Los Angeles,982
+52,52,M2830102745,condo,1200000,0.0,2,2,Pacific Palisades,16040 W Sunset Blvd Unit 101,90272,CA,Los Angeles,1187
+53,53,M1882357986,condo,699000,0.0,2,2,Los Angeles,1130 S Flower St Apt 316,90015,CA,Los Angeles,1438
+54,54,M1412635911,condo,1150000,0.0,3,4,Los Angeles,1253 Granville Ave Unit 104,90025,CA,Los Angeles,2093
+55,55,M2176109114,condo,895000,0.0,3,3,Playa Del Rey,8329 Pershing Dr,90293,CA,Los Angeles,1729
+56,56,M1186518890,condo,775000,0.0,2,2,Los Angeles,6001 Carlton Way Apt 206,90028,CA,Los Angeles,1150
+57,57,M2939120148,condo,339000,0.0,1,1,Los Angeles,210 S La Fayette Park Pl,90057,CA,Los Angeles,472
+58,58,M2476134925,condo,1299000,0.0,2,2,Los Angeles,1100 S Grand Ave Unit A005,90015,CA,Los Angeles,1740
+59,59,M9044674088,condo,1749000,0.0,3,3,Los Angeles,1013 E 8th St,90021,CA,Los Angeles,5680
+60,60,M1921679088,condo,769000,0.0,2,2,Playa Del Rey,8828 Pershing Dr Apt 204,90293,CA,Los Angeles,1407
+61,61,M9337658937,condo,575000,0.0,1,1,Los Angeles,1126 W Edgeware Rd Units 1 & 2,90026,CA,Los Angeles,780
+62,62,M2224135775,condo,775000,1.0,2,2,Los Angeles,4444 Wilshire Blvd Apt 206,90010,CA,Los Angeles,1662
+63,63,M1243104306,condo,795000,0.0,2,3,Los Angeles,848 Irolo St Apt 508,90005,CA,Los Angeles,1600
+64,64,M1104390257,condo,699000,0.0,2,2,Studio City,4243 Colfax Ave Unit F,91604,CA,Los Angeles,1350
+65,65,M2940495839,condo,725000,0.0,2,1,Los Angeles,100 S Doheny Dr Apt 516,90048,CA,Los Angeles,844
+66,66,M2595015878,condo,3295000,1.0,2,3,Marina del Rey,3711 Ocean Front Walk Apt 2,90292,CA,Los Angeles,2370
+67,67,M1692444230,condo,525000,0.0,3,3,Sylmar,15151 Foothill Blvd Unit 15,91342,CA,Los Angeles,1530
+68,68,M1176686185,condo,890000,0.0,2,2,Studio City,4311 Colfax Ave Unit 219,91604,CA,Los Angeles,1647
+69,69,M2496015496,condo,439000,1.0,2,3,Chatsworth,9950 Topanga Canyon Blvd Unit 55,91311,CA,Los Angeles,1445
+70,70,M2274254096,condo,439950,0.0,2,2,North Hollywood,5706 Fair Ave Apt 115,91601,CA,Los Angeles,923
+71,71,M1893728409,condo,420000,0.0,2,3,Reseda,19545 Sherman Way Unit 94,91335,CA,Los Angeles,1363
+72,72,M1189112066,condo,699999,0.0,3,3,Porter Ranch,11314 Paseo El Sol,91326,CA,Los Angeles,1582
+73,73,M2760678220,condo,250000,0.0,1,1,Canoga Park,21800 Schoenborn St Unit 215,91304,CA,Los Angeles,511
+74,74,M2795310875,condo,450000,0.0,1,2,Los Angeles,1425 W 12th St Apt 145,90015,CA,Los Angeles,859
+75,75,M1849269436,condo,549900,0.0,2,2,Los Angeles,358 S Gramercy Pl Apt 210,90020,CA,Los Angeles,1169
+76,76,M1530276820,condo,429900,0.0,2,3,North Hollywood,7810 Laurel Canyon Blvd Unit 5,91605,CA,Los Angeles,1257
+77,77,M2778006883,condo,469000,1.0,2,2,Canoga Park,20921 Community St Apt 22,91304,CA,Los Angeles,1465
+78,78,M2385380981,condo,1050000,0.0,2,1,Los Angeles,889 Francisco St Unit 1903,90017,CA,Los Angeles,977
+79,79,M1695994614,condo,380000,0.0,2,2,Los Angeles,5830 Benner St Apt 201,90042,CA,Los Angeles,753
+80,80,M1747371296,condo,755000,0.0,3,3,San Pedro,1129 W Capitol Dr Unit 63,90732,CA,Los Angeles,2013
+81,81,M1122597924,condo,1200000,0.0,3,3,Los Angeles,1710 Granville Ave Apt 6,90025,CA,Los Angeles,1726
+82,82,M1089015166,condo,389999,0.0,1,2,Los Angeles,5605 Clemson St,90016,CA,Los Angeles,748
+83,83,M1752321369,condo,549000,1.0,2,2,Valley Village,4807 Beck Ave Unit 20,91601,CA,Los Angeles,1122
+84,84,M1854024955,condo,454900,0.0,2,2,Los Angeles,4080 Via Marisol Apt 136,90042,CA,Los Angeles,1100
+85,85,M2337523443,condo,550000,0.0,3,3,Northridge,10006 Reseda Blvd Unit B,91324,CA,Los Angeles,1894
+86,86,M1755002345,condo,378000,0.0,3,2,Harbor City,1070 252nd St Unit C,90710,CA,Los Angeles,1328
+87,87,M1024522187,condo,385000,0.0,2,3,Winnetka,20202 Cohasset St Unit 10,91306,CA,Los Angeles,1340
+88,88,M2062603904,condo,343000,0.0,1,1,San Pedro,306 S Miraleste Dr Unit 56,90732,CA,Los Angeles,771
+89,89,M1911289928,condo,549945,0.0,3,3,Sun Valley,10831 Roycroft St Unit 38,91352,CA,Los Angeles,1385
+90,90,M1926045501,condo,500000,0.0,2,2,Los Angeles,970 S Kingsley Dr Apt 208,90006,CA,Los Angeles,1177
+91,91,M2957671067,condo,462000,0.0,3,2,Woodland Hills,6255 Randi Ave Unit 61,91367,CA,Los Angeles,1519
+92,92,M2816871654,condo,319000,0.0,1,2,Winnetka,20134 Leadwell St Unit 223,91306,CA,Los Angeles,786
+93,93,M2623261020,condo,795000,0.0,2,2,Sherman Oaks,15150 Dickens St Apt 304,91403,CA,Los Angeles,1734
+94,94,M1664673553,condo,2150000,1.0,3,3,Los Angeles,12357 Ridge Cir,90049,CA,Los Angeles,3500
+95,95,M2347831588,condo,227500,0.0,1,2,Pacoima,12601 Van Nuys Blvd Unit 247,91331,CA,Los Angeles,670
+96,96,M2029167365,condo,467999,0.0,2,2,Encino,5301 Balboa Blvd Unit M8,91316,CA,Los Angeles,1415
+97,97,M2920210113,condo,559000,0.0,3,2,Woodland Hills,21901 Burbank Blvd Unit 192,91367,CA,Los Angeles,1666
+98,98,M1540691901,condo,875000,0.0,2,2,Los Angeles,330 S Barrington Ave Apt 304,90049,CA,Los Angeles,1077
+99,99,M2027413631,condo,599000,0.0,1,1,Los Angeles,1050 S Grand Ave Unit 1506,90015,CA,Los Angeles,705
+100,100,M1671782666,condo,565000,0.0,1,1,Los Angeles,312 W 5th St Apt 1010,90013,CA,Los Angeles,940
+101,101,M2430399617,condo,1499000,0.0,4,3,Los Angeles,10660 Wilshire Blvd Apt 809,90024,CA,Los Angeles,2426
+102,102,M2505350323,condo,1099000,1.0,2,3,Los Angeles,1530 S Centinela Ave Apt 303,90025,CA,Los Angeles,1829
+103,103,M1894719365,condo,579000,0.0,2,3,Los Angeles,4000 Via Marisol Apt 202,90042,CA,Los Angeles,1495
+104,104,M1687428369,condo,365000,0.0,2,2,Tarzana,18350 Hatteras St Apt 240,91356,CA,Los Angeles,870
+105,105,M2674151073,condo,779000,0.0,2,2,Los Angeles,7135 Hollywood Blvd Apt 308,90046,CA,Los Angeles,1148
+106,106,M2839529955,condo,499000,0.0,1,1,Los Angeles,4408 Franklin Ave Apt 3,90027,CA,Los Angeles,636
+107,107,M1732829813,condo,949999,1.0,2,2,Venice,2500 Abbot Kinney Blvd Apt 6,90291,CA,Los Angeles,935
+108,108,M1485565913,condo,849999,1.0,3,5,West Hills,7049 Salisbury Rd,91307,CA,Los Angeles,2452
+109,109,M2977438065,condo,699000,0.0,2,1,Los Angeles,7250 Franklin Ave Unit 615,90046,CA,Los Angeles,996
+110,110,M2376021208,condo,899000,0.0,1,0,Los Angeles,530 S Hewitt St Unit 341,90013,CA,Los Angeles,1300
+111,111,M2203639507,condo,1145000,0.0,3,2,Los Angeles,4460 Wilshire Blvd Apt 503,90010,CA,Los Angeles,2234
+112,112,M1835187831,condo,550000,0.0,1,1,Los Angeles,1100 Wilshire Blvd Apt 2012,90017,CA,Los Angeles,790
+113,113,M2218815884,condo,2235000,1.0,3,3,Los Angeles,441 S Barrington Ave Unit 311,90049,CA,Los Angeles,2370
+114,114,M2660210338,condo,1225000,1.0,2,3,Los Angeles,1629 Armacost Ave Apt 101,90025,CA,Los Angeles,1734
+115,115,M2855114490,condo,829000,0.0,2,3,Los Angeles,1615 N Laurel Ave Apt 201,90046,CA,Los Angeles,1288
+116,116,M2919443730,condo,499000,0.0,2,2,Los Angeles,880 W 1st St Apt 217,90012,CA,Los Angeles,1243
+117,117,M2009110430,condo,949000,0.0,1,1,Los Angeles,1645 N Vine St Unit 904,90028,CA,Los Angeles,1460
+118,118,M2380693149,condo,750000,0.0,1,1,Los Angeles,2146 Fargo St,90039,CA,Los Angeles,608
+119,119,M2525927635,condo,719000,0.0,2,2,Los Angeles,5037 Rosewood Ave Apt 304,90004,CA,Los Angeles,1330
+120,120,M2966828886,condo,799000,0.0,1,1,Los Angeles,877 Francisco St Apt 1207,90017,CA,Los Angeles,865
+121,121,M1910427769,condo,499000,0.0,1,1,Los Angeles,312 W 5th St Apt 405,90013,CA,Los Angeles,700
+122,122,M2659475292,condo,296500,0.0,2,2,Panorama City,9342 Van Nuys Blvd Unit 26,91402,CA,Los Angeles,898
+123,123,M1360804458,condo,550000,1.0,2,2,Woodland Hills,5220 Premiere Hills Cir Apt 227,91364,CA,Los Angeles,1358
+124,124,M2844196272,condo,520000,0.0,3,2,Woodland Hills,6265 Canoga Ave Apt 43,91367,CA,Los Angeles,1354
+125,125,M2995502296,condo,336000,0.0,2,2,Van Nuys,8020 Langdon Ave Unit 222,91406,CA,Los Angeles,1024
+126,126,M1837840867,condo,1275000,0.0,4,6,Woodland Hills,22819 Mariano St,91367,CA,Los Angeles,3230
+127,127,M2497976070,condo,405000,1.0,3,3,Pacoima,12411 Osborne St Unit 61,91331,CA,Los Angeles,1286
+128,128,M2391492752,condo,499000,0.0,3,2,Valley Village,12047 Emelita St Apt B,91607,CA,Los Angeles,1163
+129,129,M1732455931,condo,499000,0.0,2,2,Sherman Oaks,14414 Addison St Unit 24,91423,CA,Los Angeles,1166
+130,130,M2713785099,condo,495000,0.0,1,1,Los Angeles,215 W 7th St Apt 401,90014,CA,Los Angeles,752
+131,131,M1716322589,condo,1025000,0.0,1,1,Los Angeles,510 S Hewitt St Unit 501,90013,CA,Los Angeles,1340
+132,132,M2603639538,condo,499000,0.0,3,3,Northridge,9741 Reseda Blvd Unit 46,91324,CA,Los Angeles,1597
+133,133,M1002370472,condo,1999000,1.0,2,3,Playa Vista,12763 Shell Pl Apt 3,90094,CA,Los Angeles,2052
+134,134,M9263638774,condo,524000,0.0,1,1,Los Angeles,939 S Broadway Apt 404,90015,CA,Los Angeles,741
+135,135,M2885815329,condo,649000,0.0,1,1,Pacific Palisades,17368 W Sunset Blvd Apt 403,90272,CA,Los Angeles,684
+136,136,M1311850095,condo,438000,0.0,1,0,Los Angeles,10982 Roebling Ave Apt 328,90024,CA,Los Angeles,475
+137,137,M2246051298,condo,635000,0.0,1,2,Los Angeles,650 Parkman Ave,90026,CA,Los Angeles,880
+138,138,M2714526536,condo,1029000,0.0,2,2,Los Angeles,11805 Mayfield Ave Apt 303,90049,CA,Los Angeles,1520
+139,139,M2058075587,condo,949000,0.0,2,2,Los Angeles,10336 Almayo Ave Apt 103,90064,CA,Los Angeles,1673
+140,140,M1531983012,condo,1395000,0.0,4,3,Los Angeles,4151 Redwood Ave Apt 301,90066,CA,Los Angeles,1890
+141,141,M1648724279,condo,1259000,1.0,2,2,Los Angeles,11863 Darlington Ave Unit 108,90049,CA,Los Angeles,1847
+142,142,M1401659823,condo,1149000,1.0,2,3,Los Angeles,1821 Fairburn Ave Apt 402,90025,CA,Los Angeles,1769
+143,143,M2698204053,condo,1625000,1.0,2,2,Los Angeles,11500 San Vicente Blvd Apt 514,90049,CA,Los Angeles,2254
+144,144,M1915572915,condo,745000,0.0,1,1,Los Angeles,1645 Vine St Apt 610,90028,CA,Los Angeles,1000
+145,145,M1413843494,condo,464900,0.0,2,2,Tarzana,18150 Oxnard St Unit 95,91356,CA,Los Angeles,1121
+146,146,M2400433429,condo,470000,1.0,1,3,Reseda,6500 Tampa Ave Unit 5,91335,CA,Los Angeles,1269
+147,147,M1722285140,condo,599000,0.0,2,2,Los Angeles,812 N Hudson Ave Apt 101,90038,CA,Los Angeles,890
+148,148,M1443294961,condo,349000,0.0,2,2,Canoga Park,7800 Topanga Canyon Blvd Apt 310,91304,CA,Los Angeles,1038
+149,149,M1290794501,condo,619950,1.0,2,2,Studio City,13030 Valleyheart Dr Apt 101,91604,CA,Los Angeles,1316
+150,150,M1534536173,condo,1225000,1.0,3,3,Los Angeles,10654 Wilkins Ave Apt 1,90024,CA,Los Angeles,1970
+151,151,M2744627513,condo,365000,0.0,1,1,Los Angeles,4361 Berryman Ave Apt 3,90066,CA,Los Angeles,555
+152,152,M2876983300,condo,169695,0.0,1,1,Pacific Palisades,501 Palisades Dr Apt 115,90272,CA,Los Angeles,593
+153,153,M2897118282,condo,599000,1.0,2,1,Los Angeles,100 S Doheny Dr Apt 221,90048,CA,Los Angeles,719
+154,154,M1093608569,condo,339000,0.0,2,2,Encino,5412 Lindley Ave Unit 204,91316,CA,Los Angeles,1149
+155,155,M2686591600,condo,1175000,0.0,2,2,Los Angeles,12115 San Vicente Blvd Unit 207,90049,CA,Los Angeles,1296
+156,156,M1497398109,condo,4950000,2.0,3,3,Los Angeles,10551 Wilshire Blvd Apt 703,90024,CA,Los Angeles,4400
+157,157,M2315620515,condo,720000,0.0,2,2,Los Angeles,2323 S Bentley Ave Apt 204,90064,CA,Los Angeles,1399
+158,158,M9981972950,condo,510000,0.0,1,0,Los Angeles,877 Francisco St Apt 623,90017,CA,Los Angeles,482
+159,159,M2427315439,condo,639995,0.0,2,3,Sherman Oaks,4724 Kester Ave Unit 104,91403,CA,Los Angeles,1402
+160,160,M2423628589,condo,739000,1.0,2,2,Los Angeles,2474 S Centinela Ave Apt 3,90064,CA,Los Angeles,948
+161,161,M2129867673,condo,649999,1.0,3,4,Los Angeles,9134 Foster Ln,91311,CA,Los Angeles,2206
+162,162,M2938561158,condo,609000,0.0,2,2,Los Angeles,435 S La Fayette Park Pl,90057,CA,Los Angeles,1355
+163,163,M2915716677,condo,1050000,0.0,2,2,Los Angeles,1658 Camden Ave Apt 108,90025,CA,Los Angeles,1468
+164,164,M1887179814,condo,685000,0.0,2,1,Los Angeles,10501 Wilshire Blvd Unit 1608,90024,CA,Los Angeles,728
+165,165,M2381576159,condo,560000,0.0,1,1,Los Angeles,750 N Kings Rd Apt 115,90069,CA,Los Angeles,664
+166,166,M2716655311,condo,449888,0.0,1,1,Los Angeles,6151 Orange St Apt 118,90048,CA,Los Angeles,569
+167,167,M2644654819,condo,409900,0.0,2,2,Sunland,10574 Sunland Blvd Unit 5,91040,CA,Los Angeles,1095
+168,168,M1084530658,condo,399995,1.0,1,2,Mission Hills San Fer,9928 Sepulveda Blvd Apt 5,91345,CA,Los Angeles,975
+169,169,M2414061392,condo,420000,1.0,2,3,Panorama City,8283 Willis Ave Apt 11,91402,CA,Los Angeles,1475
+170,170,M2872898568,condo,510000,0.0,1,1,Los Angeles,600 W 9th St Apt 1208,90015,CA,Los Angeles,754
+171,171,M9408918460,condo,1225900,0.0,2,3,Playa Vista,6030 Seabluff Dr Apt 420,90094,CA,Los Angeles,1322
+172,172,M2306676689,condo,680000,0.0,2,2,Los Angeles,1827 Greenfield Ave Apt 102,90025,CA,Los Angeles,949
+173,173,M2946061304,condo,395000,0.0,2,3,Canoga Park,20920 Community St Apt 2,91304,CA,Los Angeles,1323
+174,174,M2951550770,condo,549000,0.0,2,2,Woodland Hills,21535 Erwin St Unit 119,91367,CA,Los Angeles,1240
+175,175,M2804412538,condo,799000,0.0,1,1,Los Angeles,215 W 7th St Apt 1401,90014,CA,Los Angeles,910
+176,176,M2339968016,condo,450000,1.0,2,3,Sunland,10514 Sunland Blvd Unit 1,91040,CA,Los Angeles,1204
+177,177,M2355906467,condo,2080000,0.0,3,3,Playa Del Rey,6309 Ocean Front Walk Unit 203,90293,CA,Los Angeles,1660
+178,178,M9073992689,condo,715000,1.0,3,4,Northridge,19502 Cardin Pl,91324,CA,Los Angeles,1814
+179,179,M1456550265,condo,399000,0.0,2,3,Tarzana,5700 Etiwanda Ave Unit 161,91356,CA,Los Angeles,1096
+180,180,M1945812225,condo,685000,0.0,2,2,Los Angeles,100 S Alameda St Unit 140,90012,CA,Los Angeles,1042
+181,181,M2120447402,condo,835000,0.0,2,2,Los Angeles,2385 Roscomare Rd Unit D7,90077,CA,Los Angeles,1218
+182,182,M2111468236,condo,475000,0.0,2,3,Chatsworth,10343 Larwin Ave,91311,CA,Los Angeles,1652
+183,183,M2911319754,condo,399000,0.0,1,1,Los Angeles,421 S La Fayette Park Pl Apt 702,90057,CA,Los Angeles,715
+184,184,M2643416818,condo,534900,1.0,2,2,San Pedro,2235 W 25th St Unit 134,90732,CA,Los Angeles,1360
+185,185,M1489642422,condo,579000,1.0,2,2,Tarzana,5339 Lindley Ave Unit 103,91356,CA,Los Angeles,2112
+186,186,M1954904013,condo,209000,0.0,1,1,Sun Valley,10749 New Haven St Unit 6,91352,CA,Los Angeles,369
+187,187,M2095146486,condo,1499000,1.0,1,2,Los Angeles,10341 Wilshire Blvd,90024,CA,Los Angeles,1155
+188,188,M2712439643,condo,788000,0.0,2,2,Los Angeles,831 S Gretna Green Way Apt 104,90049,CA,Los Angeles,1255
+189,189,M1515281390,condo,549999,0.0,2,2,Encino,5440 Lindley Ave Unit 208,91316,CA,Los Angeles,1582
+190,190,M2245803581,condo,1049000,0.0,3,5,Los Angeles,3501 Tilden Ave Ste 1,90034,CA,Los Angeles,1960
+191,191,M1804939412,condo,2945000,1.0,3,4,Venice,520 Broadway St,90291,CA,Los Angeles,3150
+192,192,M1426023925,condo,799000,1.0,2,3,Los Angeles,750 S Spaulding Ave Apt 313,90036,CA,Los Angeles,1601
+193,193,M1377960611,condo,469000,0.0,1,1,Los Angeles,746 S Los Angeles St Apt 908,90014,CA,Los Angeles,659
+194,194,M2543999844,condo,575000,0.0,1,1,Los Angeles,645 W 9th St Apt 438,90015,CA,Los Angeles,988
+195,195,M2340989511,condo,2129000,1.0,2,2,Pacific Palisades,870 Haverford Ave Unit 403,90272,CA,Los Angeles,1916
+196,196,M1573946266,condo,569000,0.0,1,1,Los Angeles,1050 S Grand Ave Unit 905,90015,CA,Los Angeles,650
+197,197,M2856613351,condo,749000,0.0,2,2,Los Angeles,880 W 1st St Apt 406,90012,CA,Los Angeles,1629
+198,198,M1728220056,condo,465000,0.0,3,3,Sylmar,13452 White Palms Ln,91342,CA,Los Angeles,1616
+199,199,M2576741751,condo,499000,1.0,2,2,Valley Village,12458 Weddington St Unit 3,91607,CA,Los Angeles,1155
