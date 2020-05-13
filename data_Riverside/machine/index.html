@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang='en'>
+	<head>
+		<meta charset="utf-8"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1"> 
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	</head>
+	<body>
+		<div class='container'>
+			<div class='row'>
+				<h1>House Price Prediction</h1>
+				<h3>Prediction:</h3>
+				<form action='index.html' method='get'>
+					<div class="form-group">
+						<label for="county">county</label>
+							<select class="form-control" name="county">
+								<option value=0>Riverside</option>
+                                <option value=1>Santabarbara</option>
+                                <option value=2>San Bernardino</option>
+                                                                                
+							</select>
+					</div> 
+					<div class="form-group">
+						<label for="baths_full">Bathrooms</label>
+							<select class="form-control" name="baths_full">
+								<option value=1>1</option>
+								<option value=2>2</option>
+								<option value=3>3</option>
+							</select>
+					</div>
+					<div class="form-group">
+						<label for="text">Sq.ft</label>
+						<input type="number" class="form-control" name="sq_ft" aria-describedby="inputGroupPrepend" required>
+						<div class="invalid-feedback">
+							Please input Square feet.
+						</div>
+					</div>
+					<div class="form-group">
+						<label for="years_old">Years Old</label>
+							<select class="form-control" name="years_old">
+								<option value=1>1</option>
+								<option value=2>2</option>
+								<option value=3>3</option>
+								<option value=4>4</option>
+								<option value=5>5</option>
+								<option value=6>6</option>
+								<option value=7>7</option>
+								<option value=8>8</option>
+								<option value=9>9</option>
+								<option value=10>10</option>
+							</select>
+					</div>
+					<div class="form-group">
+						<label for="city">city</label>
+							<select class="form-control" name="city">
+								<option value=Riverside>Riverside</option>
+								<option value=Bakersfield>Bakersfield</option>
+								<option value=Santa-Barbara>Santa-Barbara</option>
+								<option value=Fresno>Fresno</option>
+								<option value=Madera>Madera</option>
+								<option value=Kerman>Kerman</option>
+								<option value=Clovis>Clovis</option>
+								<option value=Sanger>Sanger</option>
+								<option value=Montecito>Montecito</option>
+								<option value=Carpinteria>Carpinteria</option>
+								<option value=Corona>Corona</option>
+								<option value=Moreno Valley>Moreno Valley</option>
+								<option value=Eastvale>Eastvale</option>
+								<option value=Perris>Perris</option>
+								<option value=Chino>Chino</option>
+							</select>
+					</div>
+					<button type="submit" class="btn btn-default" name='submit'>Submit</button>
+				</form>
+			</div>
+		</div>
+	</body>
+</html>
