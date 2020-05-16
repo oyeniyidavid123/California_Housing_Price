@@ -1,0 +1,201 @@
+,property_id,prop_type,price,baths_half,baths_full,beds,city,postal_code,state_code,county,building_size
+0,M1705067235,condo,319888.0,0.0,2,2,Sacramento,95835,CA,Sacramento,1651
+1,M2497686502,condo,249000.0,1.0,2,2,Sacramento,95825,CA,Sacramento,1228
+2,M1994154037,condo,320000.0,0.0,2,3,Sacramento,95834,CA,Sacramento,1508
+3,M2461272844,condo,175000.0,0.0,1,1,Sacramento,95825,CA,Sacramento,701
+4,M2044058763,condo,279000.0,1.0,1,2,Roseville,95678,CA,Placer,990
+5,M2771589434,condo,459000.0,0.0,2,2,Sacramento,95818,CA,Sacramento,1399
+6,M1662348051,condo,130000.0,0.0,1,1,Sacramento,95821,CA,Sacramento,656
+7,M9696864509,condo,324990000.0,1.0,2,3,Sacramento,95835,CA,Sacramento,1492
+8,M9086773696,condo,422260.78,2.0,2,3,Sacramento,95833,CA,Sacramento,1740
+9,M2162710679,condo,139900.0,0.0,1,1,Sacramento,95825,CA,Sacramento,688
+10,M1294333879,condo,319900.0,0.0,2,2,Sacramento,95831,CA,Sacramento,1090
+11,M1960148027,condo,350000.0,0.0,2,4,Citrus Heights,95621,CA,Sacramento,1642
+12,M2124701556,condo,333000.0,0.0,2,2,Sacramento,95835,CA,Sacramento,1651
+13,M1069406002,condo,279900.0,0.0,2,3,Elk Grove,95758,CA,Sacramento,1168
+14,M2785671408,condo,249900.0,0.0,1,2,Rancho Cordova,95670,CA,Sacramento,974
+15,M1246017191,condo,119900.0,0.0,1,2,Sacramento,95842,CA,Sacramento,795
+16,M2417065748,condo,349900.0,1.0,2,3,Citrus Heights,95610,CA,Sacramento,1812
+17,M1977589066,condo,129000.0,0.0,1,1,Sacramento,95825,CA,Sacramento,484
+18,M2918203651,condo,340000.0,0.0,2,2,Elk Grove,95757,CA,Sacramento,1519
+19,M1435480822,condo,299888.0,0.0,2,3,Sacramento,95833,CA,Sacramento,1439
+20,M2733450479,condo,280000.0,0.0,2,3,Rancho Cordova,95670,CA,Sacramento,1217
+21,M1182508232,condo,200000.0,1.0,1,2,Fair Oaks,95628,CA,Sacramento,1160
+22,M1169258004,condo,70000.0,0.0,2,2,Sacramento,95828,CA,Sacramento,1045
+23,M1898956156,condo,334900.0,0.0,2,2,Elk Grove,95757,CA,Sacramento,1519
+24,M9421731298,condo,439983.0,1.0,3,3,Sacramento,95833,CA,Sacramento,1656
+25,M9618637857,condo,440416.0,1.0,3,3,Sacramento,95833,CA,Sacramento,1656
+26,M1610700636,condo,255000.0,0.0,2,3,Rancho Cordova,95670,CA,Sacramento,1217
+27,M1473024073,condo,350000.0,1.0,2,3,Sacramento,95831,CA,Sacramento,1414
+28,M1265052295,condo,360000.0,1.0,2,3,Citrus Heights,95610,CA,Sacramento,1630
+29,M1264139812,condo,247000.0,0.0,2,2,Sacramento,95825,CA,Sacramento,1002
+30,M2464422320,condo,245000.0,1.0,1,3,Sacramento,95841,CA,Sacramento,1105
+31,M2972318844,condo,395000.0,1.0,2,3,Sacramento,95831,CA,Sacramento,1485
+32,M9640230657,condo,306760.0,2.0,2,3,Sacramento,95835,CA,Sacramento,1306
+33,M1832944844,condo,289888.0,0.0,2,2,Elk Grove,95624,CA,Sacramento,1309
+34,M1871939541,condo,150000.0,0.0,1,2,Citrus Heights,95621,CA,Sacramento,840
+35,M1724700792,condo,310000.0,1.0,2,3,Sacramento,95835,CA,Sacramento,1429
+36,M1907304920,condo,179000.0,0.0,1,2,Citrus Heights,95621,CA,Sacramento,795
+37,M2236873544,condo,850000.0,0.0,3,5,Sacramento,95821,CA,Sacramento,2154
+38,M1458577878,condo,235000.0,0.0,1,2,Elk Grove,95624,CA,Sacramento,924
+39,M2025668280,condo,410000.0,0.0,2,3,Roseville,95747,CA,Placer,1259
+40,M2729958824,condo,225000.0,1.0,1,3,Rancho Cordova,95670,CA,Sacramento,1236
+41,M2347663294,condo,265000.0,0.0,2,3,Antelope,95843,CA,Sacramento,1245
+42,M1776156988,condo,895000.0,0.0,3,3,Sacramento,95811,CA,Sacramento,3123
+43,M1175610913,condo,309935.0,1.0,2,3,Sacramento,95835,CA,Sacramento,1306
+44,M2499812587,condo,185000.0,1.0,2,3,Sacramento,95823,CA,Sacramento,1344
+45,M1817307669,condo,290000.0,0.0,2,3,Sacramento,95842,CA,Sacramento,1085
+46,M9292069290,condo,399000.0,1.0,3,4,Sacramento,95834,CA,Sacramento,2025
+47,M9217286854,condo,262793.0,1.0,2,3,Sacramento,95834,CA,Sacramento,1263
+48,M2228450155,condo,190000.0,0.0,1,2,Sacramento,95841,CA,Sacramento,924
+49,M2795790074,condo,215000.0,0.0,1,2,Sacramento,95831,CA,Sacramento,932
+50,M2256138688,condo,356625.0,1.0,2,3,Sacramento,95834,CA,Sacramento,1324
+51,M2256026890,condo,359289.0,1.0,2,3,Sacramento,95834,CA,Sacramento,1263
+52,M9970687022,condo,408148.0,1.0,3,4,Sacramento,95834,CA,Sacramento,2025
+53,M2604335332,condo,142000.0,0.0,1,2,Sacramento,95826,CA,Sacramento,840
+54,M1115110589,condo,239000.0,0.0,2,2,Sacramento,95828,CA,Sacramento,900
+55,M1209367530,condo,325000.0,0.0,2,2,Sacramento,95831,CA,Sacramento,1180
+56,M1457124506,condo,115000.0,0.0,1,2,Sacramento,95823,CA,Sacramento,840
+57,M1961792342,condo,288000.0,1.0,2,2,Sacramento,95838,CA,Sacramento,1181
+58,M1539318259,condo,229900.0,1.0,2,3,Sacramento,95825,CA,Sacramento,1380
+59,M1574831205,condo,339900.0,0.0,2,2,Rancho Cordova,95670,CA,Sacramento,1311
+60,M1999277266,condo,240000.0,0.0,1,2,Citrus Heights,95621,CA,Sacramento,1050
+61,M1914567313,condo,268500.0,0.0,2,3,Antelope,95843,CA,Sacramento,1193
+62,M2356434059,condo,275000.0,1.0,1,2,Citrus Heights,95610,CA,Sacramento,1190
+63,M2693272473,condo,194999.0,0.0,2,2,Sacramento,95826,CA,Sacramento,890
+64,M2556508332,condo,159000.0,0.0,1,2,Sacramento,95842,CA,Sacramento,840
+65,M2009932756,condo,135000.0,0.0,1,1,Sacramento,95825,CA,Sacramento,668
+66,M2952138373,condo,285000.0,0.0,2,3,Sacramento,95826,CA,Sacramento,1326
+67,M2049763506,condo,198000.0,0.0,1,2,Elk Grove,95624,CA,Sacramento,840
+68,M2884891017,condo,200000.0,0.0,1,2,Sacramento,95838,CA,Sacramento,781
+69,M1450602966,condo,349900.0,0.0,1,2,Sacramento,95814,CA,Sacramento,950
+70,M2413590569,condo,230000.0,0.0,2,3,Sacramento,95824,CA,Sacramento,1040
+71,M2447960283,condo,450000.0,0.0,2,3,Roseville,95678,CA,Placer,1769
+72,M1910696121,condo,239000.0,1.0,1,3,Citrus Heights,95621,CA,Sacramento,1323
+73,M1820251679,condo,300000.0,0.0,2,3,Sacramento,95842,CA,Sacramento,1085
+74,M1102861466,condo,390000.0,1.0,2,3,Sacramento,95831,CA,Sacramento,1550
+75,M2455577913,condo,184900.0,1.0,1,3,Sacramento,95823,CA,Sacramento,1323
+76,M9181592047,condo,150000.0,0.0,1,1,Sacramento,95826,CA,Sacramento,611
+77,M1318645121,condo,423000.0,1.0,2,3,Roseville,95747,CA,Placer,1820
+78,M2038533895,condo,339500.0,0.0,2,2,Roseville,95747,CA,Placer,1063
+79,M2666509842,condo,289000.0,0.0,2,2,Roseville,95678,CA,Placer,1016
+80,M2423093384,condo,235000.0,0.0,2,3,Sacramento,95824,CA,Sacramento,1042
+81,M2554740660,condo,459000.0,0.0,2,3,Sacramento,95825,CA,Sacramento,1637
+82,M1248019343,condo,209000.0,0.0,2,2,Rancho Cordova,95670,CA,Sacramento,941
+83,M2842341563,condo,150000.0,0.0,1,2,Sacramento,95833,CA,Sacramento,956
+84,M2821300798,condo,139900.0,0.0,1,2,Sacramento,95842,CA,Sacramento,840
+85,M2953580402,condo,239500.0,0.0,2,2,Sacramento,95825,CA,Sacramento,967
+86,M1221588833,condo,309500.0,0.0,2,4,Carmichael,95608,CA,Sacramento,1872
+87,M1886435992,condo,379950.0,1.0,2,4,Citrus Heights,95621,CA,Sacramento,1948
+88,M2358725380,condo,187000.0,0.0,1,2,Sacramento,95821,CA,Sacramento,952
+89,M2858140763,condo,105000.0,0.0,1,2,Sacramento,95823,CA,Sacramento,924
+90,M2930065592,condo,195000.0,0.0,1,2,Sacramento,95825,CA,Sacramento,1000
+91,M1953701019,condo,196000.0,0.0,1,2,Citrus Heights,95621,CA,Sacramento,958
+92,M2079624564,condo,439000.0,1.0,1,2,Sacramento,95814,CA,Sacramento,1014
+93,M2805877495,condo,210000.0,0.0,1,1,Elk Grove,95758,CA,Sacramento,722
+94,M2883520430,condo,199000.0,0.0,2,2,Fair Oaks,95628,CA,Sacramento,994
+95,M1135140099,condo,410000.0,1.0,2,2,Gold River,95670,CA,Sacramento,1564
+96,M2941059045,condo,279000.0,0.0,2,2,Sacramento,95825,CA,Sacramento,1099
+97,M2598080951,condo,449000.0,3.0,3,3,Sacramento,95825,CA,Sacramento,1776
+98,M2222384336,condo,169900.0,0.0,1,1,Sacramento,95825,CA,Sacramento,682
+99,M2701720715,condo,179000.0,0.0,1,1,Sacramento,95825,CA,Sacramento,701
+100,M2760580085,condo,269900.0,0.0,1,3,Sacramento,95826,CA,Sacramento,1191
+101,M2941319906,condo,195000.0,0.0,1,2,Sacramento,95825,CA,Sacramento,781
+102,M2705315365,condo,210000.0,0.0,1,2,Elk Grove,95624,CA,Sacramento,840
+103,M1279241172,condo,355000.0,0.0,2,2,Sacramento,95831,CA,Sacramento,1325
+104,M1148704902,condo,325000.0,1.0,2,3,Sacramento,95834,CA,Sacramento,1522
+105,M1932232687,condo,245000.0,0.0,1,2,Sacramento,95823,CA,Sacramento,857
+106,M2361539494,condo,325000.0,0.0,2,2,Citrus Heights,95610,CA,Sacramento,1649
+107,M1353484376,condo,299000.0,1.0,2,3,Fair Oaks,95628,CA,Sacramento,1746
+108,M1981911337,condo,259950.0,0.0,2,2,Citrus Heights,95621,CA,Sacramento,1060
+109,M1951465062,condo,274900.0,1.0,2,3,Citrus Heights,95621,CA,Sacramento,1323
+110,M2510804114,condo,399950.0,1.0,2,3,Sacramento,95825,CA,Sacramento,1748
+111,M1893646418,condo,220000.0,0.0,2,3,Rancho Cordova,95670,CA,Sacramento,1240
+112,M2665663730,condo,347000.0,0.0,1,2,Sacramento,95814,CA,Sacramento,950
+113,M1448151243,condo,299000.0,0.0,2,3,Sacramento,95833,CA,Sacramento,1178
+114,M1324008942,condo,425000.0,0.0,2,2,Sacramento,95822,CA,Sacramento,1323
+115,M1029448996,condo,264500.0,0.0,1,1,Roseville,95678,CA,Placer,851
+116,M1829415002,condo,189000.0,0.0,1,2,Sacramento,95842,CA,Sacramento,924
+117,M2554351063,condo,750000.0,1.0,1,1,Sacramento,95811,CA,Sacramento,1219
+118,M2704936713,condo,200000.0,1.0,2,2,Sacramento,95841,CA,Sacramento,1210
+119,M2408491432,condo,170000.0,0.0,1,2,Sacramento,95823,CA,Sacramento,1034
+120,M1560984688,condo,249000.0,1.0,1,2,Sacramento,95825,CA,Sacramento,1228
+121,M2350508775,condo,275000.0,0.0,2,2,Citrus Heights,95610,CA,Sacramento,1171
+122,M2840278148,condo,169900.0,0.0,2,2,Sacramento,95825,CA,Sacramento,1002
+123,M2438631690,condo,269900.0,1.0,1,3,Sacramento,95826,CA,Sacramento,1191
+124,M2540664158,condo,529000.0,0.0,1,1,Sacramento,95811,CA,Sacramento,942
+125,M1975258832,condo,240000.0,1.0,1,4,Rancho Cordova,95670,CA,Sacramento,1476
+126,M1953142030,condo,314950.0,0.0,2,3,Citrus Heights,95621,CA,Sacramento,1488
+127,M1826977647,condo,199000.0,0.0,1,1,Sacramento,95831,CA,Sacramento,717
+128,M1261677419,condo,329990.0,1.0,2,3,West Sacramento,95691,CA,Yolo,1487
+129,M1155114644,condo,218000.0,0.0,2,2,Carmichael,95608,CA,Sacramento,1017
+130,M1574796506,condo,275000.0,0.0,2,2,Roseville,95678,CA,Placer,1086
+131,M2943481331,condo,255000.0,0.0,2,2,Sacramento,95825,CA,Sacramento,1228
+132,M2526964082,condo,409000.0,0.0,2,3,Roseville,95678,CA,Placer,1674
+133,M1953793649,condo,215000.0,0.0,1,2,Sacramento,95826,CA,Sacramento,1036
+134,M2712932171,condo,338900.0,0.0,2,2,West Sacramento,95691,CA,Yolo,1728
+135,M1050973270,condo,145000.0,0.0,1,2,Sacramento,95823,CA,Sacramento,895
+136,M2018466078,condo,208800.0,0.0,1,3,Sacramento,95823,CA,Sacramento,1218
+137,M2473912757,condo,159000.0,1.0,1,2,Sacramento,95823,CA,Sacramento,1116
+138,M1802826809,condo,459000.0,0.0,2,4,Roseville,95747,CA,Placer,1512
+139,M2224191228,condo,285000.0,1.0,2,3,Sacramento,95835,CA,Sacramento,1432
+140,M2533871732,condo,180000.0,0.0,1,1,Sacramento,95825,CA,Sacramento,668
+141,M2011293347,condo,251888.0,0.0,2,3,Sacramento,95828,CA,Sacramento,1058
+142,M2130088518,condo,225000.0,0.0,1,2,Sacramento,95826,CA,Sacramento,1140
+143,M2096942190,condo,215500.0,0.0,2,2,Sacramento,95834,CA,Sacramento,958
+144,M2114652624,condo,258000.0,0.0,2,4,Sacramento,95841,CA,Sacramento,1449
+145,M2311554492,condo,289000.0,0.0,2,2,Carmichael,95608,CA,Sacramento,1154
+146,M1952992966,condo,313500.0,1.0,2,3,Citrus Heights,95621,CA,Sacramento,1548
+147,M2719362426,condo,545000.0,1.0,2,3,Sacramento,95811,CA,Sacramento,1485
+148,M2919571088,condo,225000.0,1.0,2,2,Sacramento,95842,CA,Sacramento,1456
+149,M1564085590,condo,299000.0,0.0,2,3,Sacramento,95838,CA,Sacramento,1208
+150,M2917872169,condo,270000.0,1.0,1,3,Sacramento,95826,CA,Sacramento,1191
+151,M1074396613,condo,285000.0,1.0,2,3,Sacramento,95835,CA,Sacramento,1429
+152,M2552616501,condo,179888.0,0.0,1,1,Sacramento,95825,CA,Sacramento,701
+153,M2791364874,condo,265000.0,0.0,2,2,Sacramento,95838,CA,Sacramento,987
+154,M2345962330,condo,325000.0,1.0,2,3,Fair Oaks,95628,CA,Sacramento,1684
+155,M1403100080,condo,350000.0,0.0,4,3,Rancho Cordova,95670,CA,Sacramento,1658
+156,M2106491383,condo,315000.0,0.0,2,3,Carmichael,95608,CA,Sacramento,1357
+157,M1195625844,condo,285000.0,0.0,2,2,Citrus Heights,95621,CA,Sacramento,1157
+158,M2725863453,condo,339500.0,0.0,2,2,West Sacramento,95691,CA,Yolo,1728
+159,M2372532947,condo,294999.0,1.0,2,3,Citrus Heights,95610,CA,Sacramento,1621
+160,M1543824289,condo,310000.0,0.0,2,3,Citrus Heights,95621,CA,Sacramento,1369
+161,M1631545931,condo,375000.0,0.0,2,2,Sacramento,95814,CA,Sacramento,840
+162,M2909360220,condo,234950.0,0.0,2,3,Sacramento,95842,CA,Sacramento,1456
+163,M1157089739,condo,649000.0,0.0,3,4,Sacramento,95825,CA,Sacramento,2537
+164,M2959904210,condo,263000.0,0.0,2,2,Antelope,95843,CA,Sacramento,940
+165,M2536256752,condo,509950.0,0.0,2,2,Sacramento,95825,CA,Sacramento,2039
+166,M1266622233,condo,278500.0,1.0,2,2,Sacramento,95835,CA,Sacramento,1288
+167,M1158816323,condo,167000.0,0.0,1,1,Sacramento,95825,CA,Sacramento,527
+168,M2752940567,condo,174999.0,0.0,1,2,Sacramento,95826,CA,Sacramento,924
+169,M2641485654,condo,285000.0,0.0,2,2,Elk Grove,95758,CA,Sacramento,1076
+170,M2459676247,condo,145000.0,0.0,1,1,Sacramento,95825,CA,Sacramento,725
+171,M1242410927,condo,280000.0,1.0,2,3,West Sacramento,95691,CA,Yolo,1502
+172,M1177250614,condo,267500.0,0.0,2,2,Sacramento,95835,CA,Sacramento,1303
+173,M2994007623,condo,357500.0,0.0,2,2,Sacramento,95831,CA,Sacramento,1297
+174,M2408677762,condo,155000.0,0.0,1,2,Sacramento,95823,CA,Sacramento,1034
+175,M1468871107,condo,295000.0,0.0,2,2,Sacramento,95833,CA,Sacramento,1134
+176,M2222412888,condo,279950.0,1.0,2,2,Sacramento,95835,CA,Sacramento,1254
+177,M1471852382,condo,169777.0,0.0,1,2,Sacramento,95833,CA,Sacramento,956
+178,M2740577018,condo,275000.0,0.0,2,2,Elk Grove,95758,CA,Sacramento,1239
+179,M1789480218,condo,139900.0,0.0,1,1,Sacramento,95825,CA,Sacramento,642
+180,M2484345294,condo,375000.0,1.0,2,3,Sacramento,95825,CA,Sacramento,1821
+181,M2702605161,condo,210000.0,0.0,2,2,Antelope,95843,CA,Sacramento,890
+182,M2805783673,condo,205000.0,0.0,2,2,Citrus Heights,95621,CA,Sacramento,929
+183,M1146223980,condo,310000.0,0.0,2,3,Sacramento,95835,CA,Sacramento,1351
+184,M1175573647,condo,322980.0,1.0,2,3,Sacramento,95835,CA,Sacramento,1354
+185,M2160600034,condo,359000.0,1.0,2,3,Roseville,95678,CA,Placer,1337
+186,M2325950519,condo,250000.0,1.0,1,2,Fair Oaks,95628,CA,Sacramento,1260
+187,M2763392365,condo,187000.0,0.0,2,2,Citrus Heights,95621,CA,Sacramento,929
+188,M2488521006,condo,120000.0,0.0,1,2,Sacramento,95823,CA,Sacramento,896
+189,M2476948968,condo,150000.0,1.0,1,2,Sacramento,95823,CA,Sacramento,988
+190,M1499131052,condo,184999.0,0.0,1,2,Sacramento,95833,CA,Sacramento,956
+191,M1662930461,condo,289000.0,1.0,1,2,Roseville,95678,CA,Placer,941
+192,M2742797904,condo,214500.0,0.0,1,2,Sacramento,95831,CA,Sacramento,1074
+193,M2711412488,condo,146000.0,0.0,1,1,Sacramento,95825,CA,Sacramento,688
+194,M1427436726,condo,430000.0,1.0,2,4,Roseville,95747,CA,Placer,2123
+195,M2682465350,condo,250000.0,0.0,1,1,Sacramento,95835,CA,Sacramento,1125
+196,M2950550244,condo,168000.0,0.0,1,1,Sacramento,95841,CA,Sacramento,682
+197,M2786659918,condo,239000.0,0.0,1,2,Sacramento,95831,CA,Sacramento,932
+198,M1330593119,condo,205000.0,0.0,2,2,Citrus Heights,95621,CA,Sacramento,1014
+199,M2251015219,condo,315000.0,1.0,2,2,Carmichael,95608,CA,Sacramento,1407

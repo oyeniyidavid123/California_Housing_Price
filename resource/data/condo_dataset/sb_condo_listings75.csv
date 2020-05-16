@@ -1,0 +1,77 @@
+,index,property_id,prop_type,price,baths_half,baths_full,beds,city,line,postal_code,state_code,county,building_size
+0,0,M1810670691,condo,1175000,1.0,2,3,Santa Barbara,3734 State St Unit 111,93105,CA,Santa Barbara,2016.0
+1,1,M1980681623,condo,690000,1.0,1,2,Santa Barbara,5305 Traci Dr,93111,CA,Santa Barbara,1154.0
+2,2,M2202362193,condo,639000,1.0,1,1,Santa Barbara,2525 State St Apt 25,93105,CA,Santa Barbara,1352.0
+3,3,M1149058150,condo,925000,1.0,2,2,Santa Barbara,4004 Via Lucero Apt 13,93110,CA,Santa Barbara,2010.0
+4,4,M2058430239,condo,990000,0.0,2,1,Santa Barbara,105 W De La Guerra St Unit D,93101,CA,Santa Barbara,1116.0
+5,5,M1628414157,condo,1435000,1.0,2,2,Santa Barbara,743 E Anapamu St,93103,CA,Santa Barbara,1767.0
+6,6,M1061186832,condo,639000,0.0,2,2,Santa Barbara,1701 Anacapa St Unit 3,93101,CA,Santa Barbara,1242.0
+7,7,M2091170403,condo,627500,0.0,2,3,Santa Barbara,3663 San Remo Dr Apt 2D,93105,CA,Santa Barbara,1268.0
+8,8,M9409651885,condo,1297000,0.0,2,2,Santa Barbara,3736 State St Unit 220,93105,CA,Santa Barbara,1459.0
+9,9,M1135830515,condo,725000,1.0,2,2,Santa Barbara,417 Via Rosa Unit 12,93110,CA,Santa Barbara,1192.0
+10,10,M1487176969,condo,787700,0.0,2,3,Santa Barbara,1930 N Jameson Ln Unit A,93108,CA,Santa Barbara,1258.0
+11,11,M1256274041,condo,749500,1.0,2,3,Santa Barbara,1026 E De La Guerra St Apt C,93103,CA,Santa Barbara,1376.0
+12,12,M1052328910,condo,1425000,1.0,2,3,Santa Barbara,1044 Fairway Rd,93108,CA,Santa Barbara,1588.0
+13,13,M2101700585,condo,740000,0.0,2,2,Santa Barbara,25 LA Cumbre Cir,93105,CA,Santa Barbara,1079.0
+14,14,M2499334488,condo,639000,1.0,1,2,Santa Barbara,5095 Rhoads Ave Apt C,93111,CA,Santa Barbara,1260.0
+15,15,M9757665302,condo,869000,0.0,2,2,Santa Barbara,5463 Tree Farm Ln,93111,CA,Santa Barbara,1758.0
+16,16,M2864924604,condo,959000,0.0,3,3,Santa Barbara,262 Calle Esperanza,93105,CA,Santa Barbara,1646.0
+17,17,M2015604885,condo,699000,0.0,2,2,Santa Barbara,3835 Mariana Way,93105,CA,Santa Barbara,1179.0
+18,18,M2826827591,condo,649000,1.0,1,2,Santa Barbara,415 W Gutierrez St Apt 16,93101,CA,Santa Barbara,1047.0
+19,19,M1771329781,condo,1269000,0.0,1,1,Santa Barbara,1308 Plaza De Sonadores,93108,CA,Santa Barbara,806.0
+20,20,M1740469451,condo,480000,0.0,2,2,Santa Barbara,945 Ward Dr Spc 14,93111,CA,Santa Barbara,1120.0
+21,21,M2893143299,condo,614000,1.0,1,2,Santa Barbara,969 Miramonte Dr Apt 5,93109,CA,Santa Barbara,1049.0
+22,22,M1479185730,condo,835000,1.0,1,1,Santa Barbara,1426 Laguna St Unit A,93101,CA,Santa Barbara,662.0
+23,23,M2729195897,condo,599000,0.0,1,1,Santa Barbara,331 Por La Mar Cir,93103,CA,Santa Barbara,3438.0
+24,24,M1660857874,condo,4250000,1.0,3,3,Santa Barbara,531 Chapala St Unit G,93101,CA,Santa Barbara,1258.0
+25,25,M2910420175,condo,715000,0.0,2,3,Santa Barbara,1932 N Jameson Ln Unit B,93108,CA,Santa Barbara,1451.0
+26,26,M1994274059,condo,1289000,0.0,2,2,Santa Barbara,3724 State St Unit 207,93105,CA,Santa Barbara,1319.0
+27,27,M2641658198,condo,749000,1.0,2,2,Santa Barbara,34 Ocean View Ave Apt 5,93103,CA,Santa Barbara,1009.0
+28,28,M2182444510,condo,569000,0.0,1,1,Santa Barbara,30 W Constance Ave Unit 2,93105,CA,Santa Barbara,1459.0
+29,29,M1810186234,condo,1295000,0.0,2,2,Santa Barbara,3718 State St Unit 216,93105,CA,Santa Barbara,1278.0
+30,30,M2139115591,condo,690000,0.0,2,3,Santa Barbara,415 W Gutierrez St Apt 6,93101,CA,Santa Barbara,1155.0
+31,31,M2587462145,condo,799500,0.0,2,2,Santa Barbara,66 Barranca Ave Apt 4,93109,CA,Santa Barbara,1232.0
+32,32,M1953296230,condo,825000,0.0,2,2,Santa Barbara,2028 Chapala St Unit B,93105,CA,Santa Barbara,1682.0
+33,33,M2198059214,condo,1125000,1.0,2,2,Santa Barbara,328 W Alamar Ave Apt A,93105,CA,Santa Barbara,891.0
+34,34,M2042287300,condo,625000,0.0,2,2,Santa Barbara,1600 Garden St Apt 35,93101,CA,Santa Barbara,1408.0
+35,35,M1040254744,condo,1500000,1.0,2,2,Santa Barbara,1333 Plaza De Sonadores,93108,CA,Santa Barbara,1080.0
+36,36,M1501604175,condo,1995000,1.0,1,1,Santa Barbara,18 W Victoria St Apt 215,93101,CA,Santa Barbara,1271.0
+37,37,M1333898999,condo,575000,1.0,1,2,Santa Barbara,950 Miramonte Dr Apt 4,93109,CA,Santa Barbara,3500.0
+38,38,M2956535416,condo,1795000,1.0,1,1,Santa Barbara,18 W Victoria St Unit 310,93101,CA,Santa Barbara,1104.0
+39,39,M2925743936,condo,1279900,1.0,4,4,Santa Barbara,4683 Gate Way,93110,CA,Santa Barbara,1246.0
+40,40,M1032976513,condo,599000,2.0,1,2,Santa Barbara,5034 Birchwood Rd,93111,CA,Santa Barbara,1223.0
+41,41,M2653515065,condo,699000,1.0,1,2,Santa Barbara,25 Ocean View Ave Unit C5,93103,CA,Santa Barbara,700.0
+42,42,M1603294497,condo,690000,0.0,2,2,Santa Barbara,4694 Calle Reina,93110,CA,Santa Barbara,1288.0
+43,43,M2688134973,condo,2650000,0.0,2,2,Santa Barbara,87 Seaview Dr,93108,CA,Santa Barbara,1459.0
+44,44,M2637100380,condo,650000,0.0,1,1,Santa Barbara,316 Por La Mar Cir,93103,CA,Santa Barbara,1731.0
+45,45,M1972823583,condo,840000,0.0,2,3,Santa Barbara,55 LA Cumbre Cir,93105,CA,Santa Barbara,1840.0
+46,46,M1811155148,condo,1295000,0.0,2,2,Santa Barbara,3718 State St Unit 316,93105,CA,Santa Barbara,1062.0
+47,47,M1283366381,condo,1585000,0.0,2,2,Santa Barbara,52 Seaview Dr,93108,CA,Santa Barbara,1501.0
+48,48,M1502310091,condo,895000,1.0,2,3,Santa Barbara,2605 Hacienda Ct,93105,CA,Santa Barbara,1066.0
+49,49,M2291338743,condo,599000,0.0,1,2,Santa Barbara,3578 Modoc Rd Unit 2,93105,CA,Santa Barbara,1076.0
+50,50,M9276969836,condo,1060000,2.0,2,2,Santa Barbara,3736 State St Unit 109,93105,CA,Santa Barbara,2016.0
+51,51,M1653093319,condo,949000,1.0,1,1,Santa Barbara,105 W De La Guerra St Unit E,93101,CA,Santa Barbara,1209.0
+52,52,M2212630074,condo,1150000,1.0,2,2,Santa Barbara,643 Costa Del Mar Unit C,93103,CA,Santa Barbara,1340.0
+53,53,M1810782489,condo,1150000,1.0,2,3,Santa Barbara,3734 State St Unit 113,93105,CA,Santa Barbara,1132.0
+54,54,M2379070995,condo,910000,0.0,2,2,Santa Barbara,1220 Coast Village Rd Apt 201,93108,CA,Santa Barbara,2305.0
+55,55,M2767202083,condo,555000,1.0,1,2,Santa Barbara,425 Transfer Ave Apt A,93101,CA,Santa Barbara,2122.0
+56,56,M2303607338,condo,1195000,0.0,2,2,Santa Barbara,350 Chapala St Unit 210,93101,CA,Santa Barbara,1003.0
+57,57,M2634020054,condo,1199000,1.0,2,3,Santa Barbara,3791 State St Unit D,93105,CA,Santa Barbara,1472.0
+58,58,M1048846179,condo,1800000,1.0,2,3,Santa Barbara,105 W De La Guerra St Unit H,93101,CA,Santa Barbara,1535.0
+59,59,M1620141852,condo,926000,0.0,1,1,Santa Barbara,1034 Fairway Rd,93108,CA,Santa Barbara,2258.0
+60,60,M1116340427,condo,995000,0.0,2,3,Santa Barbara,282 N LA Cumbre Rd,93110,CA,Santa Barbara,1627.0
+61,61,M2802392353,condo,1174000,0.0,2,2,Santa Barbara,15 W Arrellaga St Apt 4,93101,CA,Santa Barbara,1048.0
+62,62,M1650546732,condo,2299999,1.0,2,2,Santa Barbara,310 E Canon Perdido St,93101,CA,Santa Barbara,1665.0
+63,63,M1953332515,condo,1145000,1.0,1,1,Santa Barbara,401 Chapala St Apt 107,93101,CA,Santa Barbara,1066.0
+64,64,M2094745121,condo,1049000,0.0,2,2,Santa Barbara,105 W De La Guerra St Unit K,93101,CA,Santa Barbara,1664.0
+65,65,M1811080616,condo,1495000,0.0,2,3,Santa Barbara,3718 State St Unit 214,93105,CA,Santa Barbara,1985.0
+66,66,M1816005040,condo,895000,1.0,1,1,Santa Barbara,18 W Victoria St Apt 107,93101,CA,Santa Barbara,700.0
+67,67,M1170152448,condo,559000,0.0,2,2,Santa Barbara,955 Cieneguitas Rd Apt A,93110,CA,Santa Barbara,1724.0
+68,68,M2183597796,condo,1395000,0.0,3,3,Santa Barbara,651 Verde Mar Dr Unit C,93103,CA,Santa Barbara,1250.0
+69,69,M1648087180,condo,1449900,0.0,2,3,Santa Barbara,671 Del Parque Dr Unit C,93103,CA,Santa Barbara,1540.0
+70,70,M2624392694,condo,605000,0.0,1,1,Santa Barbara,432 Por La Mar Cir,93103,CA,Santa Barbara,1686.0
+71,71,M1060937342,condo,2250000,0.0,2,2,Santa Barbara,39 Seaview Dr,93108,CA,Santa Barbara,1310.0
+72,72,M1990748502,condo,636000,0.0,2,2,Santa Barbara,2525 State St Apt 11,93105,CA,Santa Barbara,2422.0
+73,73,M2078885605,condo,2150000,1.0,2,2,Santa Barbara,1375 Plaza De Sonadores,93108,CA,Santa Barbara,1694.0
+74,74,M1066601766,condo,3600000,1.0,2,2,Santa Barbara,1385 Plaza Pacifica,93108,CA,Santa Barbara,2543.0
+75,75,M2911526781,condo,595000,0.0,2,2,Santa Barbara,2638 State St Apt 20,93105,CA,Santa Barbara,1880.0

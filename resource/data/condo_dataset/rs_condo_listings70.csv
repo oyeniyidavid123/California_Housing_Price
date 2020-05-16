@@ -1,0 +1,71 @@
+,property_id,prop_type,price,baths_half,baths_full,beds,city,line,postal_code,state_code,county,building_size
+0,M1584663758,condo,420000,0.0,2,2,Riverside,526 Via Zapata,92507,CA,Riverside,1774
+1,M1219010330,condo,319888,1.0,1,3,Riverside,2747 Tropicana Dr,92504,CA,Riverside,1302
+2,M1593831180,condo,299000,0.0,2,3,Riverside,600 Central Ave Apt 333,92507,CA,Riverside,1281
+3,M1612442779,condo,249900,0.0,2,3,Riverside,4801 Jackson St Unit C,92503,CA,Riverside,1223
+4,M1794705982,condo,299900,1.0,2,3,Riverside,4723 Knickerbocker Ln,92501,CA,Riverside,1405
+5,M1429451107,condo,229900,1.0,1,2,Riverside,1394 Clemson Way,92507,CA,Riverside,1024
+6,M9906760219,condo,437790,0.0,3,4,Riverside,7891 Griffith Peak St,92507,CA,Riverside,1692
+7,M1103714942,condo,248888,0.0,1,2,Riverside,1130 W Blaine St Apt 203,92507,CA,Riverside,810
+8,M1840207698,condo,309500,1.0,2,3,Riverside,4674 Maxwell Ct,92501,CA,Riverside,1405
+9,M2931972516,condo,205000,0.0,2,2,Riverside,1313 Massachusetts Ave Apt 204,92507,CA,Riverside,886
+10,M2694962099,condo,359900,1.0,2,2,Riverside,3707 Camino Anguilla,92503,CA,Riverside,1203
+11,M1588390352,condo,269900,0.0,2,3,Riverside,600 Central Ave Apt 327,92507,CA,Riverside,1281
+12,M1578999334,condo,255000,0.0,2,2,Riverside,600 Central Ave Apt 330,92507,CA,Riverside,1076
+13,M1460679967,condo,215000,0.0,1,1,Riverside,2891 Canyon Crest Dr Apt 48,92507,CA,Riverside,752
+14,M9064427811,condo,408790,1.0,2,3,Riverside,7960 Cold Creek St,92507,CA,Riverside,1498
+15,M1151782569,condo,359000,1.0,2,3,Riverside,7074 Espana Dr,92504,CA,Riverside,2000
+16,M1283491783,condo,250000,1.0,1,2,Riverside,9157 Admiralty Ave,92503,CA,Riverside,775
+17,M1577844090,condo,339900,0.0,2,3,Riverside,843 Daffodil Dr,92507,CA,Riverside,1551
+18,M1140789116,condo,320000,1.0,2,3,Riverside,2646 Shamblin Ct,92504,CA,Riverside,1944
+19,M1506112592,condo,269990,0.0,2,2,Riverside,200 E Alessandro Blvd Unit 25,92508,CA,Riverside,1068
+20,M2154420490,condo,390000,1.0,2,4,Riverside,9738 Winterberry Dr,92503,CA,Riverside,1687
+21,M9280003855,condo,434790,0.0,3,4,Riverside,7885 Griffith Peak St,92507,CA,Riverside,1692
+22,M9574346982,condo,429990,1.0,2,3,Riverside,7876 Cold Creek St,92507,CA,Riverside,1801
+23,M2725669236,condo,339995,1.0,2,2,Riverside,13054 Avenida Pescador,92503,CA,Riverside,1300
+24,M1259753377,condo,289000,0.0,2,3,Riverside,4282 Kingsbury Pl,92503,CA,Riverside,912
+25,M1210365517,condo,179000,0.0,1,1,Riverside,3535 Banbury Dr Apt 14,92505,CA,Riverside,685
+26,M2964500945,condo,259900,0.0,2,2,Riverside,200 E Alessandro Blvd Unit 102,92508,CA,Riverside,930
+27,M2975009941,condo,299900,0.0,2,2,Riverside,375 Central Ave Unit 177,92507,CA,Riverside,1121
+28,M1425176896,condo,236998,1.0,1,3,Riverside,1139 Clark St,92501,CA,Riverside,1150
+29,M2600842850,condo,204900,0.0,1,2,Riverside,6979 Palm Ct Apt 146N,92506,CA,Riverside,1026
+30,M1403786245,condo,239900,1.0,1,3,Riverside,1167 Clark St,92501,CA,Riverside,1150
+31,M9074258322,condo,414672,1.0,2,3,Riverside,20065 Cold Canyon Ct,92507,CA,Riverside,1498
+32,M2342335366,condo,259900,1.0,1,2,Riverside,3511 Polk St,92505,CA,Riverside,1074
+33,M1937371382,condo,260000,0.0,2,2,Riverside,9505 Arlington Ave Apt 31,92503,CA,Riverside,770
+34,M1427848672,condo,235000,1.0,1,2,Riverside,2532 Bryn Mawr Ln,92507,CA,Riverside,1024
+35,M2216334781,condo,340000,1.0,2,3,Riverside,3944 Polk St Unit B,92505,CA,Riverside,1481
+36,M2734575796,condo,319000,1.0,2,3,Riverside,13026 Via Salvia,92503,CA,Riverside,1525
+37,M1628935697,condo,238888,0.0,2,2,Riverside,1000 Central Ave Unit 32,92507,CA,Riverside,1025
+38,M1178166857,condo,390000,0.0,2,2,Riverside,2974 Hyde Park Cir,92506,CA,Riverside,1405
+39,M1566887903,condo,455000,0.0,2,3,Riverside,550 Via Zapata,92507,CA,Riverside,2065
+40,M2785208840,condo,238500,0.0,1,4,Riverside,3707 Pioneer Dr,92509,CA,Riverside,1474
+41,M1032009830,condo,310000,0.0,2,2,Riverside,9042 Chaucer Cir,92503,CA,Riverside,1005
+42,M2957271352,condo,399900,1.0,2,4,Riverside,4421 Watermoor Dr,92505,CA,Riverside,1741
+43,M1145080356,condo,409999,1.0,2,4,Riverside,11503 Park Trails St,92505,CA,Riverside,1794
+44,M2629380521,condo,157000,0.0,1,1,Riverside,1317 Massachusetts Ave Apt 102,92507,CA,Riverside,604
+45,M1886044897,condo,336000,0.0,2,3,Riverside,9065 Paddington Dr,92503,CA,Riverside,1240
+46,M2129640043,condo,410000,1.0,2,3,Riverside,11338 Riverleaf Dr,92505,CA,Riverside,1532
+47,M2629164966,condo,199900,0.0,1,2,Riverside,6979 Palm Ct Apt 102P,92506,CA,Riverside,913
+48,M2964426413,condo,275000,0.0,2,2,Riverside,200 E Alessandro Blvd Unit 118,92508,CA,Riverside,1068
+49,M1886343024,condo,339000,0.0,2,4,Riverside,2772 Tropicana Dr,92504,CA,Riverside,1520
+50,M2628829572,condo,180000,0.0,1,1,Riverside,6979 Palm Ct Apt 125H,92506,CA,Riverside,763
+51,M1609337143,condo,156500,0.0,1,1,Riverside,1311 Massachusetts Ave Apt 101,92507,CA,Riverside,604
+52,M1537794574,condo,299999,0.0,2,2,Riverside,2053 Roberta St,92507,CA,Riverside,1170
+53,M1166353553,condo,379000,0.0,2,4,Riverside,6643 Wintertree Dr,92506,CA,Riverside,1806
+54,M2354339035,condo,425000,1.0,2,4,Riverside,11563 Park Trails St,92505,CA,Riverside,1794
+55,M2129983537,condo,350000,1.0,2,3,Riverside,8232 Casa Colima Way,92504,CA,Riverside,1969
+56,M1319218449,condo,406000,1.0,2,2,Riverside,5865 Fairlane Dr,92506,CA,Riverside,1732
+57,M1416331232,condo,294900,0.0,2,2,Riverside,375 Central Ave Unit 178,92507,CA,Riverside,1121
+58,M2390364807,condo,349900,0.0,2,2,Riverside,5570 Apple Orchard Ln,92506,CA,Riverside,1280
+59,M1608178567,condo,240000,0.0,1,1,Riverside,1040 Central Ave Unit 9,92507,CA,Riverside,861
+60,M1163633139,condo,549000,0.0,2,2,Riverside,6231 Tecate Dr,92506,CA,Riverside,2190
+61,M1326671638,condo,399800,1.0,2,3,Riverside,6582 Le Blan Way,92506,CA,Riverside,2188
+62,M1292584673,condo,292000,0.0,2,3,Riverside,4262 Kingsbury Pl,92503,CA,Riverside,912
+63,M2627078073,condo,220000,0.0,2,2,Riverside,6979 Palm Ct Apt 110,92506,CA,Riverside,1165
+64,M2584147707,condo,239000,0.0,2,3,Riverside,6979 Palm Ct Apt 236K,92506,CA,Riverside,1234
+65,M1014755026,condo,310000,0.0,2,3,Riverside,6025 Avenue Juan Diaz,92509,CA,Riverside,1363
+66,M1424047545,condo,230000,0.0,2,3,Riverside,2367 Gonzaga Ln,92507,CA,Riverside,1085
+67,M1151447176,condo,569500,0.0,2,2,Riverside,6272 Tecate Dr,92506,CA,Riverside,2500
+68,M1634227461,condo,259999,0.0,2,2,Riverside,1000 Central Ave Unit 10,92507,CA,Riverside,1280
+69,M1512863659,condo,510000,0.0,3,4,Riverside,2790 Lime St,92501,CA,Riverside,2188
