@@ -1,0 +1,1939 @@
+property_id,prop_type,price,baths_half,baths_full,beds,city,postal_code,state_code,county,building_size,lot_size
+M1420126120,single_family,499700,0.0,3.0,4,Dixon,95620,CA,Solano,2169.0,4783.0
+M2415397004,single_family,340000,0.0,2.0,3,Sacramento,95826,CA,Sacramento,1270.0,5920.0
+M1186346624,single_family,375900,0.0,3.0,4,Citrus Heights,95610,CA,Sacramento,1736.0,6098.0
+M2897618299,single_family,395000,0.0,2.0,3,Sacramento,95826,CA,Sacramento,1516.0,6739.0
+M2738139661,single_family,1275000,0.0,3.0,3,Sacramento,95831,CA,Sacramento,3375.0,24202.0
+M1231037447,single_family,474999,0.0,2.0,3,West Sacramento,95691,CA,Yolo,2182.0,3920.0
+M2055327904,single_family,649900,0.0,2.0,2,Sacramento,95819,CA,Sacramento,1611.0,5306.0
+M1123778177,single_family,660000,0.0,3.0,4,Auburn,95603,CA,Placer,2620.0,8973.0
+M1008706754,single_family,454950,0.0,2.0,3,Elk Grove,95757,CA,Sacramento,1639.0,6316.0
+M1881725963,single_family,519900,0.0,3.0,4,Elk Grove,95624,CA,Sacramento,2189.0,7279.0
+M2407936662,single_family,359900,0.0,2.0,3,Roseville,95678,CA,Placer,1189.0,8307.0
+M1095711355,single_family,554800,0.0,3.0,4,Roseville,95747,CA,Placer,2186.0,7514.0
+M1200068714,single_family,435000,0.0,3.0,5,Sacramento,95828,CA,Sacramento,2742.0,8795.0
+M1710778861,single_family,524500,1.0,2.0,4,Carmichael,95608,CA,Sacramento,2021.0,9518.0
+M1366453994,single_family,649900,0.0,3.0,4,Rocklin,95677,CA,Placer,2508.0,12985.0
+M2996477691,single_family,675000,1.0,3.0,4,Loomis,95650,CA,Placer,3015.0,10594.0
+M2224550959,single_family,440000,1.0,2.0,4,Rocklin,95677,CA,Placer,1694.0,4870.0
+M1300966727,single_family,1200000,1.0,4.0,6,Lincoln,95648,CA,Placer,5242.0,17633.0
+M1707054192,single_family,345000,0.0,2.0,3,Sacramento,95824,CA,Sacramento,1661.0,4792.0
+M1052498731,single_family,425000,0.0,2.0,3,Orangevale,95662,CA,Sacramento,1644.0,8577.0
+M2523844779,single_family,399000,1.0,2.0,3,Lincoln,95648,CA,Placer,1542.0,4526.0
+M2695006519,single_family,330000,0.0,2.0,3,Sacramento,95842,CA,Sacramento,1236.0,5663.0
+M1636503495,single_family,560000,0.0,3.0,4,Roseville,95747,CA,Placer,2917.0,5018.0
+M2979751611,single_family,574500,0.0,2.0,2,Sacramento,95835,CA,Sacramento,2089.0,7183.0
+M2220364731,single_family,329900,1.0,1.0,3,Sacramento,95821,CA,Sacramento,1075.0,10585.0
+M2825223901,single_family,815000,1.0,3.0,4,Rocklin,95765,CA,Placer,3555.0,14845.0
+M1572157778,single_family,899000,0.0,3.0,4,Sacramento,95829,CA,Sacramento,3238.0,34412.0
+M2953908613,single_family,549900,0.0,3.0,4,Roseville,95678,CA,Placer,2338.0,6368.0
+M2161286840,single_family,515000,0.0,2.0,3,Sacramento,95864,CA,Sacramento,1710.0,5227.0
+M2895423155,single_family,889000,0.0,3.0,3,Davis,95618,CA,Yolo,2777.0,5837.0
+M2076563682,single_family,330000,0.0,2.0,4,Sacramento,95823,CA,Sacramento,1591.0,6090.0
+M2402832084,single_family,649500,0.0,1.0,2,Sacramento,95819,CA,Sacramento,1345.0,5001.0
+M1182069264,single_family,325000,0.0,2.0,3,Sacramento,95828,CA,Sacramento,1130.0,6098.0
+M2750791220,single_family,525000,0.0,3.0,4,Elk Grove,95757,CA,Sacramento,2723.0,6125.0
+M2746840296,single_family,320000,0.0,2.0,3,Rancho Cordova,95670,CA,Sacramento,1390.0,6534.0
+M2177098972,single_family,289900,0.0,1.0,2,Sacramento,95821,CA,Sacramento,943.0,5227.0
+M2983347637,single_family,299900,0.0,1.0,3,Sacramento,95821,CA,Sacramento,1229.0,10019.0
+M2299370455,single_family,269900,0.0,1.0,3,Sacramento,95824,CA,Sacramento,875.0,6098.0
+M1345721688,single_family,409000,0.0,2.0,3,Sacramento,95815,CA,Sacramento,1291.0,7841.0
+M2397730715,single_family,599000,0.0,3.0,5,Lincoln,95648,CA,Placer,3119.0,7144.0
+M1999810362,single_family,399999,1.0,2.0,4,Citrus Heights,95621,CA,Sacramento,1673.0,5789.0
+M2899894671,single_family,665000,1.0,2.0,3,Sacramento,95841,CA,Sacramento,2224.0,44867.0
+M2586467275,single_family,575000,0.0,2.0,3,Sacramento,95831,CA,Sacramento,1770.0,12197.0
+M2026965862,single_family,449500,1.0,2.0,4,Carmichael,95608,CA,Sacramento,1749.0,12902.0
+M1181156356,single_family,565000,0.0,3.0,4,Rocklin,95765,CA,Placer,2422.0,6351.0
+M2968754642,single_family,599000,0.0,3.0,5,Galt,95632,CA,Sacramento,3440.0,14244.0
+M1778078004,single_family,335000,0.0,2.0,3,Citrus Heights,95621,CA,Sacramento,1335.0,7841.0
+M2013521080,single_family,579900,0.0,2.0,4,Rancho Murieta,95683,CA,Sacramento,2094.0,3354.0
+M2667307621,single_family,635000,0.0,2.0,3,Lincoln,95648,CA,Placer,1334.0,230868.0
+M1647073695,single_family,460000,0.0,3.0,4,Elk Grove,95758,CA,Sacramento,2196.0,6504.0
+M1492878597,single_family,739900,1.0,3.0,4,Rancho Murieta,95683,CA,Sacramento,3730.0,6364.0
+M1161320236,single_family,425000,0.0,2.0,3,Woodland,95695,CA,Yolo,1646.0,14323.0
+M1172026200,single_family,959900,0.0,4.0,5,Rocklin,95765,CA,Placer,3555.0,13403.0
+M1046028978,single_family,449000,0.0,2.0,4,Sacramento,95821,CA,Sacramento,1967.0,10820.0
+M2756672941,single_family,285000,1.0,1.0,2,Sacramento,95834,CA,Sacramento,1054.0,5663.0
+M1760864714,single_family,915000,0.0,3.0,4,Granite Bay,95746,CA,Placer,2549.0,10106.0
+M1124433372,single_family,320000,0.0,2.0,2,Antelope,95843,CA,Sacramento,1090.0,4905.0
+M2363480869,single_family,539000,0.0,2.0,3,Davis,95616,CA,Yolo,1234.0,7527.0
+M1317971003,single_family,1389000,0.0,4.0,5,Granite Bay,95746,CA,Placer,3931.0,217800.0
+M1613984687,single_family,157500,0.0,1.0,2,Sacramento,95838,CA,Sacramento,724.0,8712.0
+M2430408880,single_family,749000,0.0,3.0,3,Sacramento,95818,CA,Sacramento,1934.0,4356.0
+M1316161817,single_family,449900,0.0,3.0,5,Lodi,95240,CA,San Joaquin,2300.0,7802.0
+M1075384972,single_family,899000,0.0,3.0,3,Davis,95616,CA,Yolo,2244.0,10559.0
+M2606924352,single_family,409000,1.0,2.0,4,Orangevale,95662,CA,Sacramento,2040.0,11761.0
+M2787938333,single_family,710000,1.0,2.0,2,Sacramento,95818,CA,Sacramento,1536.0,6534.0
+M1703960263,single_family,429900,0.0,2.0,3,Roseville,95747,CA,Placer,1577.0,6007.0
+M2224887208,single_family,429000,0.0,1.0,2,Sacramento,95819,CA,Sacramento,758.0,3816.0
+M1717584007,single_family,324900,0.0,2.0,3,Sacramento,95842,CA,Sacramento,1600.0,6098.0
+M1465894784,single_family,385000,0.0,2.0,3,Woodland,95776,CA,Yolo,1335.0,4792.0
+M2198115830,single_family,440000,0.0,3.0,3,Rancho Cordova,95670,CA,Sacramento,2325.0,4587.0
+M2748534933,single_family,549000,1.0,3.0,4,Orangevale,95662,CA,Sacramento,3276.0,10550.0
+M2164686264,single_family,415000,0.0,2.0,4,Elk Grove,95624,CA,Sacramento,1744.0,7614.0
+M1416714378,single_family,600000,0.0,3.0,4,Roseville,95661,CA,Placer,2608.0,14074.0
+M1488272141,single_family,445000,1.0,2.0,4,Sacramento,95829,CA,Sacramento,1881.0,7449.0
+M2204048057,single_family,379999,1.0,2.0,2,West Sacramento,95605,CA,Yolo,1313.0,1742.0
+M2525222885,single_family,299900,0.0,2.0,3,Sacramento,95842,CA,Sacramento,960.0,6098.0
+M1325669462,single_family,372000,0.0,2.0,3,Antelope,95843,CA,Sacramento,1408.0,6625.0
+M1382195599,single_family,369900,0.0,2.0,3,Rancho Cordova,95670,CA,Sacramento,1127.0,6970.0
+M1719075745,single_family,625000,0.0,3.0,4,Roseville,95678,CA,Placer,3110.0,7444.0
+M2017816538,single_family,439900,0.0,3.0,4,Elk Grove,95758,CA,Sacramento,2000.0,5776.0
+M1926446316,single_family,345000,0.0,2.0,3,Sacramento,95838,CA,Sacramento,1381.0,5536.0
+M2430309678,single_family,869000,1.0,2.0,4,Sacramento,95864,CA,Sacramento,2250.0,9148.0
+M1310859872,single_family,451887,0.0,2.0,4,Plumas Lake,95961,CA,Yuba,1884.0,13700.0
+M1941367702,single_family,499900,0.0,3.0,5,Roseville,95747,CA,Placer,2567.0,4983.0
+M2328149209,single_family,514900,0.0,2.0,3,Citrus Heights,95610,CA,Sacramento,2088.0,9148.0
+M2567890463,single_family,1489000,0.0,4.0,4,Acampo,95220,CA,San Joaquin,5289.0,217800.0
+M2501632014,single_family,394500,0.0,2.0,3,Sacramento,95835,CA,Sacramento,1877.0,4992.0
+M2897804629,single_family,417000,0.0,2.0,3,Sacramento,95826,CA,Sacramento,1600.0,6325.0
+M2075961130,single_family,499000,0.0,2.0,3,Sacramento,95831,CA,Sacramento,1538.0,9148.0
+M1340378534,single_family,959000,1.0,2.0,5,Davis,95616,CA,Yolo,2430.0,9518.0
+M1194202614,single_family,409895,0.0,2.0,3,Sacramento,95835,CA,Sacramento,1527.0,4530.0
+M1209176492,single_family,1125000,0.0,3.0,4,El Dorado Hills,95762,CA,El Dorado,3266.0,19184.0
+M2506776243,single_family,319000,0.0,2.0,3,North Highlands,95660,CA,Sacramento,1309.0,8276.0
+M1165377271,single_family,429000,0.0,3.0,4,Citrus Heights,95610,CA,Sacramento,1972.0,7405.0
+M1932953335,single_family,1330000,0.0,4.0,5,Granite Bay,95746,CA,Placer,4033.0,18761.0
+M2305904988,single_family,1250000,0.0,3.0,4,Davis,95616,CA,Yolo,2223.0,13286.0
+M1183324934,single_family,369999,0.0,2.0,3,Elk Grove,95758,CA,Sacramento,1279.0,4569.0
+M2351931971,single_family,978888,0.0,3.0,4,Sacramento,95831,CA,Sacramento,3319.0,8778.0
+M2846430852,single_family,968888,1.0,3.0,5,El Dorado Hills,95762,CA,El Dorado,3837.0,16553.0
+M2335485036,single_family,420000,0.0,2.0,3,West Sacramento,95691,CA,Yolo,1605.0,6098.0
+M2949385858,single_family,799950,0.0,3.0,4,Roseville,95661,CA,Placer,2735.0,15564.0
+M1389499724,single_family,425000,0.0,2.0,3,Rancho Cordova,95670,CA,Sacramento,1407.0,6490.0
+M2781747112,single_family,440000,0.0,3.0,4,Elk Grove,95758,CA,Sacramento,2059.0,6303.0
+M1657434850,single_family,880000,0.0,4.0,5,Rocklin,95677,CA,Placer,3896.0,13656.0
+M1986995097,single_family,557900,0.0,2.0,3,Roseville,95747,CA,Placer,2069.0,7418.0
+M9557208734,single_family,602430,0.0,3.0,4,West Sacramento,95691,CA,Yolo,2114.0,6626.0
+M1541973587,single_family,449900,0.0,3.0,4,Rancho Cordova,95670,CA,Sacramento,2109.0,6965.0
+M2347193176,single_family,395000,0.0,2.0,3,Roseville,95678,CA,Placer,1513.0,4822.0
+M2124435132,single_family,768000,0.0,2.0,2,Newcastle,95658,CA,Placer,1199.0,261360.0
+M2751506640,single_family,440000,0.0,2.0,3,Woodland,95695,CA,Yolo,1574.0,6499.0
+M1000441571,single_family,498000,0.0,3.0,5,Sacramento,95824,CA,Sacramento,2573.0,9165.0
+M1713576955,single_family,530000,0.0,3.0,5,Sacramento,95834,CA,Sacramento,2791.0,6512.0
+M1555002388,single_family,669000,0.0,3.0,4,Roseville,95747,CA,Placer,3036.0,6364.0
+M2539123081,single_family,315000,0.0,1.0,3,Sacramento,95842,CA,Sacramento,960.0,8276.0
+M2588749944,single_family,690000,0.0,3.0,4,Carmichael,95608,CA,Sacramento,2342.0,19515.0
+M2250115396,single_family,399000,0.0,2.0,3,Roseville,95678,CA,Placer,1253.0,6604.0
+M2806214634,single_family,294888,0.0,2.0,3,Lodi,95240,CA,San Joaquin,1311.0,7200.0
+M2829625624,single_family,290000,0.0,1.0,3,Sacramento,95815,CA,Sacramento,1057.0,7405.0
+M1527096100,single_family,429900,0.0,2.0,3,Roseville,95661,CA,Placer,1359.0,8307.0
+M2178495727,single_family,579950,0.0,3.0,4,Lodi,95242,CA,San Joaquin,2778.0,7841.0
+M2352260274,single_family,549000,0.0,2.0,4,Fair Oaks,95628,CA,Sacramento,1724.0,10454.0
+M2651772828,single_family,390000,0.0,2.0,3,Sacramento,95835,CA,Sacramento,1358.0,4713.0
+M2437190609,single_family,399900,0.0,2.0,3,Sacramento,95834,CA,Sacramento,1838.0,2509.0
+M1868758667,single_family,340000,1.0,2.0,4,Sacramento,95823,CA,Sacramento,1807.0,2073.0
+M1893965639,single_family,1495000,1.0,2.0,4,Sacramento,95816,CA,Sacramento,3746.0,6098.0
+M2601858110,single_family,529000,0.0,3.0,4,Sacramento,95831,CA,Sacramento,1793.0,8712.0
+M1260431011,single_family,549900,0.0,3.0,4,Elk Grove,95757,CA,Sacramento,3281.0,6264.0
+M1840390543,single_family,415000,1.0,2.0,3,Woodland,95776,CA,Yolo,1556.0,3049.0
+M2124089528,single_family,480000,0.0,2.0,3,Roseville,95747,CA,Placer,2084.0,6103.0
+M2798420243,single_family,559900,1.0,2.0,4,West Sacramento,95691,CA,Yolo,3018.0,7405.0
+M1862265833,single_family,499900,0.0,3.0,4,Elk Grove,95757,CA,Sacramento,2645.0,4770.0
+M1215235953,single_family,349900,0.0,2.0,3,Sacramento,95828,CA,Sacramento,1407.0,6146.0
+M2687171224,single_family,419900,0.0,1.0,2,Sacramento,95817,CA,Sacramento,988.0,7405.0
+M1615566303,single_family,300000,0.0,1.0,3,Sacramento,95822,CA,Sacramento,1410.0,9583.0
+M1136232155,single_family,249900,0.0,2.0,3,Sacramento,95828,CA,Sacramento,1222.0,4129.0
+M1929526794,single_family,369000,1.0,2.0,3,Citrus Heights,95621,CA,Sacramento,1258.0,6970.0
+M1208242061,single_family,437000,1.0,2.0,4,Lincoln,95648,CA,Placer,2218.0,6429.0
+M1416353091,single_family,429900,0.0,2.0,3,Roseville,95661,CA,Placer,1680.0,6473.0
+M2671285567,single_family,279900,0.0,2.0,2,Sacramento,95823,CA,Sacramento,1132.0,3245.0
+M1003893639,single_family,719900,0.0,3.0,4,Loomis,95650,CA,Placer,2734.0,36534.0
+M1478858379,single_family,365000,1.0,2.0,3,Sacramento,95833,CA,Sacramento,1734.0,5663.0
+M1592143206,single_family,699000,0.0,3.0,4,Lodi,95242,CA,San Joaquin,2605.0,7719.0
+M1640403091,single_family,410000,1.0,2.0,3,Elk Grove,95758,CA,Sacramento,1410.0,5702.0
+M2268546659,single_family,515000,0.0,2.0,3,Rancho Cordova,95742,CA,Sacramento,2305.0,4726.0
+M2020593386,single_family,519500,1.0,2.0,4,Carmichael,95608,CA,Sacramento,1894.0,10454.0
+M1340613105,single_family,485000,0.0,3.0,4,Antelope,95843,CA,Sacramento,2047.0,7889.0
+M2960635008,single_family,399900,0.0,2.0,3,Sacramento,95826,CA,Sacramento,1379.0,6939.0
+M1436997353,single_family,559000,0.0,3.0,4,Carmichael,95608,CA,Sacramento,2222.0,7841.0
+M2889364000,single_family,548000,0.0,3.0,4,Roseville,95678,CA,Placer,2382.0,6167.0
+M1375398676,single_family,510000,1.0,1.0,3,Sacramento,95822,CA,Sacramento,1579.0,7841.0
+M1935069757,single_family,420000,1.0,2.0,4,Roseville,95747,CA,Placer,1658.0,2274.0
+M1251354875,single_family,230000,0.0,2.0,4,Sacramento,95832,CA,Sacramento,1199.0,6534.0
+M2661174118,single_family,349888,0.0,2.0,3,Sacramento,95823,CA,Sacramento,2063.0,8712.0
+M2253492806,single_family,439999,1.0,2.0,4,Sacramento,95834,CA,Sacramento,2113.0,3228.0
+M1570221172,single_family,939000,0.0,4.0,5,Folsom,95630,CA,Sacramento,4212.0,11935.0
+M1763719244,single_family,394000,0.0,3.0,4,Sacramento,95841,CA,Sacramento,1696.0,10019.0
+M1460379424,single_family,315000,0.0,2.0,2,Woodland,95776,CA,Yolo,1153.0,3358.0
+M2026616680,single_family,369000,0.0,2.0,3,Antelope,95843,CA,Sacramento,1545.0,4726.0
+M2508542264,single_family,359900,0.0,2.0,3,Orangevale,95662,CA,Sacramento,1008.0,10454.0
+M1536113388,single_family,499900,0.0,3.0,4,Sacramento,95825,CA,Sacramento,2131.0,11761.0
+M2345368001,single_family,549000,0.0,1.0,2,Sacramento,95819,CA,Sacramento,1129.0,5946.0
+M1124980989,single_family,624900,1.0,2.0,4,Citrus Heights,95610,CA,Sacramento,2300.0,29621.0
+M1880698290,single_family,550000,1.0,2.0,3,Roseville,95747,CA,Placer,2609.0,7484.0
+M1951673127,single_family,520000,1.0,3.0,4,Sacramento,95835,CA,Sacramento,2614.0,5776.0
+M2338901397,single_family,589000,0.0,2.0,3,Folsom,95630,CA,Sacramento,1884.0,8176.0
+M1345658528,single_family,419000,1.0,1.0,3,Carmichael,95608,CA,Sacramento,1296.0,12972.0
+M1994237834,single_family,415000,1.0,2.0,4,Sacramento,95835,CA,Sacramento,2093.0,3149.0
+M2778754464,single_family,309900,0.0,2.0,4,North Highlands,95660,CA,Sacramento,1286.0,6534.0
+M1877804815,single_family,355000,0.0,2.0,3,Sacramento,95864,CA,Sacramento,1421.0,5227.0
+M2385140575,single_family,685000,0.0,3.0,5,El Dorado Hills,95762,CA,El Dorado,3105.0,20909.0
+M2780521554,single_family,649000,0.0,2.0,3,Loomis,95650,CA,Placer,1580.0,217800.0
+M1366416728,single_family,975000,1.0,3.0,5,Granite Bay,95746,CA,Placer,4111.0,29503.0
+M1826716785,single_family,490000,0.0,3.0,4,Sacramento,95831,CA,Sacramento,2031.0,6534.0
+M1044700702,single_family,250000,0.0,1.0,2,Sacramento,95817,CA,Sacramento,900.0,6098.0
+M2537367913,single_family,550000,0.0,1.0,2,Oakland,94605,CA,Alameda,1050.0,3325.0
+M2266195910,single_family,1550000,0.0,3.0,4,Danville,94526,CA,Contra Costa,2919.0,11067.0
+M1925232987,single_family,2099000,0.0,3.0,5,Pleasant Hill,94523,CA,Contra Costa,3381.0,84376.0
+M2488169930,single_family,789888,1.0,1.0,2,Redwood City,94063,CA,San Mateo,760.0,2500.0
+M1073688011,single_family,448888,0.0,1.0,1,Berkeley,94706,CA,Alameda,642.0,3800.0
+M2099355398,single_family,789000,0.0,1.0,2,Oakland,94606,CA,Alameda,1308.0,5250.0
+M2487643774,single_family,2295000,1.0,3.0,4,Piedmont,94610,CA,Alameda,2656.0,4070.0
+M2957649574,single_family,539000,1.0,3.0,3,San Pablo,94806,CA,Contra Costa,1597.0,2424.0
+M2378155458,single_family,1295000,1.0,4.0,5,Hercules,94547,CA,Contra Costa,4022.0,7183.0
+M9718196622,single_family,2075000,0.0,3.0,4,Oakland,94610,CA,Alameda,2706.0,7400.0
+M1367238138,single_family,1099888,0.0,2.0,3,Fremont,94536,CA,Alameda,1522.0,5600.0
+M1794081173,single_family,1598000,1.0,2.0,4,Brisbane,94005,CA,San Mateo,2460.0,3473.0
+M1608813311,single_family,1425000,0.0,2.0,3,Lafayette,94549,CA,Contra Costa,1896.0,13500.0
+M2048522269,single_family,1495000,0.0,2.0,3,San Francisco,94122,CA,San Francisco,1506.0,2996.0
+M2646809763,single_family,729000,0.0,2.0,3,Castro Valley,94546,CA,Alameda,1476.0,5040.0
+M2679294354,single_family,1185000,0.0,2.0,3,South San Francisco,94080,CA,San Mateo,1601.0,4575.0
+M1117206409,single_family,748000,1.0,2.0,3,Hayward,94544,CA,Alameda,1415.0,3416.0
+M2881009428,single_family,1179000,1.0,2.0,3,San Ramon,94582,CA,Contra Costa,2411.0,4800.0
+M1011952894,single_family,1695000,0.0,3.0,3,Berkeley,94703,CA,Alameda,2011.0,2364.0
+M1833835558,single_family,1598000,0.0,2.0,4,Oakland,94609,CA,Alameda,2073.0,4140.0
+M1414597740,single_family,1025000,0.0,2.0,3,Kensington,94708,CA,Contra Costa,1373.0,4000.0
+M1434600441,single_family,898888,0.0,2.0,3,Union City,94587,CA,Alameda,1357.0,5500.0
+M1747791645,single_family,960000,0.0,1.0,3,Alameda,94501,CA,Alameda,1600.0,130680.0
+M1597871062,single_family,1075000,0.0,3.0,5,Hayward,94541,CA,Alameda,3140.0,7500.0
+M1562629436,single_family,575000,0.0,2.0,4,Richmond,94806,CA,Contra Costa,1165.0,6000.0
+M2376424927,single_family,4495000,0.0,2.0,3,Belvedere,94920,CA,Marin,1750.0,7527.0
+M2452315660,single_family,6800000,2.0,5.0,5,Piedmont,94611,CA,Alameda,7214.0,21413.0
+M9907903630,single_family,975000,0.0,2.0,3,Richmond,94804,CA,Contra Costa,2980.0,9250.0
+M1996089546,single_family,1200000,0.0,2.0,4,Pleasanton,94566,CA,Alameda,2100.0,7156.0
+M1499966861,single_family,2177000,0.0,2.0,4,Tiburon,94920,CA,Marin,2723.0,2017.0
+M1257405317,single_family,389999,0.0,2.0,3,Vallejo,94591,CA,Solano,1228.0,9583.0
+M2384875678,single_family,550000,0.0,1.0,4,Oakland,94621,CA,Alameda,1361.0,3500.0
+M2842261408,single_family,999800,1.0,2.0,4,Pleasanton,94588,CA,Alameda,1835.0,6132.0
+M2831886955,single_family,1899800,0.0,3.0,5,Fremont,94539,CA,Alameda,2363.0,10224.0
+M2660222353,single_family,898000,0.0,2.0,4,Berkeley,94702,CA,Alameda,1188.0,3857.0
+M2341880226,single_family,988000,0.0,3.0,4,Pleasanton,94566,CA,Alameda,1900.0,3192.0
+M1570952212,single_family,1250000,0.0,3.0,4,Alameda,94501,CA,Alameda,2213.0,3360.0
+M1002802716,single_family,1455000,0.0,2.0,4,Alamo,94507,CA,Contra Costa,2417.0,35284.0
+M2319696930,single_family,2195000,0.0,4.0,4,Orinda,94563,CA,Contra Costa,3016.0,10942.0
+M2335556388,single_family,998000,1.0,2.0,4,Dublin,94568,CA,Alameda,1760.0,7116.0
+M2225080203,single_family,699950,0.0,3.0,4,Rodeo,94572,CA,Contra Costa,2315.0,9028.0
+M2996098031,single_family,1050000,0.0,2.0,3,Walnut Creek,94597,CA,Contra Costa,1524.0,15246.0
+M1676548152,single_family,1095000,0.0,2.0,3,San Francisco,94116,CA,San Francisco,1355.0,3000.0
+M2870237093,single_family,1375000,1.0,2.0,2,Pleasanton,94566,CA,Alameda,2372.0,5132.0
+M2773711670,single_family,998000,0.0,2.0,3,Pleasanton,94566,CA,Alameda,1610.0,6914.0
+M2256443605,single_family,1250000,1.0,2.0,4,Pleasant Hill,94523,CA,Contra Costa,2929.0,40920.0
+M2019322675,single_family,995000,0.0,2.0,3,Oakland,94611,CA,Alameda,1965.0,6660.0
+M1635123067,single_family,1418000,1.0,2.0,4,Moraga,94556,CA,Contra Costa,2416.0,24780.0
+M2736320295,single_family,499000,1.0,1.0,3,Richmond,94804,CA,Contra Costa,984.0,3800.0
+M1065997593,single_family,1388000,1.0,2.0,4,San Ramon,94582,CA,Contra Costa,2907.0,6740.0
+M9600309264,single_family,1395000,0.0,2.0,5,Berkeley,94707,CA,Alameda,1826.0,3800.0
+M1902318988,single_family,995000,0.0,1.0,3,Oakland,94619,CA,Alameda,1456.0,5120.0
+M2568752135,single_family,899000,0.0,2.0,3,Fremont,94536,CA,Alameda,1120.0,5100.0
+M2168725935,single_family,899000,0.0,1.0,2,Oakland,94602,CA,Alameda,1556.0,4500.0
+M2069982377,single_family,790000,1.0,2.0,4,San Francisco,94134,CA,San Francisco,1726.0,1425.0
+M2090822384,single_family,1235000,0.0,3.0,4,Danville,94526,CA,Contra Costa,2528.0,5600.0
+M2949962641,single_family,879000,1.0,2.0,3,Hayward,94544,CA,Alameda,1871.0,3306.0
+M2836736602,single_family,599000,1.0,1.0,3,Oakland,94602,CA,Alameda,977.0,4356.0
+M2177818642,single_family,1195000,0.0,3.0,4,San Francisco,94112,CA,San Francisco,1963.0,2121.0
+M1765349038,single_family,2398000,1.0,4.0,5,Moraga,94556,CA,Contra Costa,4786.0,24504.0
+M1319308603,single_family,1098000,1.0,1.0,2,San Francisco,94110,CA,San Francisco,800.0,1324.0
+M1685136224,single_family,950000,0.0,2.0,3,Castro Valley,94546,CA,Alameda,1519.0,4750.0
+M2307514730,single_family,1000000,0.0,3.0,5,Newark,94560,CA,Alameda,2244.0,6565.0
+M1765237240,single_family,2015000,1.0,3.0,4,Moraga,94556,CA,Contra Costa,3315.0,10720.0
+M2680546813,single_family,995000,0.0,2.0,4,Newark,94560,CA,Alameda,1432.0,9230.0
+M1809278188,single_family,1700000,1.0,5.0,6,Alamo,94507,CA,Contra Costa,4487.0,30600.0
+M2920213200,single_family,950000,1.0,2.0,2,Danville,94526,CA,Contra Costa,1375.0,1860.0
+M2226375400,single_family,710000,0.0,2.0,3,San Lorenzo,94580,CA,Alameda,1252.0,4998.0
+M1490433046,single_family,975000,0.0,2.0,4,Albany,94706,CA,Alameda,1994.0,4092.0
+M2248196459,single_family,1229000,0.0,2.0,4,Danville,94526,CA,Contra Costa,1681.0,12000.0
+M1765386304,single_family,1954000,1.0,3.0,4,Moraga,94556,CA,Contra Costa,3131.0,10440.0
+M2180403749,single_family,1100000,0.0,2.0,4,Fremont,94536,CA,Alameda,1562.0,9450.0
+M2718939844,single_family,999950,0.0,2.0,3,San Ramon,94583,CA,Contra Costa,1760.0,7560.0
+M2187365752,single_family,800000,0.0,2.0,4,Oakland,94601,CA,Alameda,1992.0,3000.0
+M2484286720,single_family,849000,0.0,4.0,3,Richmond,94805,CA,Contra Costa,2018.0,3569.0
+M1401465607,single_family,1325000,0.0,2.0,3,Lafayette,94549,CA,Contra Costa,1840.0,10800.0
+M1256108897,single_family,1298000,0.0,4.0,5,Pleasanton,94566,CA,Alameda,2562.0,52708.0
+M2384173922,single_family,1475000,1.0,2.0,5,Fremont,94536,CA,Alameda,2750.0,6721.0
+M2350600457,single_family,1399999,0.0,3.0,4,Pleasanton,94566,CA,Alameda,2388.0,7000.0
+M1875556966,single_family,1730000,0.0,3.0,4,Fremont,94539,CA,Alameda,2145.0,6510.0
+M2998020483,single_family,1580000,0.0,2.0,3,Greenbrae,94904,CA,Marin,1608.0,7100.0
+M2506104936,single_family,900000,0.0,2.0,4,Newark,94560,CA,Alameda,1654.0,3877.0
+M2057471628,single_family,975000,0.0,1.0,3,Alameda,94501,CA,Alameda,1538.0,3441.0
+M1819603117,single_family,1695000,1.0,2.0,4,Alameda,94501,CA,Alameda,2511.0,5250.0
+M1503435712,single_family,1795000,0.0,2.0,4,Oakland,94611,CA,Alameda,2445.0,6000.0
+M2145804171,single_family,995000,0.0,2.0,3,El Cerrito,94530,CA,Contra Costa,1310.0,5000.0
+M1457564485,single_family,979000,0.0,1.0,3,Albany,94706,CA,Alameda,1305.0,4400.0
+M2381430764,single_family,1158888,0.0,3.0,4,Dublin,94568,CA,Alameda,2234.0,8499.0
+M1777639403,single_family,1948000,0.0,3.0,5,Alamo,94507,CA,Contra Costa,3151.0,16445.0
+M2087580247,single_family,1935000,1.0,3.0,5,Danville,94526,CA,Contra Costa,3541.0,10580.0
+M2000882851,single_family,715000,0.0,3.0,4,Rodeo,94572,CA,Contra Costa,2462.0,4940.0
+M2602004728,single_family,698000,0.0,2.0,3,Hayward,94544,CA,Alameda,1231.0,5320.0
+M2003696873,single_family,895000,0.0,1.0,2,Alameda,94501,CA,Alameda,1174.0,5400.0
+M1438142662,single_family,4925000,1.0,3.0,4,Belvedere,94920,CA,Marin,3402.0,5984.0
+M1642642441,single_family,958000,1.0,2.0,4,San Francisco,94112,CA,San Francisco,1780.0,2495.0
+M1752410360,single_family,1624000,1.0,2.0,4,Alamo,94507,CA,Contra Costa,3007.0,26180.0
+M2869207497,single_family,865000,0.0,2.0,3,Pleasant Hill,94523,CA,Contra Costa,1748.0,5000.0
+M9935337325,single_family,872500,0.0,2.0,4,Union City,94587,CA,Alameda,1374.0,5780.0
+M1092903603,single_family,1179000,1.0,2.0,4,Danville,94526,CA,Contra Costa,1943.0,9000.0
+M2378566361,single_family,995000,0.0,2.0,4,Piedmont,94618,CA,Alameda,1927.0,9983.0
+M1963078952,single_family,2595000,0.0,3.0,4,Corte Madera,94925,CA,Marin,3055.0,16988.0
+M2598835930,single_family,2495000,1.0,2.0,3,Greenbrae,94904,CA,Marin,2589.0,4060.0
+M1761511352,single_family,1190000,0.0,2.0,3,San Francisco,94121,CA,San Francisco,1395.0,2996.0
+M1662401737,single_family,1650000,0.0,3.0,5,Moraga,94556,CA,Contra Costa,2562.0,16500.0
+M2252665102,single_family,1475000,0.0,2.0,4,San Francisco,94121,CA,San Francisco,2033.0,2535.0
+M1340096701,single_family,1450000,0.0,2.0,3,San Francisco,94121,CA,San Francisco,1825.0,2374.0
+M1733422277,single_family,1839000,0.0,3.0,2,San Francisco,94127,CA,San Francisco,1975.0,6446.0
+M1841792889,single_family,2900000,0.0,4.0,4,San Francisco,94110,CA,San Francisco,2185.0,1613.0
+M1267285347,single_family,1295000,0.0,2.0,3,San Francisco,94112,CA,San Francisco,1425.0,3100.0
+M1580387957,single_family,1180000,0.0,3.0,4,Pleasanton,94566,CA,Alameda,1950.0,7422.0
+M1899959861,single_family,1595000,0.0,3.0,3,Oakland,94611,CA,Alameda,2931.0,10318.0
+M2694532270,single_family,1068000,1.0,2.0,3,San Ramon,94582,CA,Contra Costa,1996.0,3293.0
+M1483003489,single_family,1799000,1.0,3.0,4,Lafayette,94549,CA,Contra Costa,2782.0,13000.0
+M1453043934,single_family,699950,0.0,1.0,3,San Leandro,94579,CA,Alameda,1459.0,5670.0
+M2183109641,single_family,724000,0.0,2.0,3,San Lorenzo,94580,CA,Alameda,1282.0,8512.0
+M2522092026,single_family,818000,0.0,2.0,5,Newark,94560,CA,Alameda,1312.0,5000.0
+M1673434718,single_family,850000,0.0,2.0,3,Castro Valley,94546,CA,Alameda,1616.0,5200.0
+M2567863713,single_family,899000,0.0,2.0,4,San Ramon,94583,CA,Contra Costa,1472.0,7300.0
+M1573651045,single_family,775000,0.0,2.0,3,Hayward,94545,CA,Alameda,1601.0,6798.0
+M1580397465,single_family,1898888,0.0,3.0,4,Foster City,94404,CA,San Mateo,2450.0,5700.0
+M1936486782,single_family,1950000,0.0,3.0,4,Fremont,94539,CA,Alameda,2843.0,9406.0
+M1355952519,single_family,399950,0.0,2.0,3,Richmond,94801,CA,Contra Costa,1679.0,5000.0
+M1968813688,single_family,5850000,3.0,5.0,6,Alamo,94507,CA,Contra Costa,8000.0,72745.0
+M2671667431,single_family,1398000,0.0,2.0,2,Redwood City,94063,CA,San Mateo,1490.0,7500.0
+M2049126196,single_family,12000000,1.0,5.0,5,Berkeley,94705,CA,Alameda,4775.0,62691.0
+M2325604517,single_family,1650000,0.0,2.0,4,Foster City,94404,CA,San Mateo,1830.0,6944.0
+M1380011797,single_family,1439000,1.0,2.0,4,Walnut Creek,94596,CA,Contra Costa,2263.0,22651.0
+M2362295909,single_family,495000,0.0,2.0,3,Oakland,94621,CA,Alameda,1170.0,4725.0
+M2034355371,single_family,2550000,0.0,3.0,4,Castro Valley,94552,CA,Alameda,3404.0,1172200.0
+M2797215107,single_family,834950,0.0,2.0,3,Hayward,94541,CA,Alameda,1658.0,5387.0
+M1126336778,single_family,1075000,1.0,2.0,4,Newark,94560,CA,Alameda,2100.0,4180.0
+M2614697893,single_family,998888,0.0,2.0,4,Newark,94560,CA,Alameda,1522.0,7000.0
+M1598975102,single_family,1500000,0.0,3.0,5,Moraga,94556,CA,Contra Costa,2205.0,16800.0
+M1468555554,single_family,1895000,1.0,3.0,4,San Francisco,94131,CA,San Francisco,2943.0,3659.0
+M1686403266,single_family,838888,0.0,2.0,3,Castro Valley,94546,CA,Alameda,1336.0,5900.0
+M1763597539,single_family,2125000,1.0,3.0,3,Moraga,94556,CA,Contra Costa,3003.0,11667.0
+M1092380074,single_family,810000,1.0,2.0,2,San Ramon,94582,CA,Contra Costa,1265.0,2505.0
+M1818695099,single_family,8995000,4.0,5.0,5,Orinda,94563,CA,Contra Costa,7160.0,88862.0
+M1605023557,single_family,1649800,1.0,2.0,4,Alamo,94507,CA,Contra Costa,3962.0,50965.0
+M2446488539,single_family,1099000,0.0,3.0,4,San Ramon,94583,CA,Contra Costa,2042.0,5850.0
+M1920419750,single_family,589000,0.0,2.0,3,Richmond,94803,CA,Contra Costa,1557.0,9600.0
+M1673938129,single_family,377000,0.0,1.0,3,Vallejo,94590,CA,Solano,1308.0,3750.0
+M2800081436,single_family,1000000,0.0,2.0,3,Berkeley,94710,CA,Alameda,1382.0,5300.0
+M2577406057,single_family,989000,1.0,3.0,4,San Leandro,94577,CA,Alameda,2123.0,10004.0
+M2776245754,single_family,1100000,0.0,2.0,3,Sunol,94586,CA,Alameda,2016.0,11550.0
+M2380458700,single_family,599950,0.0,2.0,3,Hayward,94542,CA,Alameda,1069.0,7772.0
+M2758963467,single_family,1399000,0.0,3.0,4,San Ramon,94583,CA,Contra Costa,3155.0,10800.0
+M1031646953,single_family,1279000,1.0,2.0,4,Pleasanton,94588,CA,Alameda,2131.0,3893.0
+M1321355081,single_family,1595000,0.0,2.0,2,San Francisco,94127,CA,San Francisco,2050.0,3149.0
+M1518576415,single_family,455000,1.0,1.0,3,Vallejo,94590,CA,Solano,1682.0,3899.0
+M2153071029,single_family,997000,0.0,2.0,3,El Cerrito,94530,CA,Contra Costa,2072.0,7200.0
+M2224594859,single_family,379000,0.0,1.0,2,Oakland,94621,CA,Alameda,969.0,6250.0
+M2858325842,single_family,1875000,1.0,2.0,4,Lafayette,94549,CA,Contra Costa,3613.0,44064.0
+M2781334404,single_family,1845000,1.0,3.0,4,Lafayette,94549,CA,Contra Costa,3219.0,10400.0
+M2445750587,single_family,1295000,0.0,2.0,4,Mill Valley,94941,CA,Marin,1606.0,15682.0
+M2308205999,single_family,1299999,0.0,3.0,5,Pleasant Hill,94523,CA,Contra Costa,2560.0,21998.0
+M2199060413,single_family,995000,0.0,2.0,4,Oakland,94619,CA,Alameda,1641.0,3136.0
+M2836410655,single_family,1095000,0.0,2.0,3,Pleasanton,94588,CA,Alameda,1519.0,9161.0
+M2780172007,single_family,1875000,0.0,2.0,3,Corte Madera,94925,CA,Marin,1822.0,6120.0
+M1745194402,single_family,1949000,0.0,2.0,5,Oakland,94618,CA,Alameda,2112.0,4240.0
+M1297519521,single_family,559000,1.0,2.0,3,Richmond,94801,CA,Contra Costa,1431.0,3969.0
+M1054978246,single_family,1995000,1.0,3.0,3,Walnut Creek,94598,CA,Contra Costa,3493.0,22085.0
+M2302917262,single_family,998000,0.0,3.0,4,San Francisco,94124,CA,San Francisco,1800.0,1873.0
+M1551949702,single_family,625000,0.0,3.0,4,Mill Valley,94941,CA,Marin,1938.0,4861.0
+M1817504913,single_family,998000,1.0,1.0,2,Daly City,94015,CA,San Mateo,1300.0,4329.0
+M2496491088,single_family,1575000,0.0,4.0,4,San Francisco,94112,CA,San Francisco,2015.0,2663.0
+M1309836756,single_family,3395000,0.0,4.0,4,San Francisco,94121,CA,San Francisco,3264.0,2996.0
+M1558864689,single_family,699950,1.0,1.0,3,Oakland,94605,CA,Alameda,1337.0,5400.0
+M9990825176,single_family,850000,1.0,2.0,2,Oakland,94608,CA,Alameda,1280.0,1921.0
+M1505109561,single_family,2995000,1.0,4.0,4,Tiburon,94920,CA,Marin,2885.0,5502.0
+M1489210852,single_family,499000,1.0,2.0,3,Vallejo,94591,CA,Solano,1662.0,7692.0
+M2679395573,single_family,568000,0.0,1.0,2,Union City,94587,CA,Alameda,704.0,3441.0
+M1801535463,single_family,2795000,1.0,3.0,4,Mill Valley,94941,CA,Marin,4285.0,59242.0
+M2117758507,single_family,2200000,0.0,3.0,4,Mill Valley,94941,CA,Marin,2215.0,5502.0
+M1275275300,single_family,1125000,0.0,2.0,2,Redwood City,94063,CA,San Mateo,1280.0,3000.0
+M2213027254,single_family,499000,0.0,2.0,4,Vallejo,94590,CA,Solano,2272.0,6499.0
+M1025454509,single_family,799000,1.0,1.0,2,San Leandro,94577,CA,Alameda,1113.0,16124.0
+M1075687593,single_family,890000,1.0,2.0,3,Dublin,94568,CA,Alameda,1590.0,3195.0
+M1740040329,single_family,1600000,0.0,3.0,6,Alameda,94501,CA,Alameda,2597.0,7110.0
+M2774568786,single_family,899999,0.0,2.0,3,Pleasanton,94566,CA,Alameda,1159.0,6500.0
+M2495607313,single_family,849000,1.0,1.0,2,San Leandro,94577,CA,Alameda,1700.0,14100.0
+M1214328850,single_family,2099998,1.0,3.0,5,Fremont,94555,CA,Alameda,3202.0,5400.0
+M1931114189,single_family,1100000,0.0,2.0,3,Oakland,94611,CA,Alameda,1694.0,6776.0
+M1341827840,single_family,678888,0.0,4.0,5,Oakland,94603,CA,Alameda,1752.0,3525.0
+M1933330550,single_family,1249800,0.0,2.0,3,Fremont,94536,CA,Alameda,1708.0,6400.0
+M1600960683,single_family,1375000,1.0,1.0,2,Oakland,94618,CA,Alameda,1140.0,4000.0
+M2216276330,single_family,728000,1.0,1.0,3,San Lorenzo,94580,CA,Alameda,1482.0,5400.0
+M1468555554,single_family,1895000,1.0,3.0,4,San Francisco,94131,CA,San Francisco,2943.0,3659.0
+M2800081436,single_family,1000000,0.0,2.0,3,Berkeley,94710,CA,Alameda,1382.0,5300.0
+M1321355081,single_family,1595000,0.0,2.0,2,San Francisco,94127,CA,San Francisco,2050.0,3149.0
+M2224594859,single_family,379000,0.0,1.0,2,Oakland,94621,CA,Alameda,969.0,6250.0
+M1745194402,single_family,1949000,0.0,2.0,5,Oakland,94618,CA,Alameda,2112.0,4240.0
+M2302917262,single_family,998000,0.0,3.0,4,San Francisco,94124,CA,San Francisco,1800.0,1873.0
+M1817504913,single_family,998000,1.0,1.0,2,Daly City,94015,CA,San Mateo,1300.0,4329.0
+M2496491088,single_family,1575000,0.0,4.0,4,San Francisco,94112,CA,San Francisco,2015.0,2663.0
+M1309836756,single_family,3395000,0.0,4.0,4,San Francisco,94121,CA,San Francisco,3264.0,2996.0
+M9990825176,single_family,850000,1.0,2.0,2,Oakland,94608,CA,Alameda,1280.0,1921.0
+M1505109561,single_family,2995000,1.0,4.0,4,Tiburon,94920,CA,Marin,2885.0,5502.0
+M1740040329,single_family,1600000,0.0,3.0,6,Alameda,94501,CA,Alameda,2597.0,7110.0
+M1600960683,single_family,1375000,1.0,1.0,2,Oakland,94618,CA,Alameda,1140.0,4000.0
+M1755617493,single_family,1300000,0.0,4.0,6,Alameda,94501,CA,Alameda,2740.0,3381.0
+M1311627905,single_family,1245000,1.0,1.0,3,Oakland,94611,CA,Alameda,1450.0,3000.0
+M1570626206,single_family,1999900,0.0,4.0,4,Oakland,94609,CA,Alameda,1954.0,5320.0
+M1244661007,single_family,1899000,0.0,4.0,4,Oakland,94610,CA,Alameda,3398.0,5160.0
+M1755915621,single_family,1095000,0.0,2.0,4,Alameda,94501,CA,Alameda,1607.0,3200.0
+M2422279311,single_family,2995000,1.0,4.0,5,Piedmont,94611,CA,Alameda,3060.0,6816.0
+M2706782098,single_family,875000,0.0,1.0,2,Brisbane,94005,CA,San Mateo,740.0,3100.0
+M1982790679,single_family,998000,1.0,2.0,3,Alameda,94502,CA,Alameda,1666.0,3575.0
+M1645304037,single_family,7277000,1.0,5.0,6,Belvedere,94920,CA,Marin,5574.0,18731.0
+M2612183405,single_family,945000,0.0,1.0,2,Oakland,94607,CA,Alameda,960.0,6450.0
+M2600571716,single_family,2395000,1.0,3.0,3,San Francisco,94110,CA,San Francisco,2020.0,1773.0
+M2499177904,single_family,799000,0.0,2.0,2,Daly City,94014,CA,San Mateo,1321.0,1412720.0
+M1825849274,single_family,898000,0.0,2.0,3,Oakland,94619,CA,Alameda,1530.0,5520.0
+M2390394247,single_family,800000,0.0,1.0,3,Daly City,94015,CA,San Mateo,1170.0,6762.0
+M1594605938,single_family,888888,0.0,2.0,3,Daly City,94015,CA,San Mateo,1230.0,3400.0
+M2422559800,single_family,2350000,0.0,2.0,3,Sausalito,94965,CA,Marin,1966.0,1999.0
+M2893879813,single_family,2850000,1.0,3.0,4,Berkeley,94703,CA,Alameda,3233.0,6750.0
+M1858196112,single_family,799000,0.0,1.0,2,Oakland,94619,CA,Alameda,1143.0,3600.0
+M2366105015,single_family,385000,0.0,2.0,4,Oakland,94602,CA,Alameda,1417.0,2500.0
+M1404904560,single_family,1595000,1.0,1.0,4,Oakland,94609,CA,Alameda,2334.0,4400.0
+M1287543499,single_family,3695000,0.0,3.0,4,San Francisco,94127,CA,San Francisco,3680.0,5340.0
+M2861456059,single_family,1395000,0.0,2.0,3,San Francisco,94131,CA,San Francisco,1267.0,2927.0
+M2746590287,single_family,500000,0.0,1.0,2,Oakland,94601,CA,Alameda,720.0,2380.0
+M2819420076,single_family,2595000,1.0,4.0,4,San Francisco,94116,CA,San Francisco,2550.0,3114.0
+M1511471399,single_family,850000,0.0,1.0,1,San Francisco,94122,CA,San Francisco,489.0,2996.0
+M1212467634,single_family,2995000,1.0,3.0,4,San Francisco,94110,CA,San Francisco,3015.0,1750.0
+M2711090365,single_family,1389000,0.0,3.0,5,Berkeley,94703,CA,Alameda,2733.0,6650.0
+M2077592853,single_family,1599000,0.0,3.0,4,San Francisco,94112,CA,San Francisco,1585.0,136778400.0
+M2424605086,single_family,5595000,0.0,5.0,4,San Francisco,94114,CA,San Francisco,4587.0,2665.0
+M2809979655,single_family,629000,0.0,1.0,2,Oakland,94602,CA,Alameda,824.0,4520.0
+M1392979458,single_family,899000,0.0,3.0,3,Oakland,94608,CA,Alameda,2190.0,3535.0
+M1875571029,single_family,2475000,1.0,2.0,3,San Francisco,94122,CA,San Francisco,2325.0,3000.0
+M1887151749,single_family,879000,0.0,2.0,3,Oakland,94619,CA,Alameda,1940.0,6250.0
+M2844451417,single_family,1299000,0.0,1.0,3,San Francisco,94127,CA,San Francisco,1450.0,2731.0
+M1686746883,single_family,1520000,0.0,1.0,2,Oakland,94618,CA,Alameda,1532.0,4000.0
+M2493578047,single_family,1500000,0.0,2.0,3,San Francisco,94122,CA,San Francisco,1402.0,2060.0
+M2866956897,single_family,1288000,0.0,1.0,2,San Francisco,94122,CA,San Francisco,1259.0,2996.0
+M2985566169,single_family,2150000,0.0,2.0,3,San Francisco,94110,CA,San Francisco,1970.0,2500.0
+M2680840721,single_family,2999000,1.0,3.0,4,San Francisco,94117,CA,San Francisco,3196.0,1999.0
+M1662251786,single_family,525000,0.0,1.0,1,Oakland,94601,CA,Alameda,808.0,2500.0
+M1390755638,single_family,1299000,0.0,2.0,2,San Francisco,94116,CA,San Francisco,1428.0,2996.0
+M1257704087,single_family,1395000,0.0,2.0,3,Oakland,94610,CA,Alameda,2481.0,10136.0
+M2013276572,single_family,1198000,0.0,3.0,4,Alameda,94501,CA,Alameda,2213.0,3360.0
+M2378738934,single_family,1499000,0.0,2.0,3,San Francisco,94127,CA,San Francisco,2060.0,2543.0
+M2405007541,single_family,4950000,1.0,4.0,5,Sausalito,94965,CA,Marin,4845.0,11761.0
+M2874372820,single_family,1300000,0.0,1.0,2,San Francisco,94122,CA,San Francisco,1100.0,2996.0
+M2430311115,single_family,1949000,1.0,2.0,3,Sausalito,94965,CA,Marin,2056.0,13939.0
+M1775775219,single_family,1199000,0.0,2.0,3,Oakland,94609,CA,Alameda,1380.0,3300.0
+M1189470146,single_family,1220000,0.0,1.0,3,Oakland,94610,CA,Alameda,1345.0,4500.0
+M2523781130,single_family,1249000,0.0,2.0,4,San Francisco,94134,CA,San Francisco,1979.0,2375.0
+M2440119089,single_family,699000,0.0,2.0,3,San Francisco,94112,CA,San Francisco,1830.0,2500.0
+M2407447466,single_family,3495000,2.0,3.0,4,Piedmont,94611,CA,Alameda,4808.0,10004.0
+M2440226974,single_family,1095000,0.0,2.0,3,Oakland,94602,CA,Alameda,1386.0,5160.0
+M2800491361,single_family,1650000,1.0,2.0,5,Berkeley,94703,CA,Alameda,2199.0,5200.0
+M1678476992,single_family,1195000,1.0,1.0,4,Alameda,94501,CA,Alameda,2051.0,4240.0
+M1870061203,single_family,895000,0.0,1.0,2,Alameda,94501,CA,Alameda,1195.0,4900.0
+M2587121157,single_family,899900,0.0,1.0,2,Daly City,94014,CA,San Mateo,1060.0,3000.0
+M2411583986,single_family,3695000,1.0,3.0,4,Piedmont,94611,CA,Alameda,3828.0,7544.0
+M2379833403,single_family,3600000,2.0,2.0,4,Piedmont,94611,CA,Alameda,3205.0,16758.0
+M2375473288,single_family,2200000,0.0,3.0,4,Piedmont,94611,CA,Alameda,3120.0,6000.0
+M2682730983,single_family,879000,1.0,1.0,2,Berkeley,94702,CA,Alameda,1012.0,3850.0
+M1074878105,single_family,985000,0.0,3.0,4,Oakland,94602,CA,Alameda,2176.0,4067.0
+M2445103279,single_family,4895000,1.0,3.0,4,San Francisco,94123,CA,San Francisco,3800.0,3062.0
+M1131994690,single_family,1199000,0.0,2.0,2,Oakland,94602,CA,Alameda,1620.0,5390.0
+M1584668007,single_family,950000,0.0,2.0,3,San Francisco,94134,CA,San Francisco,1400.0,2495.0
+M1207433062,single_family,695000,0.0,2.0,2,Oakland,94608,CA,Alameda,1431.0,1431.0
+M1766141775,single_family,2288888,0.0,5.0,5,San Francisco,94127,CA,San Francisco,2470.0,5323.0
+M1862453418,single_family,3395000,0.0,4.0,4,San Francisco,94118,CA,San Francisco,3660.0,3300.0
+M1561309720,single_family,880000,0.0,1.0,3,Oakland,94608,CA,Alameda,1140.0,5400.0
+M2731833738,single_family,998000,0.0,1.0,2,San Francisco,94112,CA,San Francisco,1002.0,1500.0
+M1455131591,single_family,975000,0.0,2.0,2,San Francisco,94112,CA,San Francisco,1700.0,1646.0
+M1394725424,single_family,4450000,1.0,3.0,3,San Francisco,94109,CA,San Francisco,3100.0,980.0
+M2268870009,single_family,1190000,1.0,2.0,3,Daly City,94014,CA,San Mateo,1670.0,3360.0
+M2713168576,single_family,4795000,1.0,4.0,4,San Francisco,94109,CA,San Francisco,3535.0,3438.0
+M1636590838,single_family,1675000,0.0,2.0,3,San Francisco,94110,CA,San Francisco,1960.0,1750.0
+M2327236637,single_family,999000,1.0,2.0,3,Oakland,94610,CA,Alameda,2046.0,3457.0
+M2027775774,single_family,865000,0.0,2.0,2,Oakland,94608,CA,Alameda,1796.0,3500.0
+M1228104320,single_family,2695000,1.0,3.0,5,San Francisco,94127,CA,San Francisco,2720.0,6744.0
+M2359546209,single_family,699000,0.0,2.0,3,Oakland,94602,CA,Alameda,1159.0,3800.0
+M1302085440,single_family,1649000,0.0,2.0,3,San Francisco,94121,CA,San Francisco,1506.0,2495.0
+M1508578412,single_family,1494000,0.0,2.0,3,Oakland,94611,CA,Alameda,1725.0,6644.0
+M1158725743,single_family,1895000,0.0,2.0,3,Oakland,94610,CA,Alameda,2355.0,7950.0
+M1377614517,single_family,595000,0.0,1.0,2,Oakland,94619,CA,Alameda,1064.0,3072.0
+M2779656550,single_family,999000,0.0,2.0,4,Oakland,94612,CA,Alameda,2549.0,2800.0
+M1879094144,single_family,988000,0.0,1.0,2,Daly City,94015,CA,San Mateo,1050.0,3400.0
+M1860927898,single_family,1195000,1.0,1.0,3,Oakland,94609,CA,Alameda,1189.0,2500.0
+M1395963882,single_family,1199000,0.0,2.0,3,Albany,94706,CA,Alameda,1602.0,3800.0
+M1404547186,single_family,1399000,0.0,3.0,3,San Francisco,94124,CA,San Francisco,2564.0,2495.0
+M2352402949,single_family,8700000,0.0,6.0,6,San Francisco,94115,CA,San Francisco,7475.0,3188.0
+M1184680571,single_family,1650000,0.0,6.0,6,Daly City,94014,CA,San Mateo,3492.0,2700.0
+M2646531231,single_family,565000,0.0,1.0,3,Oakland,94601,CA,Alameda,1195.0,8910.0
+M2625524612,single_family,799000,0.0,2.0,3,Oakland,94607,CA,Alameda,1337.0,3125.0
+M1191519773,single_family,1795000,1.0,3.0,4,Oakland,94610,CA,Alameda,2753.0,5781.0
+M1269082336,single_family,895000,0.0,1.0,2,San Francisco,94116,CA,San Francisco,800.0,3000.0
+M2855965828,single_family,689000,0.0,1.0,2,Oakland,94602,CA,Alameda,832.0,2750.0
+M2791350597,single_family,949000,0.0,1.0,3,San Francisco,94112,CA,San Francisco,1552.0,3148.0
+M2703287262,single_family,549888,1.0,1.0,2,Oakland,94602,CA,Alameda,1060.0,2500.0
+M2165837840,single_family,849000,0.0,2.0,4,Oakland,94606,CA,Alameda,2209.0,6750.0
+M2427998211,single_family,4995000,1.0,4.0,5,San Francisco,94123,CA,San Francisco,3645.0,2996.0
+M1478914721,single_family,1240000,1.0,2.0,3,Oakland,94609,CA,Alameda,1700.0,3075.0
+M2160145139,single_family,4900000,1.0,3.0,4,San Francisco,94117,CA,San Francisco,3700.0,2750.0
+M2730074016,single_family,1895000,0.0,2.0,3,San Francisco,94114,CA,San Francisco,1531.0,1724.0
+M9281948417,single_family,3495000,1.0,5.0,5,Piedmont,94611,CA,Alameda,5083.0,20250.0
+M2410801401,single_family,3200000,1.0,4.0,5,Piedmont,94611,CA,Alameda,5015.0,10094.0
+M2685336450,single_family,599000,0.0,2.0,4,Oakland,94607,CA,Alameda,1952.0,3125.0
+M2945934802,single_family,3000000,1.0,3.0,4,San Francisco,94118,CA,San Francisco,2825.0,2340.0
+M1921224958,single_family,4500000,1.0,3.0,5,San Francisco,94114,CA,San Francisco,3190.0,4500.0
+M2176347600,single_family,1088000,0.0,2.0,3,San Francisco,94112,CA,San Francisco,1079.0,3371.0
+M1942681917,single_family,899000,0.0,1.0,2,San Francisco,94112,CA,San Francisco,1175.0,2500.0
+M1793864487,single_family,1745000,0.0,2.0,3,San Francisco,94110,CA,San Francisco,1475.0,2487.0
+M1514804973,single_family,799000,0.0,1.0,2,Albany,94706,CA,Alameda,830.0,2500.0
+M2142996966,single_family,1150000,0.0,2.0,3,Alameda,94501,CA,Alameda,1451.0,6580.0
+M1307931118,single_family,3595000,0.0,4.0,5,San Francisco,94131,CA,San Francisco,2837.0,1724.0
+M1207227169,single_family,1195000,0.0,2.0,3,San Francisco,94131,CA,San Francisco,1012.0,3123.0
+M1064518173,single_family,644000,1.0,2.0,4,Oakland,94606,CA,Alameda,1492.0,2860.0
+M2029559437,single_family,1295000,1.0,2.0,3,Alameda,94502,CA,Alameda,1962.0,4788.0
+M2561611137,single_family,1995000,0.0,3.0,4,San Francisco,94118,CA,San Francisco,2336.0,3450.0
+M2993497517,single_family,1998000,0.0,2.0,3,San Francisco,94118,CA,San Francisco,1829.0,3000.0
+M2775560446,single_family,998000,1.0,1.0,3,Berkeley,94703,CA,Alameda,1378.0,2550.0
+M2407680050,single_family,1850000,0.0,3.0,4,San Francisco,94122,CA,San Francisco,1903.0,2996.0
+M2218833159,single_family,1370000,0.0,3.0,4,Alameda,94502,CA,Alameda,2051.0,4050.0
+M1819651755,single_family,1195000,0.0,2.0,3,Oakland,94618,CA,Alameda,1495.0,5208.0
+M2453642713,single_family,899000,0.0,1.0,2,Oakland,94602,CA,Alameda,1264.0,4187.0
+M2791318406,single_family,998000,0.0,1.0,2,San Francisco,94121,CA,San Francisco,1395.0,2996.0
+M1712486277,single_family,675000,0.0,1.0,2,Oakland,94601,CA,Alameda,917.0,2500.0
+M2316320864,single_family,1850000,0.0,3.0,5,Alameda,94502,CA,Alameda,2648.0,6121.0
+M1709292778,single_family,1598000,0.0,3.0,4,Oakland,94609,CA,Alameda,1733.0,4160.0
+M1750323345,single_family,1845000,0.0,2.0,3,San Francisco,94127,CA,San Francisco,2249.0,4460.0
+M1599473959,single_family,1295000,0.0,1.0,2,San Francisco,94134,CA,San Francisco,1595.0,2060.0
+M2824084616,single_family,1098000,0.0,1.0,2,San Francisco,94112,CA,San Francisco,1200.0,2822.0
+M2988110860,single_family,1475000,0.0,4.0,5,Oakland,94602,CA,Alameda,2731.0,5200.0
+M1511037964,single_family,1199000,0.0,3.0,4,Oakland,94608,CA,Alameda,2266.0,2550.0
+M2114697594,single_family,599999,0.0,1.0,3,Oakland,94605,CA,Alameda,1258.0,9148.0
+M2761645728,single_family,650000,0.0,1.0,2,Oakland,94602,CA,Alameda,1240.0,5600.0
+M2999655844,single_family,1675000,1.0,1.0,3,San Francisco,94131,CA,San Francisco,1242.0,2556.0
+M2108552627,single_family,1088000,0.0,3.0,4,San Francisco,94112,CA,San Francisco,1600.0,2700.0
+M2961682734,single_family,1295000,0.0,3.0,3,Oakland,94608,CA,Alameda,1947.0,3554.0
+M9659313324,single_family,1395000,1.0,2.0,4,Oakland,94608,CA,Alameda,2026.0,2810.0
+M1947087522,single_family,1595000,1.0,2.0,3,San Francisco,94131,CA,San Francisco,1746.0,1873.0
+M2655340515,single_family,848000,0.0,2.0,4,Berkeley,94702,CA,Alameda,1517.0,3675.0
+M2963487061,single_family,1950000,0.0,2.0,3,San Francisco,94121,CA,San Francisco,2200.0,2500.0
+M2839568814,single_family,699000,0.0,1.0,2,Oakland,94602,CA,Alameda,1038.0,2800.0
+M2375849157,single_family,998000,0.0,1.0,2,Brisbane,94005,CA,San Mateo,970.0,7200.0
+M2219407434,single_family,875000,0.0,1.0,2,San Francisco,94132,CA,San Francisco,630.0,2661.0
+M2857052380,single_family,3100000,0.0,2.0,3,San Francisco,94133,CA,San Francisco,1570.0,1408.0
+M2632088309,single_family,3675000,1.0,5.0,5,Oakland,94611,CA,Alameda,6088.0,8577.0
+M9250980128,single_family,1786995,1.0,3.0,4,Daly City,94014,CA,San Mateo,3028.0,2871.0
+M1220509558,single_family,2597000,1.0,3.0,3,Tiburon,94920,CA,Marin,2406.0,4500.0
+M1895252980,single_family,695000,1.0,1.0,3,Alameda,94501,CA,Alameda,1176.0,4920.0
+M1965135274,single_family,19950000,0.0,6.0,5,San Francisco,94115,CA,San Francisco,7050.0,3830.0
+M2132273026,single_family,3595000,1.0,5.0,4,San Francisco,94109,CA,San Francisco,3350.0,3300.0
+M2292542044,single_family,699000,0.0,1.0,3,Oakland,94602,CA,Alameda,1019.0,2501.0
+M2575121523,single_family,1298000,1.0,2.0,3,Daly City,94015,CA,San Mateo,1520.0,5301.0
+M2224140392,single_family,550000,0.0,2.0,3,Oakland,94601,CA,Alameda,1592.0,4640.0
+M1092347641,single_family,1100000,0.0,1.0,2,San Francisco,94134,CA,San Francisco,1043.0,2996.0
+M2815383217,single_family,699000,0.0,1.0,2,Oakland,94602,CA,Alameda,1277.0,4500.0
+M1736161523,single_family,950000,0.0,2.0,3,Oakland,94608,CA,Alameda,1481.0,4578.0
+M2194495350,single_family,550000,0.0,2.0,3,Oakland,94606,CA,Alameda,1548.0,3500.0
+M1838468672,single_family,1450000,0.0,1.0,2,San Francisco,94116,CA,San Francisco,1275.0,3698.0
+M1330433450,single_family,2895000,1.0,3.0,5,San Francisco,94122,CA,San Francisco,2814.0,5784.0
+M1669556676,single_family,1588000,0.0,4.0,3,San Francisco,94112,CA,San Francisco,2659.0,2500.0
+M2424687077,single_family,617000,0.0,1.0,2,Oakland,94602,CA,Alameda,806.0,2926.0
+M1660999265,single_family,1600000,1.0,2.0,3,Alameda,94501,CA,Alameda,3037.0,4800.0
+M1853042039,single_family,1825000,0.0,3.0,4,Oakland,94611,CA,Alameda,2825.0,44528.0
+M1984014922,single_family,2395000,1.0,3.0,5,San Francisco,94121,CA,San Francisco,2855.0,2374.0
+M1801402816,single_family,850000,0.0,2.0,3,Oakland,94619,CA,Alameda,1840.0,4500.0
+M1003143582,single_family,1050000,0.0,1.0,2,Berkeley,94702,CA,Alameda,1014.0,4050.0
+M2785063261,single_family,1299000,0.0,2.0,3,Berkeley,94702,CA,Alameda,1568.0,3500.0
+M2633115492,single_family,800000,0.0,4.0,5,Oakland,94601,CA,Alameda,2308.0,3894.0
+M2596296741,single_family,416000,0.0,1.0,2,Oakland,94601,CA,Alameda,882.0,2214.0
+M1717860245,single_family,995000,0.0,1.0,3,San Francisco,94112,CA,San Francisco,986.0,3938.0
+M1963882417,single_family,1398000,0.0,2.0,3,San Jose,95129,CA,Santa Clara,2943.0,5558.0
+M1108442798,single_family,3698000,1.0,3.0,4,Saratoga,95070,CA,Santa Clara,1382.0,7224.0
+M2522092026,single_family,818000,0.0,2.0,5,Newark,94560,CA,Alameda,2050.0,5000.0
+M2372954641,single_family,969696,0.0,3.0,5,Morgan Hill,95037,CA,Santa Clara,969.0,5009.0
+M2959401747,single_family,1748000,0.0,2.0,3,Sunnyvale,94086,CA,Santa Clara,2112.0,6512.0
+M2381791011,single_family,7500000,1.0,3.0,5,Palo Alto,94301,CA,Santa Clara,1800.0,10999.0
+M2598941795,single_family,1200000,0.0,3.0,4,Morgan Hill,95037,CA,Santa Clara,1300.0,5169.0
+M2671667431,single_family,1398000,0.0,2.0,2,Redwood City,94063,CA,San Mateo,2015.0,7500.0
+M1649140564,single_family,850000,0.0,2.0,3,San Jose,95127,CA,Santa Clara,3264.0,6609.0
+M2321845763,single_family,825000,0.0,2.0,3,San Jose,95122,CA,Santa Clara,1280.0,6012.0
+M1219790285,single_family,1998000,0.0,2.0,3,Mountain View,94041,CA,Santa Clara,2885.0,5925.0
+M1126336778,single_family,1075000,1.0,2.0,4,Newark,94560,CA,Alameda,2597.0,4180.0
+M2614697893,single_family,998888,0.0,2.0,4,Newark,94560,CA,Alameda,1140.0,7000.0
+M2827841169,single_family,23800000,4.0,6.0,6,Monte Sereno,95030,CA,Santa Clara,2740.0,243936.0
+M1140569098,single_family,1398888,1.0,2.0,4,San Jose,95148,CA,Santa Clara,1450.0,9809.0
+M1087153704,single_family,1699888,0.0,3.0,5,San Jose,95120,CA,Santa Clara,1954.0,10067.0
+M2954306891,single_family,1150000,1.0,2.0,4,San Jose,95120,CA,Santa Clara,3398.0,3044.0
+M2068722977,single_family,5888000,0.0,4.0,4,Los Altos Hills,94022,CA,Santa Clara,1607.0,53239.0
+M1120437265,single_family,637500,0.0,1.0,3,San Jose,95122,CA,Santa Clara,3060.0,5829.0
+M1818399326,single_family,1495000,0.0,2.0,3,San Jose,95128,CA,Santa Clara,740.0,7663.0
+M2947003561,single_family,2398000,0.0,2.0,4,Palo Alto,94306,CA,Santa Clara,1666.0,8716.0
+M1321644313,single_family,1588888,0.0,3.0,3,San Jose,95126,CA,Santa Clara,5574.0,6443.0
+M1084102879,single_family,1298888,0.0,2.0,3,Fremont,94539,CA,Alameda,960.0,8832.0
+M1028427561,single_family,2099888,0.0,3.0,5,Fremont,94539,CA,Alameda,2020.0,7841.0
+M2739746041,single_family,1950000,1.0,2.0,5,San Jose,95120,CA,Santa Clara,1267.0,11927.0
+M1062869608,single_family,1330000,0.0,2.0,3,San Jose,95128,CA,Santa Clara,720.0,5759.0
+M2047962698,single_family,1099950,1.0,2.0,3,Milpitas,95035,CA,Santa Clara,2550.0,2261.0
+M2027134185,single_family,5350000,1.0,4.0,5,Los Altos,94024,CA,Santa Clara,489.0,26140.0
+M1347242958,single_family,1598000,0.0,2.0,4,Campbell,95008,CA,Santa Clara,3015.0,7840.0
+M1687902310,single_family,2000000,0.0,2.0,4,Sunnyvale,94087,CA,Santa Clara,2733.0,8183.0
+M2404722070,single_family,2198000,1.0,5.0,4,San Jose,95138,CA,Santa Clara,1585.0,11029.0
+M2576990017,single_family,2995000,0.0,2.0,4,Palo Alto,94303,CA,Santa Clara,4587.0,7460.0
+M1549479969,single_family,1999999,0.0,4.0,6,Fremont,94539,CA,Alameda,824.0,6092.0
+M2676900009,single_family,2698000,0.0,2.0,3,Palo Alto,94306,CA,Santa Clara,2190.0,6330.0
+M2431067134,single_family,2999950,0.0,1.0,2,Menlo Park,94025,CA,San Mateo,2325.0,5618.0
+M2542854414,single_family,5780000,0.0,5.0,6,Palo Alto,94303,CA,Santa Clara,1940.0,8097.0
+M2538709579,single_family,1038888,1.0,2.0,4,San Jose,95138,CA,Santa Clara,1450.0,5678.0
+M2925616058,single_family,2198000,0.0,2.0,4,Saratoga,95070,CA,Santa Clara,1532.0,5237.0
+M1282881526,single_family,2488000,0.0,2.0,3,Mountain View,94041,CA,Santa Clara,1402.0,7738.0
+M1337599302,single_family,3995000,0.0,2.0,3,Palo Alto,94301,CA,Santa Clara,1259.0,7500.0
+M1265825097,single_family,3998000,0.0,3.0,5,Palo Alto,94301,CA,Santa Clara,1970.0,10968.0
+M2620952457,single_family,1649000,0.0,2.0,3,Sunnyvale,94086,CA,Santa Clara,3196.0,5720.0
+M1325852307,single_family,1695000,0.0,3.0,7,Campbell,95008,CA,Santa Clara,808.0,6004.0
+M9134595334,single_family,5198000,1.0,5.0,6,Palo Alto,94303,CA,Santa Clara,1428.0,9780.0
+M1713725591,single_family,2099000,1.0,2.0,4,San Jose,95125,CA,Santa Clara,2481.0,6054.0
+M2851984762,single_family,1725000,0.0,3.0,3,San Jose,95124,CA,Santa Clara,2213.0,9600.0
+M2444572751,single_family,1899000,0.0,2.0,3,Sunnyvale,94087,CA,Santa Clara,2060.0,8773.0
+M1093610953,single_family,3999000,1.0,2.0,4,Saratoga,95070,CA,Santa Clara,4845.0,86567.0
+M1214328850,single_family,2099998,1.0,3.0,5,Fremont,94555,CA,Alameda,1100.0,5400.0
+M1933330550,single_family,1249800,0.0,2.0,3,Fremont,94536,CA,Alameda,2056.0,6400.0
+M2076287963,single_family,5495000,1.0,3.0,5,Los Altos Hills,94022,CA,Santa Clara,1380.0,42715.0
+M2804140458,single_family,1499000,0.0,2.0,4,Santa Clara,95051,CA,Santa Clara,1060.0,6802.0
+M2154948144,single_family,1499000,0.0,3.0,4,Morgan Hill,95037,CA,Santa Clara,3828.0,57652.0
+M2409777734,single_family,1880000,1.0,1.0,2,Palo Alto,94301,CA,Santa Clara,3205.0,1816.0
+M2101276780,single_family,1299950,0.0,3.0,5,Fremont,94538,CA,Alameda,3120.0,7228.0
+M1076658006,single_family,750000,0.0,1.0,3,San Jose,95133,CA,Santa Clara,1012.0,6706.0
+M2590460693,single_family,4998000,0.0,6.0,7,Saratoga,95070,CA,Santa Clara,2176.0,43926.0
+M9836808115,single_family,1848000,0.0,3.0,4,Santa Clara,95050,CA,Santa Clara,3800.0,4250.0
+M2376376077,single_family,1998000,0.0,2.0,4,Sunnyvale,94087,CA,Santa Clara,1620.0,7794.0
+M1786243984,single_family,1349000,1.0,2.0,4,Milpitas,95035,CA,Santa Clara,1400.0,6281.0
+M1885257576,single_family,1370000,0.0,3.0,4,San Jose,95133,CA,Santa Clara,1431.0,4644.0
+M2670233686,single_family,1258000,0.0,3.0,5,San Jose,95136,CA,Santa Clara,2470.0,9875.0
+M1905311819,single_family,2499000,1.0,2.0,4,Cupertino,95014,CA,Santa Clara,3660.0,7495.0
+M2356073568,single_family,1648000,0.0,3.0,4,San Jose,95148,CA,Santa Clara,1140.0,7257.0
+M2190784592,single_family,899000,0.0,2.0,4,San Jose,95123,CA,Santa Clara,1002.0,7249.0
+M2664353891,single_family,1238000,0.0,2.0,4,San Jose,95132,CA,Santa Clara,1700.0,6683.0
+M2433935357,single_family,1400000,1.0,3.0,4,Morgan Hill,95037,CA,Santa Clara,3100.0,10145.0
+M1309393264,single_family,1249000,0.0,2.0,3,San Jose,95118,CA,Santa Clara,1670.0,6890.0
+M1569990484,single_family,1825000,1.0,2.0,3,Mountain View,94043,CA,Santa Clara,3535.0,4180.0
+M1621520294,single_family,1199000,0.0,2.0,4,Campbell,95008,CA,Santa Clara,1960.0,8573.0
+M1108181936,single_family,2299000,0.0,2.0,3,Saratoga,95070,CA,Santa Clara,2046.0,59403.0
+M2689186398,single_family,1400000,0.0,2.0,4,Sunnyvale,94085,CA,Santa Clara,1796.0,4931.0
+M1255411360,single_family,1165000,0.0,2.0,3,San Jose,95124,CA,Santa Clara,2720.0,7040.0
+M2106228168,single_family,1148000,1.0,2.0,4,San Jose,95136,CA,Santa Clara,1159.0,6144.0
+M2036014852,single_family,1499000,0.0,2.0,4,Santa Clara,95050,CA,Santa Clara,1506.0,6990.0
+M2349513447,single_family,899000,0.0,2.0,4,Newark,94560,CA,Alameda,1725.0,6466.0
+M1291232246,single_family,1799000,0.0,3.0,4,Campbell,95008,CA,Santa Clara,2355.0,13787.0
+M1587128079,single_family,1125000,0.0,2.0,3,Menlo Park,94025,CA,San Mateo,1064.0,5750.0
+M1249211916,single_family,1179000,0.0,3.0,5,San Jose,95136,CA,Santa Clara,2549.0,6439.0
+M1473985802,single_family,3149900,1.0,5.0,6,Fremont,94539,CA,Alameda,1050.0,8966.0
+M2311244473,single_family,1250000,0.0,2.0,3,Fremont,94536,CA,Alameda,1189.0,6000.0
+M1698180588,single_family,1098000,0.0,1.0,3,East Palo Alto,94303,CA,San Mateo,1602.0,5936.0
+M1980325013,single_family,1050000,0.0,2.0,3,Milpitas,95035,CA,Santa Clara,2564.0,5586.0
+M2407938221,single_family,879000,0.0,1.0,3,Fremont,94538,CA,Alameda,7475.0,5000.0
+M1312985316,single_family,1199000,0.0,2.0,4,San Jose,95118,CA,Santa Clara,3492.0,7706.0
+M1333753818,single_family,849000,0.0,3.0,3,San Jose,95116,CA,Santa Clara,1195.0,7677.0
+M2295814539,single_family,1645000,1.0,2.0,4,San Jose,95148,CA,Santa Clara,1337.0,10502.0
+M2343664009,single_family,999000,1.0,1.0,3,San Jose,95125,CA,Santa Clara,2753.0,5700.0
+M1977069486,single_family,749000,0.0,1.0,2,San Jose,95111,CA,Santa Clara,800.0,11779.0
+M1410781390,single_family,1179000,1.0,2.0,3,Campbell,95008,CA,Santa Clara,832.0,3432.0
+M1823844526,single_family,1125900,0.0,3.0,5,San Jose,95127,CA,Santa Clara,1552.0,4833.0
+M2387045509,single_family,4995000,0.0,4.0,6,Palo Alto,94301,CA,Santa Clara,1060.0,9998.0
+M2930185248,single_family,1899000,0.0,2.0,5,Sunnyvale,94086,CA,Santa Clara,2209.0,7345.0
+M1400924716,single_family,1629000,0.0,3.0,3,San Jose,95124,CA,Santa Clara,3645.0,6641.0
+M2160974956,single_family,688888,0.0,1.0,2,East Palo Alto,94303,CA,San Mateo,1700.0,6000.0
+M1919485381,single_family,1100000,1.0,2.0,4,San Jose,95136,CA,Santa Clara,3700.0,4186.0
+M1139936800,single_family,799000,0.0,2.0,4,San Jose,95111,CA,Santa Clara,1531.0,5700.0
+M1993266842,single_family,6395000,1.0,4.0,5,Atherton,94027,CA,San Mateo,5083.0,30401.0
+M2632921031,single_family,1899000,0.0,2.0,3,San Jose,95129,CA,Santa Clara,5015.0,6734.0
+M2000861696,single_family,5695000,1.0,4.0,5,Los Altos,94024,CA,Santa Clara,1952.0,36194.0
+M1828588673,single_family,1665000,1.0,2.0,4,San Jose,95125,CA,Santa Clara,2825.0,8800.0
+M1055531366,single_family,1799800,0.0,3.0,4,San Jose,95135,CA,Santa Clara,3190.0,13382.0
+M2146707205,single_family,1998000,0.0,2.0,4,San Jose,95129,CA,Santa Clara,1079.0,5918.0
+M1720791599,single_family,949888,0.0,3.0,4,San Jose,95111,CA,Santa Clara,1175.0,5287.0
+M2148956551,single_family,2099000,0.0,2.0,3,Cupertino,95014,CA,Santa Clara,1475.0,6435.0
+M2979889792,single_family,2695000,1.0,2.0,3,Los Gatos,95030,CA,Santa Clara,830.0,6582.0
+M1528988959,single_family,2489000,0.0,2.0,3,Monte Sereno,95030,CA,Santa Clara,1451.0,8205.0
+M1529722814,single_family,1400000,1.0,2.0,4,San Jose,95118,CA,Santa Clara,2837.0,7480.0
+M1301293959,single_family,1979000,1.0,5.0,4,San Jose,95140,CA,Santa Clara,1012.0,75842.0
+M2063916802,single_family,1379000,0.0,3.0,4,San Jose,95128,CA,Santa Clara,1492.0,6668.0
+M1643746449,single_family,2799000,1.0,2.0,4,San Jose,95125,CA,Santa Clara,1962.0,5880.0
+M2555480476,single_family,1050000,0.0,2.0,3,San Jose,95125,CA,Santa Clara,2336.0,5054.0
+M2766247842,single_family,1150000,1.0,2.0,3,Milpitas,95035,CA,Santa Clara,1829.0,2127.0
+M2127388926,single_family,1679000,0.0,2.0,3,San Jose,95125,CA,Santa Clara,1378.0,6135.0
+M2923659765,single_family,998000,0.0,3.0,3,San Jose,95136,CA,Santa Clara,1903.0,2276.0
+M1893986030,single_family,1569000,0.0,3.0,5,San Jose,95117,CA,Santa Clara,2051.0,6465.0
+M2949130868,single_family,1450000,1.0,1.0,3,Saratoga,95070,CA,Santa Clara,1495.0,9664.0
+M2916612221,single_family,1898000,1.0,2.0,3,Los Gatos,95032,CA,Santa Clara,1264.0,8323.0
+M2095397168,single_family,1025000,1.0,2.0,4,Morgan Hill,95037,CA,Santa Clara,1395.0,16104.0
+M2686268282,single_family,1274999,0.0,2.0,3,Santa Clara,95051,CA,Santa Clara,917.0,5434.0
+M2885186791,single_family,1588888,1.0,4.0,5,San Jose,95127,CA,Santa Clara,2648.0,11134.0
+M1057738371,single_family,5495000,0.0,5.0,5,Los Gatos,95030,CA,Santa Clara,1733.0,65340.0
+M2773421949,single_family,2898000,1.0,3.0,4,Saratoga,95070,CA,Santa Clara,2249.0,15594.0
+M1321226071,single_family,2241888,1.0,2.0,4,Fremont,94539,CA,Alameda,1595.0,15600.0
+M1711501007,single_family,1200000,0.0,2.0,4,San Jose,95133,CA,Santa Clara,1200.0,6090.0
+M1052707469,single_family,2899000,1.0,3.0,3,Los Gatos,95030,CA,Santa Clara,2731.0,39374.0
+M1988464641,single_family,2999999,1.0,4.0,4,San Jose,95120,CA,Santa Clara,2266.0,23440.0
+M2286930723,single_family,1799000,0.0,3.0,4,San Jose,95120,CA,Santa Clara,1258.0,8984.0
+M2619422444,single_family,950000,0.0,2.0,3,Fremont,94538,CA,Alameda,1240.0,5000.0
+M2520084129,single_family,1399000,0.0,2.0,3,San Jose,95125,CA,Santa Clara,1242.0,6195.0
+M2230933401,single_family,817000,0.0,2.0,3,Morgan Hill,95037,CA,Santa Clara,1600.0,12114.0
+M2973588699,single_family,1680000,0.0,2.0,4,Santa Clara,95051,CA,Santa Clara,1947.0,6266.0
+M2006414321,single_family,4699000,1.0,5.0,6,Los Altos,94024,CA,Santa Clara,2026.0,16997.0
+M1194855427,single_family,1149000,0.0,2.0,2,San Jose,95125,CA,Santa Clara,1746.0,6248.0
+M1992551391,single_family,4399000,1.0,3.0,5,Los Altos,94024,CA,Santa Clara,1517.0,38250.0
+M2563635328,single_family,1218000,0.0,2.0,3,Fremont,94538,CA,Alameda,2200.0,5000.0
+M2389798114,single_family,1399950,1.0,3.0,5,Morgan Hill,95037,CA,Santa Clara,1038.0,85378.0
+M2348097525,single_family,1148000,1.0,2.0,4,Morgan Hill,95037,CA,Santa Clara,970.0,12436.0
+M1533318015,single_family,998800,0.0,2.0,3,San Jose,95136,CA,Santa Clara,630.0,7066.0
+M2729909849,single_family,4989000,2.0,3.0,5,Los Gatos,95030,CA,Santa Clara,1570.0,93833.0
+M2932730705,single_family,3195000,1.0,3.0,4,Stanford,94305,CA,Santa Clara,6088.0,20181.0
+M2578076936,single_family,785000,0.0,2.0,3,San Jose,95122,CA,Santa Clara,3028.0,3097.0
+M2152966383,single_family,4495000,1.0,3.0,5,Palo Alto,94301,CA,Santa Clara,2406.0,10650.0
+M2341304882,single_family,3100000,1.0,4.0,5,San Jose,95125,CA,Santa Clara,1176.0,8906.0
+M1288813017,single_family,1589000,0.0,3.0,5,San Jose,95120,CA,Santa Clara,7050.0,7500.0
+M2514427898,single_family,1849000,0.0,2.0,3,Menlo Park,94025,CA,San Mateo,3350.0,6000.0
+M1663787302,single_family,3100000,1.0,4.0,5,San Jose,95125,CA,Santa Clara,1019.0,8234.0
+M1663917473,single_family,1099000,1.0,2.0,4,San Jose,95132,CA,Santa Clara,1520.0,6014.0
+M1147443701,single_family,1475000,1.0,2.0,4,San Jose,95120,CA,Santa Clara,1592.0,8004.0
+M1837620329,single_family,1215000,0.0,2.0,3,San Jose,95120,CA,Santa Clara,1043.0,9180.0
+M2718151390,single_family,998000,0.0,2.0,3,San Jose,95123,CA,Santa Clara,1277.0,6248.0
+M2253707967,single_family,1380000,0.0,2.0,3,Sunnyvale,94089,CA,Santa Clara,1481.0,6240.0
+M2518618070,single_family,1170000,0.0,2.0,3,Fremont,94538,CA,Alameda,1548.0,6270.0
+M1791421933,single_family,1800000,1.0,2.0,4,San Jose,95124,CA,Santa Clara,1275.0,9452.0
+M1908606875,single_family,1670000,1.0,2.0,4,San Jose,95125,CA,Santa Clara,2814.0,6588.0
+M2418162571,single_family,4300000,1.0,3.0,4,Palo Alto,94301,CA,Santa Clara,2659.0,5700.0
+M2060794594,single_family,1450000,0.0,3.0,4,Fremont,94555,CA,Alameda,806.0,3760.0
+M1924302929,single_family,4500000,1.0,2.0,4,Palo Alto,94304,CA,Santa Clara,3037.0,47480.0
+M2358018489,single_family,2188000,1.0,2.0,4,Cupertino,95014,CA,Santa Clara,2825.0,7384.0
+M2653798274,single_family,1588000,0.0,2.0,3,Cupertino,95014,CA,Santa Clara,2855.0,5583.0
+M2330420506,single_family,1695000,1.0,4.0,5,Morgan Hill,95037,CA,Santa Clara,1840.0,33376.0
+M2681831618,single_family,1198000,0.0,2.0,4,San Jose,95131,CA,Santa Clara,1014.0,6069.0
+M2924005399,single_family,1325000,1.0,1.0,2,San Martin,95046,CA,Santa Clara,1568.0,217330.0
+M2971504955,single_family,1595000,0.0,1.0,2,Los Gatos,95032,CA,Santa Clara,2308.0,6077.0
+M1354331710,single_family,3699000,0.0,3.0,4,Palo Alto,94303,CA,Santa Clara,882.0,6325.0
+M2150028949,single_family,1050000,0.0,2.0,4,San Jose,95136,CA,Santa Clara,986.0,6855.0
+M2278071853,single_family,829000,0.0,2.0,3,San Diego,92111,CA,San Diego,1352.0,6500.0
+M2739002954,single_family,699000,0.0,2.0,3,San Diego,92129,CA,San Diego,1614.0,5718.0
+M1281042411,single_family,2395000,1.0,2.0,4,La Jolla,92037,CA,San Diego,2586.0,7700.0
+M1811103700,single_family,699999,0.0,2.0,3,San Diego,92117,CA,San Diego,1374.0,6300.0
+M1479304073,single_family,1450000,1.0,5.0,5,San Diego,92131,CA,San Diego,5390.0,23958.0
+M2112669184,single_family,839000,0.0,2.0,4,San Diego,92117,CA,San Diego,1534.0,15682.0
+M2563475290,single_family,1550000,0.0,3.0,4,La Jolla,92037,CA,San Diego,2473.0,11100.0
+M1209130483,single_family,1350000,0.0,4.0,5,San Diego,92127,CA,San Diego,3975.0,10315.0
+M2052750592,single_family,920000,0.0,2.0,2,San Diego,92116,CA,San Diego,1531.0,10003.0
+M2524649252,single_family,1239000,0.0,3.0,3,San Diego,92130,CA,San Diego,2205.0,7239.0
+M1332714190,single_family,2398000,1.0,5.0,5,San Diego,92127,CA,San Diego,5042.0,10890.0
+M1647993849,single_family,670000,0.0,2.0,3,San Diego,92128,CA,San Diego,1322.0,3999.0
+M2504477004,single_family,1449000,1.0,3.0,4,Point Loma,92106,CA,San Diego,3189.0,3999.0
+M2145468257,single_family,729000,0.0,2.0,3,San Diego,92104,CA,San Diego,958.0,3999.0
+M1018721144,single_family,599000,0.0,1.0,3,San Diego,92126,CA,San Diego,1006.0,7499.0
+M1976739442,single_family,1795000,0.0,2.0,4,San Diego,92109,CA,San Diego,2514.0,7300.0
+M2112631918,single_family,6975000,1.0,5.0,6,La Jolla,92037,CA,San Diego,8162.0,17424.0
+M2611595770,single_family,1299000,0.0,3.0,3,San Diego,92130,CA,San Diego,2769.0,5401.0
+M1776446373,single_family,760000,0.0,2.0,4,San Diego,92117,CA,San Diego,1723.0,5300.0
+M2511371174,single_family,590000,1.0,2.0,5,San Diego,92105,CA,San Diego,1800.0,10019.0
+M2407612485,single_family,1324999,0.0,3.0,4,San Diego,92127,CA,San Diego,2775.0,4800.0
+M1856657203,single_family,989000,0.0,2.0,3,San Diego,92116,CA,San Diego,1456.0,7499.0
+M2502009198,single_family,1295000,0.0,3.0,4,San Diego,92122,CA,San Diego,2250.0,8900.0
+M2457261025,single_family,725000,0.0,2.0,3,San Diego,92115,CA,San Diego,1224.0,7200.0
+M2417539840,single_family,1059000,0.0,3.0,4,San Diego,92127,CA,San Diego,2771.0,4815.0
+M2748494397,single_family,899000,0.0,3.0,4,San Diego,92129,CA,San Diego,2292.0,5769.0
+M2868751562,single_family,485000,0.0,1.0,2,San Diego,92115,CA,San Diego,780.0,6400.0
+M2172451949,single_family,538000,0.0,3.0,4,San Diego,92113,CA,San Diego,1414.0,5000.0
+M2776865120,single_family,899900,0.0,1.0,2,San Diego,92106,CA,San Diego,1277.0,4169.0
+M2761437020,single_family,999999,0.0,2.0,3,San Diego,92106,CA,San Diego,1955.0,13939.0
+M1581485483,single_family,799999,0.0,3.0,4,San Diego,92111,CA,San Diego,1601.0,3999.0
+M1993300042,single_family,659999,1.0,2.0,3,San Diego,92115,CA,San Diego,2205.0,4073.0
+M2543543085,single_family,1625000,0.0,3.0,4,San Diego,92130,CA,San Diego,1532.0,7499.0
+M1977316101,single_family,545000,0.0,2.0,3,San Diego,92139,CA,San Diego,1770.0,7499.0
+M1429960816,single_family,1585000,1.0,3.0,3,San Diego,92127,CA,San Diego,1762.0,6000.0
+M1589944883,single_family,735000,0.0,2.0,3,San Diego,92128,CA,San Diego,1865.0,5214.0
+M1763856782,single_family,565000,0.0,2.0,4,San Diego,92139,CA,San Diego,1396.0,6000.0
+M1905292407,single_family,609000,1.0,2.0,4,San Diego,92102,CA,San Diego,1776.0,6000.0
+M1566306872,single_family,725000,0.0,2.0,3,San Diego,92120,CA,San Diego,1398.0,4918.0
+M1006329377,single_family,770444,0.0,2.0,3,San Diego,92117,CA,San Diego,2040.0,4288.0
+M1438685571,single_family,809000,0.0,2.0,3,San Diego,92131,CA,San Diego,1364.0,5000.0
+M1905768671,single_family,1798000,0.0,2.0,3,La Jolla,92037,CA,San Diego,3164.0,7200.0
+M2809860001,single_family,1095000,0.0,2.0,3,San Diego,92106,CA,San Diego,2532.0,3800.0
+M2387249723,single_family,1995000,1.0,4.0,4,Del Mar,92014,CA,San Diego,1366.0,6400.0
+M1150171972,single_family,4595000,1.0,7.0,7,La Jolla,92037,CA,San Diego,2869.0,10889.0
+M1060757096,single_family,1650000,1.0,4.0,5,San Diego,92104,CA,San Diego,4252.0,7843.0
+M2052068433,single_family,659900,0.0,2.0,2,San Diego,92115,CA,San Diego,1526.0,15246.0
+M1158058503,single_family,1250000,0.0,4.0,4,San Diego,92129,CA,San Diego,1018.0,7100.0
+M1606687774,single_family,1895000,1.0,5.0,5,San Diego,92127,CA,San Diego,1859.0,5800.0
+M2902402708,single_family,529900,0.0,2.0,4,San Diego,92114,CA,San Diego,2004.0,6400.0
+M1867039880,single_family,599900,0.0,1.0,3,San Diego,92117,CA,San Diego,1625.0,7499.0
+M1404099628,single_family,779000,0.0,2.0,3,San Diego,92128,CA,San Diego,1044.0,10889.0
+M1199211445,single_family,1100000,0.0,4.0,5,San Diego,92110,CA,San Diego,1919.0,5000.0
+M1633247877,single_family,849000,0.0,2.0,3,San Diego,92111,CA,San Diego,2676.0,14375.0
+M2799101516,single_family,420000,0.0,1.0,3,San Diego,92105,CA,San Diego,1406.0,5700.0
+M2798665697,single_family,1449000,0.0,2.0,3,San Diego,92103,CA,San Diego,2757.0,4145.0
+M1318190227,single_family,969000,0.0,3.0,4,San Diego,92120,CA,San Diego,1431.0,10454.0
+M2075095637,single_family,677999,0.0,2.0,3,San Diego,92119,CA,San Diego,8586.0,40511.0
+M2767445090,single_family,1025000,1.0,2.0,4,San Diego,92129,CA,San Diego,1586.0,7820.0
+M1341891366,single_family,649000,0.0,2.0,3,San Diego,92120,CA,San Diego,8192.0,43560.0
+M2414225191,single_family,8495000,0.0,7.0,6,La Jolla,92037,CA,San Diego,1645.0,6024.0
+M1730165252,single_family,769000,0.0,2.0,3,San Diego,92129,CA,San Diego,2971.0,7499.0
+M1307762213,single_family,4695000,1.0,6.0,5,San Diego,92130,CA,San Diego,1595.0,5532.0
+M1068112366,single_family,3490000,0.0,3.0,3,La Jolla,92037,CA,San Diego,2017.0,33977.0
+M2754899614,single_family,730000,0.0,3.0,4,San Diego,92154,CA,San Diego,2702.0,5059.0
+M2399177974,single_family,799000,1.0,2.0,3,San Diego,92131,CA,San Diego,1194.0,9000.0
+M2103203634,single_family,950000,0.0,2.0,4,San Diego,92117,CA,San Diego,954.0,3596.0
+M1531422679,single_family,1900000,0.0,5.0,5,San Diego,92107,CA,San Diego,2001.0,7499.0
+M1321796800,single_family,515000,0.0,3.0,3,San Diego,92154,CA,San Diego,8331.0,17424.0
+M1768746844,single_family,799000,0.0,1.0,2,San Diego,92116,CA,San Diego,2739.0,8206.0
+M2245203292,single_family,939000,0.0,4.0,5,San Diego,92111,CA,San Diego,2228.0,11517.0
+M1901520354,single_family,8250000,1.0,6.0,6,La Jolla,92037,CA,San Diego,1808.0,2700.0
+M2676172575,single_family,1249000,0.0,3.0,4,San Diego,92130,CA,San Diego,899.0,6500.0
+M1571635933,single_family,847000,0.0,3.0,5,San Diego,92129,CA,San Diego,1044.0,5800.0
+M1520741997,single_family,998000,0.0,3.0,3,San Diego,92110,CA,San Diego,1210.0,7560.0
+M2868706226,single_family,749000,0.0,1.0,3,San Diego,92117,CA,San Diego,1679.0,10889.0
+M2576735637,single_family,410000,0.0,2.0,3,San Diego,92115,CA,San Diego,1160.0,6103.0
+M1755293839,single_family,843000,0.0,2.0,3,San Diego,92116,CA,San Diego,1732.0,6300.0
+M1529387726,single_family,719000,0.0,2.0,3,San Diego,92128,CA,San Diego,10000.0,22215.0
+M2108787198,single_family,579000,0.0,2.0,3,San Diego,92115,CA,San Diego,830.0,7196.0
+M2736368413,single_family,949000,0.0,2.0,3,San Diego,92117,CA,San Diego,1978.0,6500.0
+M2492631968,single_family,11998000,3.0,6.0,6,La Jolla,92037,CA,San Diego,3168.0,6800.0
+M1177436762,single_family,520000,1.0,1.0,3,San Diego,92105,CA,San Diego,2162.0,15246.0
+M2510685865,single_family,749900,0.0,2.0,3,San Diego,92123,CA,San Diego,3600.0,7896.0
+M2322965972,single_family,2650000,0.0,3.0,5,San Diego,92014,CA,San Diego,7654.0,9433.0
+M1375879282,single_family,613600,1.0,2.0,4,San Diego,92154,CA,San Diego,3839.0,7540.0
+M2616014581,single_family,1198300,0.0,4.0,5,San Diego,92127,CA,San Diego,1247.0,6504.0
+M2823610400,single_family,5750000,1.0,5.0,6,La Jolla,92037,CA,San Diego,1086.0,5400.0
+M2824006538,single_family,1908000,0.0,4.0,4,San Diego,92110,CA,San Diego,1327.0,5800.0
+M2128701732,single_family,650000,0.0,2.0,3,San Diego,92113,CA,San Diego,1674.0,10200.0
+M1630344283,single_family,485000,0.0,1.0,3,San Diego,92105,CA,San Diego,1540.0,5000.0
+M2896142030,single_family,549900,0.0,2.0,4,San Diego,92114,CA,San Diego,1329.0,6800.0
+M2174240714,single_family,529900,0.0,2.0,3,San Diego,92113,CA,San Diego,4300.0,8646.0
+M2730741256,single_family,1314000,0.0,2.0,4,Pacific Beach,92109,CA,San Diego,1018.0,7499.0
+M1160119471,single_family,750000,0.0,2.0,3,San Diego,92110,CA,San Diego,2518.0,10889.0
+M2562166454,single_family,1988000,1.0,4.0,5,San Diego,92130,CA,San Diego,1392.0,6800.0
+M2067167468,single_family,619900,0.0,1.0,3,San Diego,92117,CA,San Diego,1818.0,7499.0
+M2077146639,single_family,1425000,1.0,2.0,3,La Jolla,92037,CA,San Diego,1490.0,5300.0
+M1182441771,single_family,845000,0.0,2.0,3,San Diego,92110,CA,San Diego,2245.0,9100.0
+M2390673115,single_family,1750000,0.0,2.0,3,La Jolla,92037,CA,San Diego,1357.0,4359.0
+M1021665153,single_family,625000,0.0,1.0,3,San Diego,92126,CA,San Diego,1829.0,17424.0
+M2760224914,single_family,845000,0.0,3.0,5,San Diego,92120,CA,San Diego,2612.0,10889.0
+M2854811440,single_family,615000,0.0,2.0,3,San Diego,92105,CA,San Diego,4812.0,71003.0
+M1170668240,single_family,1795000,0.0,2.0,3,La Jolla,92037,CA,San Diego,2369.0,4870.0
+M1287745328,single_family,1350000,1.0,2.0,3,San Diego,92131,CA,San Diego,3472.0,5712.0
+M2430771268,single_family,3749000,1.0,4.0,3,La Jolla,92037,CA,San Diego,2080.0,73616.0
+M2835782606,single_family,1249000,1.0,2.0,4,San Diego,92130,CA,San Diego,1338.0,8171.0
+M1570867197,single_family,1369000,1.0,5.0,5,San Diego,92103,CA,San Diego,1342.0,7499.0
+M2619714672,single_family,1095000,1.0,2.0,4,San Diego,92130,CA,San Diego,1890.0,10000.0
+M1881651278,single_family,905000,0.0,2.0,2,San Diego,92116,CA,San Diego,1118.0,11761.0
+M2399856953,single_family,749900,0.0,2.0,4,San Diego,92111,CA,San Diego,5131.0,57935.0
+M1320128056,single_family,840000,0.0,2.0,4,San Diego,92120,CA,San Diego,2597.0,5749.0
+M1962217097,single_family,679000,0.0,2.0,3,San Diego,92117,CA,San Diego,2500.0,5717.0
+M2230317764,single_family,4995000,0.0,4.0,6,La Jolla,92037,CA,San Diego,1559.0,7499.0
+M2957120515,single_family,1295000,0.0,3.0,4,San Diego,92130,CA,San Diego,5289.0,37897.0
+M2307365512,single_family,1399000,0.0,4.0,6,San Diego,92116,CA,San Diego,2662.0,4584.0
+M1376961767,single_family,540000,0.0,2.0,4,San Diego,92114,CA,San Diego,2500.0,6600.0
+M2617623559,single_family,2100000,1.0,4.0,5,San Diego,92131,CA,San Diego,4458.0,16044.0
+M2712954029,single_family,995000,0.0,3.0,4,San Diego,92106,CA,San Diego,3178.0,7499.0
+M1453345577,single_family,524999,0.0,3.0,4,San Diego,92154,CA,San Diego,1402.0,7499.0
+M2143331287,single_family,2990000,1.0,4.0,4,San Diego,92130,CA,San Diego,1270.0,4964.0
+M9579411474,single_family,2795000,1.0,3.0,3,La Jolla,92037,CA,San Diego,1407.0,7499.0
+M2593876256,single_family,1350000,0.0,4.0,5,San Diego,92130,CA,San Diego,2937.0,7499.0
+M1549250474,single_family,665000,0.0,2.0,3,San Diego,92128,CA,San Diego,1966.0,7499.0
+M2401958367,single_family,615000,0.0,2.0,2,San Diego,92115,CA,San Diego,2110.0,10889.0
+M2434700609,single_family,749900,0.0,2.0,4,San Diego,92111,CA,San Diego,1793.0,6000.0
+M2395858156,single_family,1490000,0.0,4.0,3,Del Mar,92014,CA,San Diego,1036.0,2700.0
+M1315183089,single_family,749000,0.0,2.0,3,San Diego,92128,CA,San Diego,6888.0,43560.0
+M1168559244,single_family,555000,0.0,2.0,3,San Diego,92154,CA,San Diego,1700.0,7499.0
+M2298679919,single_family,785000,0.0,2.0,3,San Diego,92117,CA,San Diego,1595.0,7499.0
+M2732380957,single_family,935000,0.0,2.0,3,San Diego,92109,CA,San Diego,1100.0,10889.0
+M1325765209,single_family,2999000,1.0,5.0,5,San Diego,92127,CA,San Diego,892.0,9400.0
+M2226905714,single_family,769000,0.0,2.0,3,San Diego,92111,CA,San Diego,750.0,7499.0
+M2289971061,single_family,720000,1.0,2.0,3,San Diego,92124,CA,San Diego,1032.0,14810.0
+M2583257177,single_family,550000,0.0,2.0,3,San Diego,92115,CA,San Diego,1176.0,5000.0
+M1924231729,single_family,1300000,0.0,1.0,2,San Diego,92109,CA,San Diego,1219.0,6400.0
+M1461369127,single_family,429000,0.0,1.0,2,San Diego,92114,CA,San Diego,1200.0,7400.0
+M1880086108,single_family,849000,0.0,2.0,2,San Diego,92116,CA,San Diego,4720.0,24394.0
+M2158812614,single_family,489500,0.0,2.0,3,San Diego,92113,CA,San Diego,3095.0,10889.0
+M1188157981,single_family,549000,0.0,1.0,4,San Diego,92119,CA,San Diego,1889.0,7499.0
+M1931100035,single_family,740000,0.0,2.0,3,San Diego,92117,CA,San Diego,1289.0,5400.0
+M2404369250,single_family,1725000,1.0,4.0,4,San Diego,92127,CA,San Diego,2514.0,7499.0
+M1179343654,single_family,7495000,0.0,3.0,3,La Jolla,92037,CA,San Diego,1995.0,5100.0
+M2046551300,single_family,889000,1.0,2.0,3,San Diego,92131,CA,San Diego,1068.0,10889.0
+M2610297730,single_family,1300000,0.0,2.0,3,San Diego,92109,CA,San Diego,1575.0,7499.0
+M1271247887,single_family,1290000,0.0,3.0,4,San Diego,92130,CA,San Diego,2223.0,11326.0
+M1290091737,single_family,714900,0.0,2.0,4,San Diego,92126,CA,San Diego,6349.0,33105.0
+M2120577757,single_family,479900,0.0,2.0,3,San Diego,92113,CA,San Diego,2481.0,21780.0
+M2853609576,single_family,699000,0.0,2.0,3,San Diego,92126,CA,San Diego,2990.0,7019.0
+M1470145179,single_family,790000,1.0,2.0,3,San Diego,92127,CA,San Diego,1120.0,2700.0
+M2087806472,single_family,775000,0.0,3.0,2,San Diego,92115,CA,San Diego,3777.0,10889.0
+M2114687322,single_family,3549000,1.0,6.0,5,San Diego,92127,CA,San Diego,1924.0,7500.0
+M1482471678,single_family,1530000,1.0,4.0,5,San Diego,92131,CA,San Diego,1988.0,4606.0
+M1832248011,single_family,1695000,0.0,4.0,4,San Diego,92116,CA,San Diego,2656.0,4889.0
+M2431521662,single_family,2100000,1.0,2.0,3,Del Mar,92014,CA,San Diego,1548.0,6900.0
+M2576672477,single_family,829000,0.0,2.0,3,San Diego,92106,CA,San Diego,3802.0,11761.0
+M2848358899,single_family,2100000,1.0,4.0,4,La Jolla,92037,CA,San Diego,1608.0,10616.0
+M1851462716,single_family,879000,0.0,3.0,4,San Diego,92117,CA,San Diego,1721.0,3409.0
+M2036901225,single_family,890000,0.0,3.0,4,San Diego,92128,CA,San Diego,1473.0,5300.0
+M1124497661,single_family,1239900,0.0,3.0,5,San Diego,92130,CA,San Diego,2356.0,7499.0
+M1414012368,single_family,729999,0.0,2.0,3,San Diego,92127,CA,San Diego,1528.0,7499.0
+M2446267602,single_family,1475000,1.0,4.0,5,San Diego,92127,CA,San Diego,1037.0,3495.0
+M2088118479,single_family,539000,0.0,2.0,4,San Diego,92114,CA,San Diego,13968.0,5011.0
+M1399834341,single_family,689000,1.0,2.0,3,San Diego,92105,CA,San Diego,4795.0,51401.0
+M1474237250,single_family,749000,0.0,2.0,4,San Diego,92104,CA,San Diego,3107.0,7499.0
+M1988343702,single_family,880000,0.0,3.0,4,San Diego,92128,CA,San Diego,1109.0,6300.0
+M1283991495,single_family,725000,0.0,2.0,2,San Diego,92128,CA,San Diego,2042.0,13504.0
+M2410615438,single_family,799000,0.0,2.0,2,San Diego,92107,CA,San Diego,2498.0,5078.0
+M1134662489,single_family,13250000,0.0,24.0,20,San Diego,92101,CA,San Diego,3321.0,8121.0
+M1318515866,single_family,2299000,1.0,4.0,4,San Diego,92127,CA,San Diego,3517.0,9835.0
+M1318909683,single_family,1299999,1.0,3.0,4,San Diego,92128,CA,San Diego,3823.0,6685.0
+M1048290675,single_family,649900,0.0,2.0,3,San Diego,92117,CA,San Diego,4477.0,45302.0
+M2363127286,single_family,850000,1.0,2.0,3,San Diego,92129,CA,San Diego,8303.0,59677.0
+M2845042199,single_family,975000,1.0,2.0,4,San Diego,92120,CA,San Diego,3670.0,6090.0
+M1641514861,single_family,1649900,0.0,4.0,5,San Diego,92130,CA,San Diego,1118.0,7500.0
+M2343129996,single_family,1299000,0.0,3.0,4,San Diego,92131,CA,San Diego,1370.0,1173.0
+M1731394998,single_family,1199995,1.0,3.0,4,San Diego,92120,CA,San Diego,1349.0,5705.0
+M2750040489,single_family,1200000,1.0,3.0,5,San Diego,92127,CA,San Diego,728.0,3253.0
+M1403386622,single_family,4999999,2.0,3.0,4,La Jolla,92037,CA,San Diego,2823.0,53579.0
+M1227035132,single_family,3695000,2.0,4.0,4,San Diego,92127,CA,San Diego,1891.0,7499.0
+M2332345617,single_family,845000,1.0,2.0,4,San Diego,92129,CA,San Diego,1016.0,4762.0
+M1254019650,single_family,1299000,1.0,4.0,4,San Diego,92130,CA,San Diego,4613.0,27878.0
+M1364958985,single_family,639000,0.0,2.0,3,San Diego,92119,CA,San Diego,1200.0,13504.0
+M1146378150,single_family,1599900,0.0,3.0,3,San Diego,92109,CA,San Diego,2104.0,10889.0
+M1175118050,single_family,529000,0.0,3.0,4,San Diego,92154,CA,San Diego,3170.0,6000.0
+M2208881746,single_family,600000,0.0,1.0,3,San Diego,92105,CA,San Diego,3176.0,7000.0
+M2046489914,single_family,1850000,1.0,2.0,3,San Diego,92103,CA,San Diego,1092.0,5500.0
+M1701272774,single_family,699000,1.0,2.0,4,San Diego,92126,CA,San Diego,2008.0,8949.0
+M1170579829,single_family,619000,0.0,2.0,3,San Diego,92105,CA,San Diego,2109.0,28314.0
+M1691902911,single_family,1449000,1.0,5.0,5,San Diego,92131,CA,San Diego,2333.0,4464.0
+M2067502862,single_family,680000,1.0,1.0,3,San Diego,92117,CA,San Diego,5500.0,138521.0
+M1896367106,single_family,689000,0.0,2.0,4,Anaheim Hills,92807,CA,Orange,1382.0,7150.0
+M1802846038,single_family,669900,0.0,2.0,4,Anaheim,92802,CA,Orange,1664.0,7706.0
+M1794705615,single_family,1149888,0.0,3.0,5,Anaheim Hills,92808,CA,Orange,3139.0,7125.0
+M2080460862,single_family,2275000,1.0,4.0,5,Anaheim Hills,92807,CA,Orange,4193.0,47916.0
+M1805736334,single_family,825000,1.0,2.0,4,Anaheim,92807,CA,Orange,2218.0,23250.0
+M1496653155,single_family,799900,0.0,3.0,4,Anaheim,92804,CA,Orange,2525.0,3469.0
+M1597697024,single_family,649000,0.0,2.0,3,Anaheim,92804,CA,Orange,1379.0,6060.0
+M2250505358,single_family,650000,0.0,2.0,3,Anaheim Hills,92807,CA,Orange,1419.0,5880.0
+M2750797487,single_family,695000,1.0,2.0,4,Anaheim,92806,CA,Orange,2010.0,7722.0
+M2280441282,single_family,720000,0.0,2.0,4,Anaheim,92806,CA,Orange,1507.0,7700.0
+M1527450723,single_family,599900,0.0,2.0,3,Anaheim,92804,CA,Orange,1348.0,7182.0
+M2343223023,single_family,2900000,1.0,5.0,5,Anaheim,92807,CA,Orange,5134.0,63554.0
+M2965912954,single_family,489000,0.0,1.0,3,Anaheim,92801,CA,Orange,986.0,3328.0
+M2107627734,single_family,948000,1.0,2.0,4,Anaheim Hills,92807,CA,Orange,3094.0,9240.0
+M2727446262,single_family,659900,0.0,2.0,3,Anaheim,92807,CA,Orange,1285.0,6363.0
+M2249275582,single_family,960000,1.0,2.0,3,Anaheim Hills,92807,CA,Orange,2461.0,11400.0
+M1465924651,single_family,615000,0.0,2.0,4,Anaheim,92804,CA,Orange,1481.0,5000.0
+M2354178599,single_family,1300000,0.0,4.0,5,Anaheim,92804,CA,Orange,5819.0,29450.0
+M2115286849,single_family,680000,0.0,3.0,3,Anaheim,92805,CA,Orange,1435.0,6348.0
+M2181414301,single_family,450000,1.0,1.0,2,Anaheim Hills,92807,CA,Orange,1012.0,1400.0
+M2325939575,single_family,599900,0.0,1.0,3,Anaheim,92804,CA,Orange,1234.0,7344.0
+M2681236493,single_family,679900,0.0,2.0,4,Anaheim,92807,CA,Orange,1704.0,5000.0
+M2913505666,single_family,600000,0.0,2.0,3,Anaheim,92804,CA,Orange,1434.0,8260.0
+M1144411769,single_family,755000,0.0,2.0,4,Anaheim,92806,CA,Orange,2176.0,7242.0
+M1162341763,single_family,600000,0.0,2.0,4,Anaheim,92802,CA,Orange,1455.0,6420.0
+M1211011083,single_family,648888,0.0,2.0,3,Anaheim,92802,CA,Orange,1077.0,6300.0
+M1252408471,single_family,819000,0.0,3.0,4,Anaheim,92806,CA,Orange,2529.0,8200.0
+M1786560821,single_family,644900,0.0,2.0,3,Anaheim,92802,CA,Orange,1321.0,6000.0
+M1184254137,single_family,649000,0.0,2.0,3,Anaheim,92805,CA,Orange,1402.0,6226.0
+M1674576664,single_family,650000,0.0,2.0,4,Anaheim,92804,CA,Orange,1536.0,8400.0
+M1144486301,single_family,669000,0.0,2.0,3,Anaheim,92802,CA,Orange,1322.0,6161.0
+M2354365540,single_family,1399000,1.0,3.0,5,Anaheim Hills,92807,CA,Orange,3383.0,10800.0
+M1944738300,single_family,849000,0.0,3.0,4,Anaheim Hills,92808,CA,Orange,2523.0,6400.0
+M1253531524,single_family,645000,0.0,2.0,3,Anaheim,92802,CA,Orange,1218.0,7758.0
+M2346167032,single_family,838000,0.0,3.0,3,Anaheim Hills,92807,CA,Orange,2436.0,5550.0
+M1436803503,single_family,699900,0.0,2.0,3,Anaheim Hills,92807,CA,Orange,1499.0,5000.0
+M2240145426,single_family,534900,1.0,2.0,2,Anaheim Hills,92807,CA,Orange,1404.0,1537.0
+M1232848926,single_family,799000,0.0,2.0,4,Anaheim,92805,CA,Orange,1737.0,6057.0
+M2567155997,single_family,639000,1.0,2.0,3,Anaheim,92801,CA,Orange,1423.0,6209.0
+M2837191039,single_family,495000,0.0,1.0,2,Anaheim,92805,CA,Orange,816.0,5996.0
+M1254427862,single_family,279900,0.0,2.0,2,Anaheim,92806,CA,Orange,1287.0,6600.0
+M2727841666,single_family,685000,0.0,2.0,4,Anaheim,92806,CA,Orange,1358.0,6000.0
+M2829668668,single_family,650000,0.0,2.0,4,Anaheim,92801,CA,Orange,3738.0,56041.0
+M1448484190,single_family,619999,0.0,2.0,3,Anaheim,92804,CA,Orange,3136.0,10000.0
+M1089499713,single_family,1499000,1.0,3.0,4,Anaheim Hills,92807,CA,Orange,2563.0,7000.0
+M2330738932,single_family,1016500,0.0,3.0,4,Anaheim Hills,92807,CA,Orange,1100.0,5795.0
+M2323956531,single_family,829000,0.0,3.0,5,Anaheim Hills,92807,CA,Orange,2765.0,9300.0
+M2680344036,single_family,575000,0.0,2.0,3,Anaheim,92805,CA,Orange,2076.0,3406.0
+M2232953099,single_family,844999,1.0,2.0,3,Anaheim Hills,92807,CA,Orange,1584.0,7350.0
+M1118659107,single_family,750000,1.0,2.0,3,Anaheim,92801,CA,Orange,1462.0,3750.0
+M1891597066,single_family,735000,0.0,2.0,3,Anaheim Hills,92807,CA,Orange,2358.0,6005.0
+M1967180346,single_family,669900,1.0,2.0,3,Anaheim Hills,92807,CA,Orange,1747.0,7480.0
+M2208804768,single_family,812888,0.0,3.0,4,Anaheim Hills,92807,CA,Orange,2216.0,6264.0
+M1039438684,single_family,700000,1.0,2.0,4,Anaheim,92805,CA,Orange,1443.0,7200.0
+M1720620921,single_family,835000,0.0,3.0,4,Anaheim Hills,92808,CA,Orange,2192.0,11200.0
+M1495364746,single_family,699900,0.0,3.0,5,Anaheim,92804,CA,Orange,1128.0,6188.0
+M2180743514,single_family,920000,1.0,2.0,4,Anaheim Hills,92807,CA,Orange,1480.0,6800.0
+M2649550996,single_family,554900,1.0,1.0,3,Anaheim,92801,CA,Orange,2666.0,187308.0
+M1922274885,single_family,675000,0.0,2.0,4,Anaheim,92801,CA,Orange,1312.0,7400.0
+M1476078383,single_family,2250000,0.0,3.0,4,Anaheim Hills,92808,CA,Orange,1240.0,5000.0
+M9133261535,single_family,694911,3.0,3.0,4,Anaheim,92805,CA,Orange,1438.0,8090.0
+M9751963260,single_family,657311,2.0,2.0,3,Anaheim,92805,CA,Orange,1692.0,4050.0
+M2377524137,single_family,669995,0.0,2.0,4,Anaheim,92804,CA,Orange,1567.0,7320.0
+M1974886447,single_family,615000,0.0,2.0,3,Anaheim Hills,92807,CA,Orange,1859.0,7704.0
+M1655980958,single_family,639900,0.0,2.0,4,Anaheim,92804,CA,Orange,2700.0,6745.0
+M2887302634,single_family,533000,1.0,2.0,3,Anaheim,92801,CA,Orange,1953.0,6000.0
+M2773022510,single_family,689000,0.0,2.0,4,Anaheim,92807,CA,Orange,2319.0,9100.0
+M1143522462,single_family,739000,0.0,3.0,5,Anaheim,92802,CA,Orange,1585.0,8100.0
+M2013278317,single_family,849900,1.0,3.0,4,Anaheim,92802,CA,Orange,1863.0,2800.0
+M1944104779,single_family,775000,1.0,2.0,4,Anaheim Hills,92807,CA,Orange,1661.0,4320.0
+M2145415400,single_family,899900,1.0,2.0,4,Anaheim Hills,92807,CA,Orange,12873.0,52272.0
+M2359061049,single_family,749000,1.0,2.0,3,Anaheim Hills,92808,CA,Orange,1319.0,8052.0
+M2289075609,single_family,675000,1.0,2.0,3,Anaheim Hills,92807,CA,Orange,1909.0,7210.0
+M1764184808,single_family,715000,1.0,2.0,3,Anaheim Hills,92808,CA,Orange,1034.0,6240.0
+M2075616290,single_family,3999900,3.0,8.0,6,Anaheim Hills,92807,CA,Orange,1764.0,4080.0
+M1422099903,single_family,699900,0.0,2.0,3,Anaheim,92804,CA,Orange,3478.0,5414.0
+M2667619903,single_family,724900,1.0,2.0,4,Anaheim,92806,CA,Orange,815.0,7439.0
+M9615707304,single_family,668880,3.0,3.0,3,Anaheim,92802,CA,Orange,2578.0,5850.0
+M2869766822,single_family,480000,0.0,1.0,2,Anaheim,92805,CA,Orange,1300.0,6755.0
+M1805438207,single_family,744900,1.0,2.0,3,Anaheim Hills,92808,CA,Orange,2152.0,7420.0
+M1432170848,single_family,959900,0.0,4.0,6,Anaheim Hills,92807,CA,Orange,1814.0,8550.0
+M2897332247,single_family,484999,0.0,1.0,2,Anaheim,92804,CA,Orange,1556.0,5096.0
+M2364949068,single_family,860000,1.0,2.0,4,Anaheim Hills,92807,CA,Orange,2240.0,5750.0
+M2959018755,single_family,620000,1.0,1.0,3,Anaheim,92805,CA,Orange,1393.0,1652.0
+M1892044257,single_family,729900,0.0,2.0,5,Anaheim Hills,92807,CA,Orange,1348.0,7200.0
+M1430353072,single_family,819000,0.0,3.0,4,Anaheim Hills,92807,CA,Orange,1743.0,7200.0
+M1128014755,single_family,644999,0.0,2.0,3,Anaheim,92806,CA,Orange,6118.0,23552.0
+M1736980670,single_family,845000,0.0,3.0,5,Anaheim Hills,92808,CA,Orange,1352.0,7210.0
+M2214879117,single_family,525000,1.0,2.0,2,Anaheim Hills,92807,CA,Orange,2011.0,4241.0
+M1527711584,single_family,635999,0.0,2.0,3,Anaheim,92804,CA,Orange,2445.0,6050.0
+M1948874819,single_family,650000,0.0,2.0,4,Anaheim Hills,92807,CA,Orange,1291.0,6479.0
+M2960873827,single_family,2795000,1.0,7.0,7,Anaheim Hills,92808,CA,Orange,2283.0,7665.0
+M1481688145,single_family,634000,0.0,2.0,3,Anaheim,92804,CA,Orange,2494.0,4320.0
+M2357777773,single_family,760000,0.0,3.0,5,Anaheim,92805,CA,Orange,1460.0,5000.0
+M2516879165,single_family,786000,0.0,3.0,4,Anaheim,92805,CA,Orange,1904.0,7350.0
+M2569056560,single_family,579000,0.0,2.0,4,Anaheim,92801,CA,Orange,1502.0,6420.0
+M1604963883,single_family,699888,0.0,3.0,5,Anaheim,92804,CA,Orange,1601.0,6340.0
+M2144260156,single_family,625000,1.0,2.0,3,Anaheim Hills,92807,CA,Orange,1769.0,6575.0
+M1723751261,single_family,729900,0.0,2.0,3,Anaheim Hills,92808,CA,Orange,1420.0,5000.0
+M1890628151,single_family,699000,0.0,2.0,4,Anaheim Hills,92807,CA,Orange,1794.0,7344.0
+M1638130572,single_family,630000,0.0,2.0,4,Anaheim,92804,CA,Orange,1501.0,5000.0
+M2799019616,single_family,594900,0.0,2.0,3,Anaheim,92801,CA,Orange,1949.0,8400.0
+M2789852194,single_family,619900,0.0,2.0,3,Anaheim,92801,CA,Orange,2200.0,6960.0
+M1738583106,single_family,749900,0.0,2.0,3,Anaheim Hills,92808,CA,Orange,2416.0,9222.0
+M1222670249,single_family,629900,0.0,2.0,3,Anaheim,92806,CA,Orange,1632.0,1783.0
+M2638008000,single_family,685000,0.0,2.0,4,Anaheim,92807,CA,Orange,1232.0,6875.0
+M1035924313,single_family,699900,1.0,2.0,4,Anaheim,92806,CA,Orange,1435.0,7200.0
+M1264711307,single_family,689900,0.0,3.0,4,Anaheim,92802,CA,Orange,2024.0,5328.0
+M1713854967,single_family,749900,0.0,3.0,4,Anaheim,92804,CA,Orange,2282.0,10264.0
+M2212978554,single_family,570000,1.0,2.0,3,Anaheim Hills,92807,CA,Orange,1360.0,6000.0
+M2819828533,single_family,679900,0.0,2.0,3,Anaheim,92807,CA,Orange,1931.0,7500.0
+M1394916584,single_family,715000,0.0,2.0,4,Anaheim Hills,92807,CA,Orange,1650.0,7650.0
+M1718459497,single_family,770000,1.0,2.0,4,Anaheim Hills,92808,CA,Orange,1774.0,6060.0
+M2960436083,single_family,825000,0.0,3.0,4,Anaheim Hills,92808,CA,Orange,2113.0,8100.0
+M2733697494,single_family,620000,0.0,2.0,3,Anaheim,92801,CA,Orange,1285.0,5060.0
+M1698315069,single_family,715000,0.0,4.0,4,Anaheim,92804,CA,Orange,1802.0,7488.0
+M1264109977,single_family,639000,0.0,2.0,3,Anaheim,92806,CA,Orange,1277.0,7272.0
+M2863494772,single_family,699000,0.0,2.0,3,Anaheim,92804,CA,Orange,1317.0,7210.0
+M1624342173,single_family,665000,0.0,2.0,4,Anaheim,92804,CA,Orange,1919.0,7251.0
+M1286357744,single_family,769999,1.0,2.0,4,Anaheim,92806,CA,Orange,1579.0,7519.0
+M2808164293,single_family,649999,0.0,2.0,3,Anaheim,92807,CA,Orange,3558.0,7400.0
+M1244508091,single_family,624900,0.0,2.0,3,Anaheim,92806,CA,Orange,1758.0,27666.0
+M2911679635,single_family,589000,0.0,2.0,3,Anaheim,92804,CA,Orange,2462.0,4207.0
+M1398845955,single_family,679900,0.0,3.0,4,Anaheim,92804,CA,Orange,1543.0,6177.0
+M2746810031,single_family,657900,0.0,2.0,3,Anaheim,92806,CA,Orange,1100.0,7442.0
+M1239365391,single_family,899900,0.0,4.0,6,Anaheim,92806,CA,Orange,1752.0,5207.0
+M1969296556,single_family,865000,0.0,2.0,3,Anaheim Hills,92807,CA,Orange,2034.0,8600.0
+M1650614663,single_family,639900,0.0,2.0,3,Anaheim,92804,CA,Orange,1995.0,5283.0
+M2293807680,single_family,739000,1.0,2.0,4,Anaheim,92804,CA,Orange,1089.0,6375.0
+M2478910245,single_family,619900,0.0,2.0,4,Anaheim,92801,CA,Orange,1003.0,6312.0
+M1729620812,single_family,619900,0.0,2.0,3,Anaheim,92804,CA,Orange,4910.0,47916.0
+M2575461227,single_family,669900,1.0,2.0,4,Anaheim,92806,CA,Orange,2393.0,2524.0
+M2551630620,single_family,799000,1.0,3.0,6,Anaheim,92802,CA,Orange,2639.0,33750.0
+M1782983290,single_family,669000,0.0,2.0,4,Anaheim,92802,CA,Orange,1292.0,7200.0
+M1292884359,single_family,595000,0.0,1.0,2,Anaheim,92805,CA,Orange,1104.0,7208.0
+M2772863999,single_family,560000,0.0,1.0,3,Anaheim,92801,CA,Orange,1253.0,6203.0
+M2061119838,single_family,2350000,0.0,3.0,4,Anaheim Hills,92807,CA,Orange,1332.0,6300.0
+M9546136627,single_family,797000,1.0,3.0,4,Anaheim,92801,CA,Orange,2735.0,8849.0
+M1941496163,single_family,1195000,1.0,2.0,3,Anaheim Hills,92808,CA,Orange,1744.0,5100.0
+M2888462953,single_family,650000,0.0,2.0,3,Anaheim,92804,CA,Orange,1445.0,2800.0
+M1308945980,single_family,585000,1.0,1.0,3,Anaheim,92805,CA,Orange,896.0,5880.0
+M2876537851,single_family,564000,0.0,2.0,4,Anaheim,92805,CA,Orange,1747.0,6420.0
+M1005738900,single_family,629900,0.0,2.0,4,Anaheim,92805,CA,Orange,2900.0,15000.0
+M2069971463,single_family,605000,0.0,2.0,4,Anaheim,92805,CA,Orange,4946.0,19550.0
+M1451669465,single_family,699000,0.0,3.0,4,Anaheim,92805,CA,Orange,1701.0,4050.0
+M2596292889,single_family,669900,0.0,2.0,3,Anaheim,92806,CA,Orange,1851.0,7502.0
+M2299957264,single_family,614900,0.0,2.0,2,Anaheim Hills,92807,CA,Orange,1432.0,7875.0
+M2554336512,single_family,479000,0.0,1.0,3,Anaheim,92801,CA,Orange,1457.0,5800.0
+M1596579046,single_family,619900,0.0,3.0,5,Anaheim,92804,CA,Orange,1992.0,5000.0
+M1876318029,single_family,1089000,0.0,3.0,5,Anaheim Hills,92808,CA,Orange,1740.0,10560.0
+M1741154456,single_family,1950000,1.0,5.0,5,Anaheim Hills,92808,CA,Orange,1962.0,7000.0
+M2851080138,single_family,664800,1.0,2.0,3,Anaheim,92801,CA,Orange,1605.0,8400.0
+M1599783917,single_family,739000,0.0,3.0,3,Anaheim,92804,CA,Orange,2276.0,7200.0
+M1103114807,single_family,639000,1.0,2.0,3,Anaheim,92806,CA,Orange,2863.0,7116.0
+M1930689039,single_family,759000,0.0,2.0,3,Anaheim Hills,92808,CA,Orange,959.0,7234.0
+M1145570162,single_family,749000,1.0,2.0,3,Anaheim Hills,92807,CA,Orange,1496.0,5150.0
+M2331484251,single_family,799000,0.0,2.0,3,Anaheim Hills,92807,CA,Orange,1698.0,7200.0
+M1910714494,single_family,799000,1.0,2.0,4,Anaheim Hills,92807,CA,Orange,3400.0,29750.0
+M2500017289,single_family,595000,0.0,2.0,3,Anaheim,92802,CA,Orange,2534.0,4978.0
+M1420145627,single_family,809900,0.0,3.0,4,Anaheim,92807,CA,Orange,1288.0,7000.0
+M1935123687,single_family,895000,1.0,2.0,4,Anaheim Hills,92808,CA,Orange,2680.0,7600.0
+M2458726625,single_family,475000,0.0,1.0,3,Anaheim,92801,CA,Orange,2600.0,15000.0
+M1090416568,single_family,725000,0.0,2.0,3,Anaheim Hills,92807,CA,Orange,4600.0,22000.0
+M1424410391,single_family,610000,0.0,2.0,3,Anaheim,92804,CA,Orange,1452.0,7200.0
+M1823400391,single_family,1099999,1.0,3.0,4,Anaheim Hills,92808,CA,Orange,1891.0,2905.0
+M1023266488,single_family,819900,1.0,2.0,4,Anaheim Hills,92808,CA,Orange,1621.0,5150.0
+M2483928122,single_family,645000,0.0,2.0,3,Anaheim,92806,CA,Orange,1825.0,4602.0
+M2353955614,single_family,950000,0.0,3.0,4,Anaheim Hills,92808,CA,Orange,1995.0,7300.0
+M2378700200,single_family,849900,1.0,2.0,4,Anaheim Hills,92807,CA,Orange,1698.0,4750.0
+M1855225506,single_family,1485000,0.0,4.0,5,Anaheim Hills,92807,CA,Orange,1183.0,3007.0
+M1563635953,single_family,629900,1.0,2.0,3,Anaheim,92804,CA,Orange,658.0,5472.0
+M2338937440,single_family,755000,0.0,3.0,3,Anaheim Hills,92807,CA,Orange,900.0,3828.0
+M2824360457,single_family,649000,0.0,3.0,3,Anaheim,92801,CA,Orange,2850.0,5000.0
+M2840720206,single_family,649000,1.0,2.0,3,Anaheim,92801,CA,Orange,2153.0,7449.0
+M1731369960,single_family,639000,0.0,2.0,4,Anaheim,92804,CA,Orange,1531.0,6565.0
+M1813375852,single_family,799900,0.0,2.0,3,Anaheim Hills,92807,CA,Orange,1450.0,5552.0
+M1040029864,single_family,485000,0.0,2.0,3,Anaheim,92806,CA,Orange,1471.0,11250.0
+M2982645362,single_family,439950,0.0,1.0,1,Anaheim,92805,CA,Orange,1662.0,12300.0
+M1010738834,single_family,527500,0.0,1.0,2,Anaheim,92805,CA,Orange,1363.0,7200.0
+M1170911003,single_family,895000,1.0,3.0,4,Anaheim Hills,92807,CA,Orange,1237.0,6435.0
+M1117322578,single_family,724900,0.0,2.0,3,Anaheim,92807,CA,Orange,984.0,6800.0
+M1652850619,single_family,659900,0.0,2.0,4,Anaheim,92804,CA,Orange,3240.0,5141.0
+M2272580706,single_family,620000,0.0,2.0,4,Anaheim,92804,CA,Orange,2237.0,6500.0
+M2973801961,single_family,565000,1.0,1.0,3,Anaheim,92805,CA,Orange,1856.0,5000.0
+P417000466593,single_family,562990,0.0,3.0,2,Anaheim,92805,CA,Orange,2969.0,13524.0
+P417000466592,single_family,490990,1.0,2.0,2,Anaheim,92805,CA,Orange,1754.0,7650.0
+M1947154472,single_family,850000,0.0,2.0,3,Los Angeles,90043,CA,Los Angeles,1425.0,5649.0
+M1877462085,single_family,624900,0.0,2.0,3,Los Angeles,90062,CA,Los Angeles,1268.0,5470.0
+M2313200155,single_family,610000,0.0,2.0,3,Sun Valley,91352,CA,Los Angeles,1300.0,10487.0
+M2358860381,single_family,1999000,0.0,4.0,3,West Los Angeles,90064,CA,Los Angeles,2573.0,6026.0
+M2263164590,single_family,739000,0.0,2.0,4,Los Angeles,90037,CA,Los Angeles,1820.0,5941.0
+M1276174176,single_family,550888,0.0,1.0,2,Gardena,90247,CA,Los Angeles,956.0,6812.0
+M9989153981,single_family,449900,0.0,2.0,3,Los Angeles,90059,CA,Los Angeles,1150.0,2834.0
+M1937357901,single_family,395000,0.0,2.0,4,Los Angeles,90002,CA,Los Angeles,1360.0,3326.0
+M1612812659,single_family,699000,1.0,2.0,4,Northridge,91343,CA,Los Angeles,1816.0,7858.0
+M2829660625,single_family,390000,0.0,1.0,3,Los Angeles,90058,CA,Los Angeles,980.0,2623.0
+M2177041774,single_family,500000,0.0,1.0,3,Pacoima,91331,CA,Los Angeles,1765.0,7947.0
+M1694873487,single_family,659000,0.0,1.0,3,Los Angeles,90032,CA,Los Angeles,988.0,5097.0
+M2467772283,single_family,2599900,1.0,4.0,3,Los Angeles,90046,CA,Los Angeles,2500.0,6056.0
+M1186436564,single_family,1399000,0.0,1.0,3,Culver City,90230,CA,Los Angeles,1321.0,4647.0
+M1263009852,single_family,900000,0.0,2.0,4,Los Angeles,90007,CA,Los Angeles,2736.0,6590.0
+M2305959190,single_family,1313600,0.0,6.0,5,Porter Ranch,91326,CA,Los Angeles,4694.0,11133.0
+M2309035113,single_family,719000,0.0,2.0,4,Harbor City,90710,CA,Los Angeles,1574.0,5046.0
+M2552965376,single_family,559000,0.0,2.0,3,Los Angeles,90047,CA,Los Angeles,1640.0,4928.0
+M2546656060,single_family,375000,0.0,1.0,2,Los Angeles,90059,CA,Los Angeles,946.0,4145.0
+M1392017025,single_family,625000,0.0,2.0,3,Canoga Park,91304,CA,Los Angeles,1617.0,7507.0
+M1164113041,single_family,719900,0.0,2.0,3,Lake Balboa,91406,CA,Los Angeles,1312.0,6762.0
+M1542484825,single_family,1275000,0.0,2.0,2,Los Angeles,90027,CA,Los Angeles,1100.0,6896.0
+M1877096426,single_family,899000,0.0,2.0,3,Woodland Hills,91364,CA,Los Angeles,1701.0,6209.0
+M2175447562,single_family,1995000,1.0,4.0,5,Encino,91316,CA,Los Angeles,4362.0,18284.0
+M1319638341,single_family,2199000,0.0,4.0,3,Studio City,91604,CA,Los Angeles,3707.0,18001.0
+M2162479014,single_family,1549000,1.0,3.0,3,Encino,91316,CA,Los Angeles,2665.0,18869.0
+M2149324136,single_family,4095000,2.0,4.0,5,Encino,91316,CA,Los Angeles,5373.0,30635.0
+M1088111030,single_family,1249000,1.0,2.0,3,Sherman Oaks,91401,CA,Los Angeles,1636.0,5436.0
+M2188657375,single_family,749900,0.0,4.0,5,Arleta,91331,CA,Los Angeles,2037.0,7505.0
+M1739014736,single_family,2399000,1.0,5.0,5,Sherman Oaks,91423,CA,Los Angeles,4433.0,11199.0
+M1532404128,single_family,739000,0.0,2.0,3,Granada Hills,91344,CA,Los Angeles,1654.0,11985.0
+M1644691487,single_family,849000,0.0,2.0,4,Woodland Hills,91367,CA,Los Angeles,1570.0,7839.0
+M1574797546,single_family,280000,0.0,1.0,2,Los Angeles,90047,CA,Los Angeles,1304.0,6978.0
+M9471706152,single_family,2570,0.0,2.0,2,Van Nuys,91411,CA,Los Angeles,1125.0,16000.0
+M1441377490,single_family,735000,1.0,2.0,3,Van Nuys,91401,CA,Los Angeles,1671.0,1394.0
+M1706698164,single_family,1180999,0.0,3.0,3,Los Angeles,90019,CA,Los Angeles,1870.0,5600.0
+M1634556402,single_family,895000,0.0,2.0,5,Los Angeles,90006,CA,Los Angeles,2896.0,5595.0
+M2048749655,single_family,845999,0.0,2.0,3,Porter Ranch,91326,CA,Los Angeles,2358.0,11566.0
+M1925255243,single_family,799000,0.0,4.0,4,Chatsworth,91311,CA,Los Angeles,2354.0,7534.0
+M1976294664,single_family,845000,0.0,2.0,3,La Crescenta,91214,CA,Los Angeles,1731.0,7535.0
+M1506695944,single_family,2675000,0.0,3.0,3,Los Angeles,90048,CA,Los Angeles,1979.0,5749.0
+M2738614856,single_family,5500000,0.0,5.0,4,Santa Monica,90402,CA,Los Angeles,5228.0,15018.0
+M1423084745,single_family,2750000,0.0,4.0,4,Los Angeles,90027,CA,Los Angeles,2768.0,9828.0
+M1601216653,single_family,1895000,0.0,4.0,5,Woodland Hills,91364,CA,Los Angeles,4011.0,15934.0
+M1901584522,single_family,8995000,1.0,5.0,5,Los Angeles,90077,CA,Los Angeles,6550.0,17883.0
+M1778342901,single_family,1499000,0.0,4.0,4,Westchester,90045,CA,Los Angeles,1500.0,4832.0
+M2936965724,single_family,9995000,2.0,9.0,8,Encino,91436,CA,Los Angeles,9839.0,23469.0
+M1432681688,single_family,1150000,0.0,2.0,3,Los Angeles,90016,CA,Los Angeles,2044.0,7821.0
+M2757083019,single_family,1199000,0.0,2.0,2,Sherman Oaks,91403,CA,Los Angeles,1450.0,4792.0
+M1269852264,single_family,4690000,0.0,4.0,4,Beverly Hills,90210,CA,Los Angeles,6091.0,15411.0
+M2877399523,single_family,1950000,0.0,3.0,3,Los Angeles,90069,CA,Los Angeles,3012.0,2838.0
+M1271920873,single_family,2799000,1.0,2.0,3,Venice,90291,CA,Los Angeles,1244.0,8354.0
+M2482481661,single_family,295000,0.0,2.0,3,Panorama City,91402,CA,Los Angeles,4220.0,6997.0
+M2136896204,single_family,3295000,0.0,5.0,6,Los Angeles,90036,CA,Los Angeles,1982.0,7718.0
+M2921292506,single_family,2385000,0.0,2.0,3,Pacific Palisades,90272,CA,Los Angeles,3300.0,9472.0
+M2879933607,single_family,3695000,0.0,3.0,4,Los Angeles,90069,CA,Los Angeles,1990.0,7280.0
+M2917874189,single_family,1475000,1.0,2.0,4,Sherman Oaks,91423,CA,Los Angeles,1366.0,4995.0
+M1702558495,single_family,1359000,0.0,2.0,3,Los Angeles,90034,CA,Los Angeles,1234.0,5501.0
+M2405483224,single_family,665000,0.0,1.0,3,Los Angeles,90062,CA,Los Angeles,1662.0,7990.0
+M1161094500,single_family,735000,0.0,2.0,4,Van Nuys,91406,CA,Los Angeles,2114.0,6143.0
+M2596351157,single_family,1750000,1.0,2.0,2,Los Angeles,90026,CA,Los Angeles,1531.0,5751.0
+M2055329279,single_family,1524999,0.0,2.0,3,Los Angeles,90066,CA,Los Angeles,1230.0,6014.0
+M1957155043,single_family,325000,0.0,2.0,3,Reseda,91335,CA,Los Angeles,3701.0,18797.0
+M1141987741,single_family,3495000,0.0,4.0,3,Los Angeles,90046,CA,Los Angeles,3256.0,5898.0
+M9168687810,single_family,604990,1.0,3.0,3,Northridge,91325,CA,Los Angeles,1600.0,3806.0
+M1391920971,single_family,4488000,1.0,3.0,4,Marina del Rey,90292,CA,Los Angeles,2628.0,6114.0
+M1763313354,single_family,1995000,0.0,2.0,3,Venice,90291,CA,Los Angeles,1365.0,6761.0
+M2438533743,single_family,1749000,1.0,3.0,4,Sherman Oaks,91423,CA,Los Angeles,6391.0,18000.0
+M2280814125,single_family,1399000,0.0,2.0,3,Los Angeles,90064,CA,Los Angeles,2525.0,23695.0
+M1543825084,single_family,7985000,1.0,6.0,5,Los Angeles,90049,CA,Los Angeles,3761.0,17955.0
+M1041797839,single_family,2350000,1.0,3.0,3,Beverly Hills,90210,CA,Los Angeles,1831.0,5083.0
+M1137702157,single_family,3495000,1.0,3.0,4,Los Angeles,90046,CA,Los Angeles,2147.0,17929.0
+M2844179366,single_family,1895000,0.0,3.0,3,Los Angeles,90048,CA,Los Angeles,1216.0,6625.0
+M2242331705,single_family,685000,0.0,3.0,4,Sylmar,91342,CA,Los Angeles,1412.0,4680.0
+M1568877336,single_family,735000,0.0,2.0,3,Los Angeles,90032,CA,Los Angeles,1150.0,6550.0
+M2986964543,single_family,585000,0.0,2.0,3,Los Angeles,90044,CA,Los Angeles,992.0,4727.0
+M1846131576,single_family,694000,0.0,2.0,3,North Hollywood,91606,CA,Los Angeles,2615.0,3589106.0
+M2816584654,single_family,450000,0.0,1.0,2,Los Angeles,90001,CA,Los Angeles,3054.0,5242.0
+M1615636157,single_family,514900,0.0,3.0,4,Sylmar,91342,CA,Los Angeles,1650.0,6249.0
+M1468441249,single_family,1789000,0.0,3.0,3,Sherman Oaks,91423,CA,Los Angeles,2450.0,6000.0
+M2314747655,single_family,749000,0.0,2.0,4,Lake Balboa,91406,CA,Los Angeles,1185.0,5162.0
+M1951982597,single_family,1488000,0.0,3.0,4,Los Angeles,90019,CA,Los Angeles,1796.0,6345.0
+M1846847700,single_family,599000,0.0,1.0,2,Sunland,91040,CA,Los Angeles,2078.0,6019.0
+M2578766004,single_family,819998,0.0,2.0,4,San Pedro,90731,CA,Los Angeles,2000.0,5510.0
+M1034028305,single_family,1640000,1.0,2.0,3,Los Angeles,90046,CA,Los Angeles,1530.0,5299.0
+M1484127062,single_family,949000,1.0,2.0,3,Encino,91316,CA,Los Angeles,2171.0,18968.0
+M1280542515,single_family,1275000,0.0,2.0,2,Los Angeles,90068,CA,Los Angeles,2301.0,35976.0
+M2119474116,single_family,1120000,0.0,3.0,4,Tarzana,91356,CA,Los Angeles,3628.0,7072.0
+M1780041390,single_family,999999,0.0,2.0,2,Woodland Hills,91367,CA,Los Angeles,1522.0,7523.0
+M1906350191,single_family,1195000,0.0,3.0,3,Woodland Hills,91364,CA,Los Angeles,1358.0,7543.0
+M1355645465,single_family,637000,0.0,3.0,3,Winnetka,91306,CA,Los Angeles,2280.0,11177.0
+M2841479343,single_family,700000,0.0,2.0,3,West Hills,91304,CA,Los Angeles,2500.0,12050.0
+M1644244296,single_family,899000,0.0,3.0,5,Woodland Hills,91367,CA,Los Angeles,1240.0,6276.0
+M2380863734,single_family,855000,0.0,2.0,4,Northridge,91325,CA,Los Angeles,2492.0,7710.0
+M1244123020,single_family,690000,1.0,1.0,3,Lake Balboa,91406,CA,Los Angeles,2347.0,12164.0
+M1211532990,single_family,675000,0.0,3.0,4,Granada Hills,91344,CA,Los Angeles,1344.0,6959.0
+M2300119809,single_family,799000,0.0,2.0,4,Sun Valley,91352,CA,Los Angeles,2664.0,16916.0
+M2484952586,single_family,649000,0.0,3.0,4,Tarzana,91335,CA,Los Angeles,2144.0,6284.0
+M1936504636,single_family,979000,0.0,3.0,5,Chatsworth,91311,CA,Los Angeles,1463.0,7194.0
+M1720433552,single_family,675000,0.0,3.0,7,Sun Valley,91352,CA,Los Angeles,1650.0,6119.0
+M2337118593,single_family,675000,0.0,1.0,3,Tarzana,91335,CA,Los Angeles,2288.0,5999.0
+M2288076612,single_family,670000,0.0,2.0,4,Reseda,91335,CA,Los Angeles,2812.0,38015.0
+M1060439189,single_family,925000,1.0,2.0,3,Lake Balboa,91406,CA,Los Angeles,2585.0,18635.0
+M1365501343,single_family,1199999,0.0,3.0,3,Sylmar,91342,CA,Los Angeles,1631.0,6749.0
+M1704182453,single_family,1295000,0.0,3.0,4,Woodland Hills,91364,CA,Los Angeles,2311.0,11699.0
+M2738014229,single_family,649000,0.0,2.0,3,Van Nuys,91405,CA,Los Angeles,2000.0,17480.0
+M1752150018,single_family,795000,0.0,3.0,4,Northridge,91325,CA,Los Angeles,2389.0,9726.0
+M2848066855,single_family,795000,0.0,3.0,3,Winnetka,91306,CA,Los Angeles,1156.0,5949.0
+M1037058922,single_family,800000,0.0,3.0,4,Reseda,91335,CA,Los Angeles,1066.0,5364.0
+M1626623803,single_family,579000,0.0,2.0,3,Sylmar,91342,CA,Los Angeles,2178.0,28335.0
+M2394273176,single_family,499990,1.0,1.0,3,Panorama City,91402,CA,Los Angeles,1350.0,7942.0
+M1749464944,single_family,1839000,0.0,2.0,4,Los Angeles,90077,CA,Los Angeles,6958.0,13665.0
+M2739195367,single_family,3499999,0.0,6.0,5,Sherman Oaks,91403,CA,Los Angeles,3202.0,5861.0
+M1514450167,single_family,950000,0.0,2.0,2,Sherman Oaks,91411,CA,Los Angeles,2329.0,8147.0
+M1013676729,single_family,899000,1.0,3.0,4,Northridge,91325,CA,Los Angeles,1794.0,7578.0
+M1338583961,single_family,849950,0.0,3.0,4,Granada Hills,91344,CA,Los Angeles,1921.0,5710.0
+M2293460578,single_family,599999,0.0,2.0,4,Sylmar,91342,CA,Los Angeles,2496.0,2730.0
+M1474624247,single_family,1099900,0.0,3.0,5,Encino,91316,CA,Los Angeles,3132.0,6423.0
+M1367077182,single_family,550000,0.0,4.0,6,Los Angeles,90001,CA,Los Angeles,1290.0,4717.0
+M2815997325,single_family,1100000,0.0,4.0,4,Woodland Hills,91364,CA,Los Angeles,1440.0,8007.0
+M2995982901,single_family,625000,0.0,1.0,3,Los Angeles,90047,CA,Los Angeles,896.0,6136.0
+M1975504927,single_family,525000,0.0,2.0,2,Wilmington,90744,CA,Los Angeles,1666.0,5861.0
+M1884137763,single_family,674900,0.0,1.0,2,Los Angeles,90043,CA,Los Angeles,900.0,4000.0
+M2404153023,single_family,2100000,0.0,2.0,3,Venice,90291,CA,Los Angeles,1119.0,5979.0
+M1784381207,single_family,479000,0.0,1.0,3,Los Angeles,90002,CA,Los Angeles,1010.0,4561.0
+M2881738117,single_family,599000,0.0,1.0,2,San Pedro,90731,CA,Los Angeles,3219.0,8211.0
+M2259616101,single_family,936000,0.0,1.0,2,Los Angeles,90026,CA,Los Angeles,990.0,4454.0
+M1481148935,single_family,2395000,0.0,3.0,5,Studio City,91604,CA,Los Angeles,2056.0,7425.0
+M1376734136,single_family,490000,0.0,2.0,3,East Los Angeles,90023,CA,Los Angeles,1425.0,7685.0
+M1433905167,single_family,1849000,0.0,3.0,4,Los Angeles,90045,CA,Los Angeles,1020.0,5604.0
+M1350061871,single_family,654995,0.0,2.0,3,Sylmar,91342,CA,Los Angeles,911.0,4426.0
+M2847867227,single_family,689000,0.0,1.0,2,Los Angeles,90018,CA,Los Angeles,1748.0,7917.0
+M2951693839,single_family,679000,0.0,1.0,2,Los Angeles,90016,CA,Los Angeles,984.0,6500.0
+M2475543195,single_family,1645000,0.0,2.0,3,Los Angeles,90008,CA,Los Angeles,1317.0,6229.0
+M1869531959,single_family,600000,0.0,1.0,3,Torrance,90501,CA,Los Angeles,2400.0,1695.0
+M1398220138,single_family,490000,0.0,2.0,4,Los Angeles,90061,CA,Los Angeles,2690.0,5918.0
+M2842146154,single_family,849000,1.0,1.0,3,Los Angeles,90012,CA,Los Angeles,1521.0,5500.0
+M2046069992,single_family,985000,0.0,3.0,3,Porter Ranch,91326,CA,Los Angeles,5664.0,52272.0
+M1183990310,single_family,1350000,0.0,2.0,3,Studio City,91604,CA,Los Angeles,4437.0,11488.0
+M2114824127,single_family,1799000,1.0,5.0,5,Granada Hills,91344,CA,Los Angeles,3338.0,10986.0
+M1660971629,single_family,1449000,0.0,4.0,5,Granada Hills,91344,CA,Los Angeles,1552.0,6952.0
+M2376695024,single_family,1199999,0.0,4.0,4,Tarzana,91335,CA,Los Angeles,7200.0,11575.0
+M2692442353,single_family,1995000,0.0,2.0,3,Los Angeles,90049,CA,Los Angeles,2320.0,7937.0
+M2954720056,single_family,3295000,0.0,8.0,6,Pacific Palisades,90272,CA,Los Angeles,3075.0,5745.0
+M2450380460,single_family,2149000,0.0,3.0,3,Los Angeles,90026,CA,Los Angeles,4473.0,6218.0
+M1513855135,single_family,2250000,0.0,6.0,5,Los Angeles,90066,CA,Los Angeles,1800.0,6750.0
+M1244618146,single_family,2249000,0.0,4.0,4,Los Angeles,90068,CA,Los Angeles,1568.0,3750.0
+M1059372998,single_family,1395000,0.0,3.0,4,Studio City,91602,CA,Los Angeles,1850.0,11341.0
+M1160387670,single_family,1695000,1.0,2.0,3,Los Angeles,90066,CA,Los Angeles,3412.0,5000.0
+M2007218948,single_family,1999999,0.0,2.0,3,Los Angeles,90066,CA,Los Angeles,5550.0,18810.0
+M1136581425,single_family,2849000,0.0,5.0,4,Los Angeles,90046,CA,Los Angeles,1153.0,7578.0
+M1044741848,single_family,6999000,1.0,6.0,5,Los Angeles,90004,CA,Los Angeles,4065.0,6897.0
+M1148732876,single_family,1245000,0.0,2.0,2,Los Angeles,90046,CA,Los Angeles,911.0,3601.0
+M1523479194,single_family,2495513,0.0,3.0,4,Los Angeles,90027,CA,Los Angeles,2065.0,1344.0
+M1936610656,single_family,599000,0.0,1.0,3,Torrance,90501,CA,Los Angeles,1459.0,4685.0
+M9787799709,single_family,879900,1.0,3.0,4,Los Angeles,90731,CA,Los Angeles,1394.0,1000.0
+M2440504986,single_family,995000,0.0,2.0,1,Los Angeles,90026,CA,Los Angeles,4748.0,11116.0
+M1286259854,single_family,925000,0.0,3.0,2,Los Angeles,90028,CA,Los Angeles,5286.0,29300.0
+M2176293306,single_family,2095000,0.0,7.0,5,Encino,91436,CA,Los Angeles,1714.0,5941.0
+M2421630750,single_family,4798000,1.0,5.0,5,Beverly Hills,90210,CA,Los Angeles,1398.0,4761.0
+M2237348738,single_family,710000,0.0,2.0,4,Los Angeles,90047,CA,Los Angeles,660.0,3483.0
+M2759481857,single_family,475000,0.0,2.0,3,Los Angeles,90061,CA,Los Angeles,2330.0,18743.0
+M1217499913,single_family,685000,0.0,1.0,1,Los Angeles,90065,CA,Los Angeles,2700.0,53263.0
+M2145862775,single_family,2595000,0.0,3.0,4,Los Angeles,90077,CA,Los Angeles,1064.0,5200.0
+M2775492395,single_family,2099000,1.0,4.0,4,Sherman Oaks,91403,CA,Los Angeles,2073.0,6534.0
+M2152708336,single_family,670000,0.0,2.0,2,Los Angeles,90062,CA,Los Angeles,1978.0,1607.0
+M2688278717,single_family,949500,0.0,4.0,4,North Hollywood,91601,CA,Los Angeles,2695.0,13101.0
+M9082890240,single_family,990141,1.0,3.0,3,Highland Park,90042,CA,Los Angeles,3327.0,4697.0
+M1276331463,single_family,1600000,1.0,3.0,4,Los Angeles,90068,CA,Los Angeles,2467.0,2501.0
+M2311129006,single_family,3797000,0.0,5.0,5,Pacific Palisades,90272,CA,Los Angeles,7371.0,21306.0
+M1131765742,single_family,3499000,1.0,3.0,3,Venice,90291,CA,Los Angeles,3060.0,5907.0
+M2936063025,single_family,6495000,0.0,7.0,6,Los Angeles,90024,CA,Los Angeles,1373.0,6802.0
+M1303577942,single_family,4200000,0.0,4.0,4,Beverly Hills,90210,CA,Los Angeles,7013.0,14744.0
+M2788457091,single_family,1520000,0.0,3.0,3,Los Angeles,90039,CA,Los Angeles,1753.0,6889.0
+M1406691582,single_family,6795000,1.0,6.0,6,Beverly Hills,90210,CA,Los Angeles,3063.0,15095.0
+M9501198503,single_family,619379,1.0,3.0,3,Northridge,91325,CA,Los Angeles,6500.0,10297.0
+M2675150956,single_family,1850000,1.0,2.0,4,Los Angeles,90049,CA,Los Angeles,2837.0,6336.0
+M1014500951,single_family,5750000,0.0,4.0,4,Los Angeles,90069,CA,Los Angeles,4683.0,12297.0
+M2596009466,single_family,6995000,0.0,8.0,6,Los Angeles,90024,CA,Los Angeles,41000.0,58719.0
+M1075414565,single_family,3550000,0.0,4.0,4,Los Angeles,90069,CA,Los Angeles,3286.0,6653.0
+M2839760921,single_family,4495000,1.0,5.0,6,Los Angeles,90046,CA,Los Angeles,18850.0,69689.0
+M1800407488,single_family,100000000,0.0,21.0,8,Los Angeles,90077,CA,Los Angeles,6000.0,20596.0
+M1537453923,single_family,2299000,1.0,4.0,4,Los Angeles,90027,CA,Los Angeles,2068.0,7499.0
+M1238213354,single_family,56000000,5.0,10.0,9,Los Angeles,90049,CA,Los Angeles,2800.0,5686.0
+M1983086298,single_family,5295000,0.0,7.0,5,Studio City,91604,CA,Los Angeles,1448.0,7500.0
+M1055944531,single_family,1599000,1.0,2.0,3,Studio City,91602,CA,Los Angeles,1529.0,5150.0
+M1360254366,single_family,2399000,0.0,4.0,4,Los Angeles,90068,CA,Los Angeles,2097.0,5750.0
+M2747307970,single_family,1499000,0.0,3.0,2,Valley Village,91607,CA,Los Angeles,1643.0,5185.0
+M1967344389,single_family,1885000,0.0,3.0,3,Venice,90291,CA,Los Angeles,22000.0,7246.0
+M1983666872,single_family,2189000,0.0,3.0,4,Los Angeles,90066,CA,Los Angeles,2679.0,4834.0
+M2055450644,single_family,1269888,1.0,2.0,3,Los Angeles,90065,CA,Los Angeles,2368.0,8259.0
+M1431994454,single_family,520000,0.0,1.0,3,Los Angeles,90001,CA,Los Angeles,1329.0,5100.0
+M2287573782,single_family,1495000,0.0,28.0,15,Los Angeles,90037,CA,Los Angeles,4280.0,4835.0
+M2890808965,single_family,2995000,0.0,3.0,4,Pacific Palisades,90272,CA,Los Angeles,1440.0,3927.0
+M2414866018,single_family,1459000,1.0,2.0,4,Los Angeles,90039,CA,Los Angeles,2600.0,6077.0
+M1370128465,single_family,359900,1.0,2.0,4,Bakersfield,93312,CA,Kern,2602.0,7620.0
+M1114412716,single_family,285000,1.0,2.0,4,Bakersfield,93306,CA,Kern,2148.0,6898.0
+M9930763529,single_family,349900,0.0,4.0,5,Bakersfield,93304,CA,Kern,1060.0,6271.0
+M1475562927,single_family,149999,0.0,1.0,3,Bakersfield,93307,CA,Kern,2051.0,6133.0
+M1580313456,single_family,299000,0.0,3.0,5,Bakersfield,93313,CA,Kern,1621.0,9142.0
+M1196253984,single_family,269000,0.0,2.0,3,Bakersfield,93309,CA,Kern,1832.0,6765.0
+M9213456180,single_family,249900,0.0,2.0,4,Bakersfield,93311,CA,Kern,4192.0,88862.0
+M2973461004,single_family,850000,1.0,2.0,4,Bakersfield,93314,CA,Kern,1657.0,13068.0
+M1518372568,single_family,259900,0.0,2.0,3,Bakersfield,93308,CA,Kern,2624.0,8042.0
+M9052962790,single_family,359500,1.0,2.0,4,Bakersfield,93311,CA,Kern,1540.0,6969.0
+M1974008542,single_family,260000,0.0,2.0,4,Bakersfield,93313,CA,Kern,1074.0,8100.0
+M1323848200,single_family,184900,0.0,2.0,3,Bakersfield,93306,CA,Kern,2756.0,9148.0
+M2067620590,single_family,490000,0.0,3.0,4,Bakersfield,93311,CA,Kern,2253.0,7405.0
+M1389245066,single_family,344950,0.0,3.0,4,Bakersfield,93313,CA,Kern,1211.0,7325.0
+M1942204430,single_family,189000,0.0,2.0,3,Bakersfield,93306,CA,Kern,2747.0,145926.0
+M1842744778,single_family,575000,1.0,3.0,3,Bakersfield,93306,CA,Kern,1522.0,7818.0
+M1954621509,single_family,245000,1.0,1.0,3,Bakersfield,93308,CA,Kern,800.0,7069.0
+M2113610799,single_family,119000,0.0,1.0,2,Bakersfield,93308,CA,Kern,1960.0,7200.0
+M9878870442,single_family,314900,0.0,2.0,3,Bakersfield,93311,CA,Kern,1673.0,6534.0
+M2065958144,single_family,309900,0.0,2.0,4,Bakersfield,93314,CA,Kern,1287.0,4864.0
+M1751134942,single_family,240000,0.0,2.0,3,Bakersfield,93312,CA,Kern,732.0,6346.0
+M1750766560,single_family,119900,0.0,1.0,3,Bakersfield,93308,CA,Kern,1266.0,6000.0
+M2779817201,single_family,215000,0.0,2.0,3,Bakersfield,93309,CA,Kern,2724.0,10019.0
+M2466458496,single_family,439000,1.0,2.0,4,Bakersfield,93314,CA,Kern,1543.0,7042.0
+M1124270002,single_family,236000,0.0,2.0,4,Bakersfield,93309,CA,Kern,1665.0,7925.0
+M2600800356,single_family,247900,0.0,2.0,3,Bakersfield,93313,CA,Kern,1514.0,5020.0
+M2531183020,single_family,295000,0.0,2.0,3,Bakersfield,93312,CA,Kern,1528.0,9325.0
+M1887452537,single_family,315000,0.0,2.0,3,Bakersfield,93311,CA,Kern,1190.0,6969.0
+M1976399341,single_family,285000,0.0,2.0,4,Bakersfield,93312,CA,Kern,1869.0,12197.0
+M1031438796,single_family,255000,0.0,1.0,3,Bakersfield,93301,CA,Kern,2289.0,4250.0
+M1457719572,single_family,270000,0.0,2.0,4,Bakersfield,93309,CA,Kern,1060.0,7389.0
+M1208695551,single_family,290000,1.0,2.0,3,Bakersfield,93306,CA,Kern,1780.0,1452.0
+M1417815757,single_family,215000,0.0,2.0,2,Bakersfield,93311,CA,Kern,2572.0,7487.0
+M1710382662,single_family,219900,1.0,2.0,3,Bakersfield,93309,CA,Kern,1813.0,9058.0
+M2491142431,single_family,325000,0.0,3.0,4,Bakersfield,93313,CA,Kern,2619.0,12632.0
+M1640438829,single_family,239900,0.0,1.0,3,Bakersfield,93304,CA,Kern,2087.0,10019.0
+M2264241481,single_family,425000,0.0,3.0,5,Bakersfield,93312,CA,Kern,1183.0,6969.0
+M1298633678,single_family,290000,0.0,2.0,4,Bakersfield,93314,CA,Kern,1894.0,6049.0
+M2296568906,single_family,210000,1.0,1.0,3,Bakersfield,93305,CA,Kern,1608.0,6541.0
+M1258264329,single_family,325000,0.0,2.0,4,Bakersfield,93312,CA,Kern,1812.0,7837.0
+M2208755641,single_family,275000,0.0,2.0,3,Bakersfield,93308,CA,Kern,1486.0,6098.0
+M2838615674,single_family,334900,0.0,2.0,3,Bakersfield,93312,CA,Kern,1998.0,13504.0
+M1139656281,single_family,249900,0.0,2.0,3,Bakersfield,93313,CA,Kern,1555.0,5962.0
+M2562830732,single_family,284500,0.0,2.0,3,Bakersfield,93312,CA,Kern,3367.0,30492.0
+M2125552164,single_family,255000,0.0,2.0,3,Bakersfield,93312,CA,Kern,1040.0,7205.0
+M2486288412,single_family,625000,1.0,3.0,5,Bakersfield,93306,CA,Kern,1603.0,8291.0
+M2088464511,single_family,180000,0.0,2.0,3,Shafter,93263,CA,Kern,1980.0,9313.0
+M2641706469,single_family,149900,0.0,2.0,4,Bakersfield,93308,CA,Kern,997.0,6821.0
+M1620617016,single_family,310000,1.0,2.0,3,Bakersfield,93311,CA,Kern,958.0,5169.0
+M9180409394,single_family,379900,0.0,3.0,5,Bakersfield,93306,CA,Kern,1843.0,9159.0
+M1143257443,single_family,162500,0.0,1.0,3,Bakersfield,93306,CA,Kern,1720.0,7202.0
+M2152441911,single_family,110000,0.0,1.0,2,Bakersfield,93308,CA,Kern,1410.0,6534.0
+M2366103120,single_family,307500,0.0,2.0,3,Bakersfield,93312,CA,Kern,3241.0,8276.0
+M1399193638,single_family,249000,0.0,2.0,3,Bakersfield,93304,CA,Kern,2583.0,10890.0
+M1254795448,single_family,242500,0.0,2.0,3,Bakersfield,93308,CA,Kern,1539.0,6534.0
+M2106391691,single_family,375000,0.0,3.0,5,Bakersfield,93313,CA,Kern,1911.0,4792.0
+M1159894500,single_family,365000,0.0,3.0,3,Bakersfield,93301,CA,Kern,2791.0,7405.0
+M2361750708,single_family,245000,0.0,2.0,3,Bakersfield,93311,CA,Kern,1234.0,7201.0
+M2907874349,single_family,389000,1.0,3.0,3,Bakersfield,93311,CA,Kern,1959.0,7869.0
+M1750550881,single_family,400000,1.0,3.0,3,Bakersfield,93311,CA,Kern,4946.0,123275.0
+M1871833552,single_family,335000,0.0,3.0,4,Bakersfield,93311,CA,Kern,2365.0,11326.0
+M1297940666,single_family,879000,0.0,5.0,6,Bakersfield,93308,CA,Kern,848.0,6453.0
+P417000454148,single_family,332300,0.0,2.0,3,Bakersfield,93313,CA,Kern,1788.0,12197.0
+P417000453527,single_family,358900,0.0,3.0,5,Bakersfield,93311,CA,Kern,1824.0,6160.0
+P417000451897,single_family,390990,0.0,3.0,4,Bakersfield,93314,CA,Kern,1620.0,6454.0
+M2458853158,single_family,350000,1.0,2.0,2,Bakersfield,93308,CA,Kern,2079.0,15682.0
+M2068034551,single_family,169000,0.0,1.0,2,Bakersfield,93308,CA,Kern,3293.0,10890.0
+M2068146349,single_family,195000,0.0,1.0,3,Bakersfield,93308,CA,Kern,1380.0,6597.0
+M1797437432,single_family,279990,0.0,2.0,3,Bakersfield,93306,CA,Kern,5194.0,14810.0
+M2574555503,single_family,289900,0.0,2.0,3,Bakersfield,93314,CA,Kern,883.0,4335.0
+M2311938063,single_family,611006,0.0,3.0,4,Bakersfield,93314,CA,Kern,1917.0,7863.0
+M1160281681,single_family,169000,1.0,2.0,2,Bakersfield,93304,CA,Kern,1704.0,9111.0
+M2869391045,single_family,472500,1.0,3.0,3,Bakersfield,93306,CA,Kern,2347.0,9271.0
+M9430600868,single_family,280000,0.0,2.0,4,Bakersfield,93306,CA,,1613.0,7627.0
+M1595324294,single_family,209900,0.0,2.0,3,Bakersfield,93304,CA,Kern,1824.0,42253.0
+M2014852015,single_family,1098000,0.0,4.0,5,Bakersfield,93311,CA,Kern,3024.0,9148.0
+M1237264191,single_family,135000,0.0,1.0,2,Bakersfield,93313,CA,Kern,3601.0,12197.0
+M1042797205,single_family,349000,0.0,2.0,3,Bakersfield,93311,CA,Kern,2573.0,7503.0
+M1468083661,single_family,320000,0.0,2.0,3,Bakersfield,93311,CA,Kern,1264.0,5592.0
+M2442825471,single_family,385000,0.0,2.0,4,Bakersfield,93312,CA,Kern,2289.0,4897.0
+M1128081980,single_family,232500,0.0,2.0,3,Bakersfield,93309,CA,Kern,2748.0,24394.0
+M2501327406,single_family,399900,0.0,2.0,3,Bakersfield,93314,CA,Kern,883.0,6762.0
+M9561888155,single_family,359999,0.0,3.0,5,Bakersfield,93311,CA,Kern,1998.0,9376.0
+M1682472886,single_family,149900,0.0,1.0,3,Bakersfield,93304,CA,Kern,2503.0,15246.0
+M1180746094,single_family,287000,0.0,3.0,3,Bakersfield,93306,CA,Kern,1745.0,8127.0
+M1426866826,single_family,539800,1.0,2.0,3,Bakersfield,93311,CA,Kern,2477.0,11761.0
+M2961500043,single_family,159000,0.0,1.0,3,Bakersfield,93307,CA,Kern,1322.0,5775.0
+P417000449965,single_family,387900,0.0,3.0,4,Bakersfield,93311,CA,Kern,1712.0,5339.0
+P417000449150,single_family,377990,1.0,2.0,4,Bakersfield,93314,CA,Kern,1538.0,5014.0
+P417000449491,single_family,317900,1.0,3.0,5,Bakersfield,93313,CA,Kern,2291.0,11326.0
+P415764358708,single_family,367990,0.0,3.0,4,Bakersfield,93314,CA,Kern,1435.0,5017.0
+M1076664243,single_family,355000,0.0,2.0,4,Bakersfield,93314,CA,Kern,2529.0,6800.0
+M2393004055,single_family,419900,1.0,2.0,4,Bakersfield,93314,CA,Kern,3697.0,214315.0
+M1905921403,single_family,278500,0.0,2.0,4,Bakersfield,93304,CA,Kern,1678.0,6423.0
+M1801352985,single_family,405000,0.0,2.0,4,Bakersfield,93311,CA,Kern,2640.0,9835.0
+M1461460993,single_family,245000,0.0,2.0,4,Bakersfield,93308,CA,Kern,1314.0,8276.0
+M2752224996,single_family,259990,0.0,2.0,4,Bakersfield,93306,CA,Kern,1316.0,8400.0
+M2337698248,single_family,266900,0.0,2.0,3,Bakersfield,93312,CA,Kern,1790.0,15011.0
+M1940148322,single_family,359450,0.0,3.0,4,Bakersfield,93312,CA,Kern,1984.0,8739.0
+M2479499194,single_family,949500,0.0,3.0,3,Bakersfield,93308,CA,Kern,872.0,3920.0
+M2551923184,single_family,270000,0.0,2.0,4,Bakersfield,93313,CA,Kern,1182.0,6826.0
+P414212920849,single_family,330000,0.0,2.0,4,Shafter,93263,CA,Kern,1688.0,6725.0
+P415024287745,single_family,320900,0.0,2.0,4,Shafter,93263,CA,Kern,1984.0,6708.0
+P414243926366,single_family,301750,0.0,2.0,3,Shafter,93263,CA,Kern,1171.0,8641.0
+P414110312153,single_family,348000,0.0,3.0,3,Shafter,93263,CA,Kern,1936.0,5737.0
+P413217972868,single_family,316400,0.0,2.0,3,Shafter,93263,CA,Kern,986.0,5011.0
+P413833273453,single_family,464990,0.0,3.0,4,Bakersfield,93314,CA,Kern,2046.0,7231.0
+P414184012850,single_family,352990,0.0,3.0,4,Bakersfield,93314,CA,Kern,1092.0,7405.0
+P412978403702,single_family,310900,0.0,2.0,4,Shafter,93263,CA,Kern,1074.0,4701.0
+P415101254804,single_family,345000,1.0,2.0,4,Shafter,93263,CA,Kern,2814.0,11326.0
+P415470752511,single_family,308900,0.0,2.0,3,Shafter,93263,CA,Kern,1300.0,5662.0
+M2201858293,single_family,279800,0.0,2.0,3,Bakersfield,93312,CA,Kern,1523.0,6157.0
+M1321781298,single_family,330000,1.0,2.0,3,Bakersfield,93312,CA,Kern,2153.0,6970.0
+M1278450058,single_family,199000,0.0,2.0,2,Bakersfield,93309,CA,Kern,2220.0,14375.0
+M1497100716,single_family,214900,0.0,1.0,4,Lamont,93241,CA,Kern,1646.0,6164.0
+M1534256786,single_family,110000,0.0,1.0,3,Bakersfield,93307,CA,Kern,2573.0,100188.0
+M2417375982,single_family,335000,0.0,2.0,4,Bakersfield,93314,CA,Kern,2563.0,7199.0
+M1330504283,single_family,135000,0.0,1.0,2,Bakersfield,93308,CA,Kern,2154.0,7841.0
+M1045600374,single_family,189000,0.0,1.0,2,Bakersfield,93309,CA,Kern,4177.0,12197.0
+M1248902354,single_family,484000,1.0,2.0,3,Bakersfield,93312,CA,Kern,1271.0,6519.0
+M2908906426,single_family,225000,0.0,2.0,3,Bakersfield,93309,CA,Kern,2750.0,13939.0
+M1529835774,single_family,280000,0.0,2.0,3,Bakersfield,93314,CA,Kern,1195.0,7939.0
+M2714873329,single_family,440000,0.0,2.0,2,Bakersfield,93311,CA,Kern,1159.0,7147.0
+M2763588143,single_family,369000,1.0,2.0,3,Bakersfield,93308,CA,Kern,1724.0,6098.0
+M2274607007,single_family,279900,1.0,2.0,4,Bakersfield,93312,CA,Kern,1628.0,5887.0
+M2886983227,single_family,362000,0.0,2.0,3,Shafter,93263,CA,Kern,3514.0,40511.0
+M2815884855,single_family,899000,1.0,4.0,5,Bakersfield,93311,CA,Kern,1064.0,6416.0
+M1186003741,single_family,660000,0.0,3.0,4,Bakersfield,93314,CA,Kern,1079.0,5300.0
+M2685344888,single_family,191500,0.0,2.0,3,Bakersfield,93308,CA,Kern,1626.0,6055.0
+M2649780920,single_family,302500,0.0,2.0,3,Bakersfield,93311,CA,Kern,2972.0,9603.0
+M1507229868,single_family,490000,1.0,3.0,5,Bakersfield,93306,CA,Kern,2070.0,43560.0
+M1159814893,single_family,179900,0.0,1.0,3,Bakersfield,93308,CA,Kern,2387.0,8999.0
+P412450485893,single_family,322990,0.0,2.0,3,Bakersfield,93314,CA,Kern,1344.0,5661.0
+P415434808956,single_family,434990,1.0,2.0,4,Bakersfield,93314,CA,Kern,933.0,6643.0
+M1425463498,single_family,189900,1.0,1.0,3,Bakersfield,93309,CA,Kern,2127.0,11761.0
+M9599681331,single_family,274900,0.0,2.0,3,Bakersfield,93311,CA,Kern,1055.0,4498.0
+P417000442332,single_family,257900,0.0,2.0,3,Bakersfield,93313,CA,Kern,3092.0,9342.0
+P417000442917,single_family,328900,0.0,3.0,5,Bakersfield,93311,CA,Kern,1655.0,9016.0
+M2131210809,single_family,399000,0.0,3.0,5,Bakersfield,93313,CA,Kern,2436.0,10019.0
+P412345886097,single_family,420990,1.0,2.0,4,Bakersfield,93314,CA,Kern,2188.0,7522.0
+M1689960926,single_family,245000,0.0,2.0,3,Bakersfield,93313,CA,Kern,1836.0,7486.0
+M1274866230,single_family,135000,0.0,1.0,2,Bakersfield,93308,CA,Kern,2141.0,9148.0
+M2944612793,single_family,364900,0.0,2.0,3,Bakersfield,93311,CA,Kern,3721.0,16216.0
+M2003070383,single_family,210000,0.0,2.0,2,Bakersfield,93313,CA,Kern,1775.0,11493.0
+M1175128567,single_family,539000,0.0,3.0,4,Bakersfield,93311,CA,Kern,2415.0,7013.0
+M2262579738,single_family,254900,0.0,2.0,3,Bakersfield,93306,CA,Kern,784.0,10454.0
+M1005612611,single_family,395000,0.0,2.0,5,Bakersfield,93312,CA,Kern,1824.0,121097.0
+M9104422467,single_family,369000,0.0,2.0,4,Bakersfield,93312,CA,Kern,1351.0,8297.0
+P417000440694,single_family,374000,0.0,3.0,4,Shafter,93263,CA,Kern,1503.0,7570.0
+P414167559051,single_family,405990,0.0,3.0,4,Bakersfield,93314,CA,Kern,2295.0,8276.0
+P412599119040,single_family,302990,0.0,2.0,3,Bakersfield,93314,CA,Kern,572.0,3711.0
+M1800800477,single_family,239900,0.0,2.0,5,Bakersfield,93308,CA,Kern,3130.0,24829.0
+M1211178489,single_family,287500,1.0,2.0,2,Bakersfield,93306,CA,Kern,1611.0,8107.0
+M1247718251,single_family,599900,0.0,3.0,5,Bakersfield,93309,CA,Kern,1889.0,7176.0
+M1166786070,single_family,289900,0.0,2.0,3,Bakersfield,93309,CA,Kern,1410.0,5200.0
+M1841832878,single_family,519900,1.0,2.0,4,Corona,92879,CA,Riverside,1959.0,7405.0
+M2323855249,single_family,469000,0.0,2.0,3,Redlands,92373,CA,San Bernardino,1326.0,8505.0
+M2162371434,single_family,431800,1.0,2.0,3,Riverside,92507,CA,Riverside,1615.0,3049.0
+M2669304755,single_family,509900,0.0,3.0,4,Ontario,91761,CA,San Bernardino,2067.0,3201.0
+M1242163973,single_family,499000,0.0,3.0,4,Riverside,92505,CA,Riverside,3243.0,11325.0
+M1318186221,single_family,375000,1.0,2.0,4,Perris,92571,CA,Riverside,2654.0,6970.0
+M2907026192,single_family,335000,0.0,2.0,3,Moreno Valley,92553,CA,Riverside,1490.0,7841.0
+M1616936064,single_family,589000,1.0,2.0,3,Riverside,92506,CA,Riverside,2461.0,13068.0
+M1307118390,single_family,325000,0.0,2.0,4,Riverside,92504,CA,Riverside,1488.0,6534.0
+M9617729929,single_family,435990,1.0,2.0,3,Eastvale,92880,CA,Riverside,1498.0,2178.0
+M2110970664,single_family,469000,0.0,2.0,3,Riverside,92508,CA,Riverside,1700.0,17860.0
+M1186695041,single_family,425000,1.0,2.0,3,Moreno Valley,92555,CA,Riverside,2520.0,6970.0
+M1453876226,single_family,447000,1.0,2.0,4,Corona,92880,CA,Riverside,2145.0,3704.0
+M2435543570,single_family,416500,0.0,3.0,4,Moreno Valley,92555,CA,Riverside,2661.0,9148.0
+M1356551953,single_family,839000,0.0,3.0,3,Norco,92860,CA,Riverside,2660.0,40511.0
+M1205479644,single_family,524900,0.0,2.0,4,Corona,92879,CA,Riverside,1888.0,7841.0
+M2246117820,single_family,585000,0.0,3.0,4,Eastvale,92880,CA,Riverside,2590.0,6098.0
+M2715988161,single_family,550000,0.0,3.0,4,Fontana,92337,CA,San Bernardino,2600.0,6207.0
+M1295439629,single_family,439900,1.0,1.0,3,Corona,92882,CA,Riverside,1025.0,6970.0
+M2184993084,single_family,590000,0.0,3.0,4,Eastvale,92880,CA,Riverside,2512.0,10000.0
+M1521784740,single_family,274999,0.0,2.0,3,Perris,92570,CA,Riverside,1230.0,25265.0
+M1825785778,single_family,469000,0.0,2.0,3,Riverside,92506,CA,Riverside,1350.0,7405.0
+M1491908827,single_family,499000,0.0,2.0,4,Riverside,92506,CA,Riverside,1847.0,16553.0
+M1534045235,single_family,369900,0.0,2.0,3,Perris,92570,CA,Riverside,1509.0,19166.0
+M1591357472,single_family,408000,1.0,2.0,3,Riverside,92503,CA,Riverside,1618.0,3485.0
+M2731436163,single_family,949990,0.0,4.0,4,Corona,92883,CA,Riverside,3829.0,14810.0
+M2891092755,single_family,453000,1.0,2.0,3,Riverside,92503,CA,Riverside,1600.0,4792.0
+M2407805268,single_family,360000,0.0,1.0,1,Riverside,92506,CA,Riverside,832.0,8712.0
+M1602510995,single_family,649950,1.0,2.0,4,Corona,92882,CA,Riverside,3012.0,7405.0
+M1591394372,single_family,410000,0.0,2.0,3,Riverside,92503,CA,Riverside,1107.0,9148.0
+M2244508200,single_family,355000,0.0,2.0,4,Perris,92571,CA,Riverside,1774.0,8276.0
+M1224573105,single_family,389900,1.0,2.0,3,Fontana,92337,CA,San Bernardino,1398.0,3600.0
+M2766839511,single_family,499000,1.0,3.0,4,Loma Linda,92354,CA,San Bernardino,2215.0,3071.0
+M2128671987,single_family,504900,1.0,2.0,4,Riverside,92508,CA,Riverside,1941.0,10890.0
+M1328061850,single_family,369000,1.0,1.0,3,Riverside,92503,CA,Riverside,1057.0,6098.0
+M2917044372,single_family,433000,0.0,2.0,3,Riverside,92504,CA,Riverside,1580.0,9148.0
+M2098191594,single_family,339000,0.0,2.0,3,Moreno Valley,92553,CA,Riverside,1106.0,5227.0
+M2145841466,single_family,419000,0.0,3.0,5,Moreno Valley,92555,CA,Riverside,2841.0,7405.0
+M1586934381,single_family,825000,0.0,3.0,5,Norco,92860,CA,Riverside,3582.0,24394.0
+M2549814402,single_family,495000,0.0,2.0,3,Lake Mathews,92570,CA,Riverside,1631.0,90169.0
+M1240188757,single_family,380000,0.0,2.0,3,Riverside,92504,CA,Riverside,1119.0,6970.0
+M1554835260,single_family,280000,0.0,1.0,2,Colton,92324,CA,San Bernardino,1015.0,7405.0
+M2672816836,single_family,435000,1.0,2.0,4,Riverside,92507,CA,Riverside,1656.0,9583.0
+M2491807440,single_family,688000,0.0,4.0,6,Eastvale,92880,CA,Riverside,3585.0,6970.0
+M2502713399,single_family,350000,0.0,2.0,3,Moreno Valley,92551,CA,Riverside,1227.0,3920.0
+M2839304467,single_family,510000,0.0,2.0,3,Corona,92882,CA,Riverside,1607.0,7405.0
+M2813121031,single_family,375000,0.0,3.0,4,Jurupa Valley,92509,CA,Riverside,1580.0,7405.0
+M2102545412,single_family,508880,0.0,3.0,4,Corona,92880,CA,Riverside,1753.0,4792.0
+M1329826431,single_family,598000,1.0,2.0,5,Eastvale,92880,CA,Riverside,2354.0,13068.0
+M2454103019,single_family,620000,0.0,3.0,4,Corona,92882,CA,Riverside,2563.0,7405.0
+M2756817632,single_family,350000,1.0,2.0,4,Perris,92571,CA,Riverside,2327.0,5663.0
+M1951773706,single_family,378500,1.0,2.0,5,Moreno Valley,92553,CA,Riverside,2141.0,7405.0
+M2672281661,single_family,360000,0.0,1.0,3,Riverside,92504,CA,Riverside,957.0,9148.0
+M1314299345,single_family,489500,0.0,3.0,3,Riverside,92506,CA,Riverside,2000.0,20473.0
+M2060135547,single_family,359900,1.0,2.0,4,Rialto,92376,CA,San Bernardino,1703.0,4500.0
+M2535446348,single_family,599988,1.0,2.0,5,Corona,92882,CA,Riverside,2872.0,10890.0
+M2510484311,single_family,400000,0.0,2.0,5,Riverside,92509,CA,Riverside,1800.0,13504.0
+M1199540966,single_family,450000,0.0,2.0,4,Perris,92570,CA,Riverside,2093.0,18731.0
+M2523194077,single_family,669900,0.0,3.0,5,Corona,92881,CA,Riverside,2940.0,10890.0
+M2141904545,single_family,302900,0.0,2.0,3,Moreno Valley,92553,CA,Riverside,1000.0,4792.0
+M2898586358,single_family,399000,0.0,2.0,4,Moreno Valley,92553,CA,Riverside,1925.0,8276.0
+M2067664520,single_family,330000,1.0,2.0,3,Perris,92571,CA,Riverside,1527.0,3920.0
+M2008586109,single_family,749000,1.0,3.0,4,Riverside,92508,CA,Riverside,3806.0,22216.0
+M1045312549,single_family,380000,0.0,2.0,3,Fontana,92337,CA,San Bernardino,1044.0,3600.0
+M2257056307,single_family,335000,0.0,2.0,3,Moreno Valley,92553,CA,Riverside,1490.0,7840.0
+M1571576717,single_family,639000,1.0,3.0,4,Jurupa Valley,92509,CA,Riverside,2746.0,34848.0
+M2896647306,single_family,309000,1.0,2.0,3,San Bernardino,92408,CA,San Bernardino,1274.0,3150.0
+M1765922000,single_family,565000,0.0,3.0,4,Eastvale,92880,CA,Riverside,2985.0,7405.0
+M2011903267,single_family,359000,0.0,2.0,3,Riverside,92503,CA,Riverside,1123.0,5663.0
+M2915560093,single_family,315000,0.0,2.0,3,Moreno Valley,92551,CA,Riverside,1152.0,7405.0
+M1014334401,single_family,449000,1.0,2.0,3,Moreno Valley,92555,CA,Riverside,3284.0,7841.0
+M2715909257,single_family,439500,0.0,3.0,4,Moreno Valley,92555,CA,Riverside,2940.0,13939.0
+M1468144528,single_family,299000,0.0,1.0,2,Riverside,92501,CA,Riverside,864.0,6970.0
+M2660091693,single_family,610000,0.0,2.0,3,Eastvale,92880,CA,Riverside,2605.0,10019.0
+M2750451088,single_family,600000,0.0,3.0,5,Riverside,92503,CA,Riverside,2627.0,11326.0
+M2544708968,single_family,505000,0.0,2.0,3,Perris,92570,CA,Riverside,2175.0,90169.0
+M2747954270,single_family,388000,1.0,2.0,4,Riverside,92503,CA,Riverside,1945.0,10454.0
+M1786573783,single_family,330000,0.0,2.0,3,Moreno Valley,92555,CA,Riverside,1322.0,7405.0
+M2631337763,single_family,329900,0.0,1.0,2,Riverside,92509,CA,Riverside,754.0,13504.0
+M1057660171,single_family,470000,0.0,2.0,3,Riverside,92509,CA,Riverside,1268.0,23958.0
+M1040443306,single_family,469900,0.0,3.0,4,Jurupa Valley,92509,CA,Riverside,2286.0,8276.0
+M2752899267,single_family,475000,0.0,2.0,4,Riverside,92509,CA,Riverside,1534.0,11761.0
+M2090421108,single_family,529800,0.0,3.0,5,Jurupa Valley,91752,CA,Riverside,2463.0,8712.0
+M2376071682,single_family,574999,0.0,3.0,6,Riverside,92504,CA,Riverside,3126.0,9583.0
+M2639897557,single_family,437500,0.0,1.0,3,Riverside,92506,CA,Riverside,1731.0,2442.0
+M2611384401,single_family,415000,1.0,2.0,3,Colton,92324,CA,San Bernardino,1568.0,19602.0
+M1320433704,single_family,410000,0.0,2.0,3,Riverside,92503,CA,Riverside,4623.0,174240.0
+M2175176734,single_family,1990000,2.0,4.0,7,Norco,92860,CA,Riverside,3214.0,9583.0
+M1701132973,single_family,649900,0.0,3.0,4,Corona,92881,CA,Riverside,896.0,6534.0
+M2670082971,single_family,339999,0.0,1.0,2,Riverside,92504,CA,Riverside,1308.0,3485.0
+M1911150680,single_family,339000,1.0,2.0,3,Moreno Valley,92557,CA,Riverside,1088.0,8276.0
+M1349527033,single_family,375000,1.0,1.0,3,Riverside,92504,CA,Riverside,2813.0,6534.0
+M1812314122,single_family,529000,0.0,3.0,5,Jurupa Valley,92509,CA,Riverside,3106.0,21780.0
+M2442481486,single_family,519999,0.0,3.0,6,Perris,92570,CA,Riverside,1107.0,6970.0
+M1429240963,single_family,320000,0.0,2.0,3,Moreno Valley,92553,CA,Riverside,2033.0,2614.0
+M2333820846,single_family,465000,1.0,2.0,3,Riverside,92504,CA,Riverside,3615.0,16117.0
+M2614113038,single_family,689900,1.0,3.0,5,Riverside,92503,CA,Riverside,1853.0,4792.0
+M2056003399,single_family,465000,0.0,3.0,4,Riverside,92508,CA,Riverside,4236.0,8712.0
+M1989518358,single_family,719000,1.0,3.0,5,Eastvale,92880,CA,Riverside,2900.0,22216.0
+M2894620669,single_family,775000,1.0,2.0,4,Riverside,92508,CA,Riverside,1044.0,3920.0
+M1129896089,single_family,289900,0.0,2.0,2,Perris,92571,CA,Riverside,2360.0,43560.0
+M2325693876,single_family,679000,0.0,3.0,5,Norco,92860,CA,Riverside,1323.0,3049.0
+M1956947375,single_family,437000,1.0,2.0,3,Corona,92880,CA,Riverside,1622.0,7405.0
+M2571388234,single_family,435000,0.0,2.0,4,Riverside,92503,CA,Riverside,2334.0,4792.0
+M2057464013,single_family,569000,1.0,2.0,4,Eastvale,92880,CA,Riverside,1176.0,6970.0
+M2112837110,single_family,299000,0.0,2.0,3,Moreno Valley,92553,CA,Riverside,1026.0,19166.0
+M1669097011,single_family,240000,0.0,1.0,3,Perris,92570,CA,Riverside,1728.0,4356.0
+M2081381505,single_family,455000,1.0,2.0,4,Riverside,92508,CA,Riverside,2820.0,4020.0
+M2059290044,single_family,599900,1.0,3.0,5,Eastvale,92880,CA,Riverside,1786.0,9148.0
+M1102043909,single_family,425000,0.0,2.0,3,Riverside,92504,CA,Riverside,2119.0,20473.0
+M2035466715,single_family,645000,0.0,2.0,4,Norco,92860,CA,Riverside,1129.0,5663.0
+M1831140701,single_family,350000,0.0,2.0,3,Moreno Valley,92557,CA,Riverside,1740.0,7405.0
+M2952294805,single_family,524900,0.0,2.0,4,Corona,92882,CA,Riverside,1885.0,5346.0
+M2071281577,single_family,519900,1.0,2.0,4,Corona,92882,CA,Riverside,1141.0,7841.0
+M1149893379,single_family,349888,0.0,2.0,3,Riverside,92504,CA,Riverside,1088.0,6970.0
+M1362756442,single_family,319990,1.0,1.0,3,Riverside,92504,CA,Riverside,936.0,10019.0
+M2044230510,single_family,250000,0.0,1.0,3,Moreno Valley,92553,CA,Riverside,1507.0,7405.0
+M2168847821,single_family,330000,0.0,2.0,4,Moreno Valley,92553,CA,Riverside,1500.0,6970.0
+M1003538650,single_family,174900,0.0,2.0,2,Riverside,92503,CA,Riverside,1218.0,7405.0
+M2642804301,single_family,417000,0.0,1.0,3,Riverside,92504,CA,Riverside,1027.0,6098.0
+M1075871844,single_family,379900,0.0,2.0,3,Riverside,92503,CA,Riverside,2336.0,3881.0
+M1933545980,single_family,525000,0.0,3.0,4,Ontario,91762,CA,San Bernardino,1428.0,8080.0
+M2222400907,single_family,385000,0.0,2.0,4,Grand Terrace,92313,CA,San Bernardino,968.0,3920.0
+M2856174567,single_family,370000,0.0,2.0,3,Corona,92879,CA,Riverside,1580.0,8276.0
+M1366718005,single_family,399999,0.0,2.0,3,Riverside,92505,CA,Riverside,1843.0,7405.0
+M2091701023,single_family,549000,0.0,3.0,4,Corona,92880,CA,Riverside,1102.0,4500.0
+M1229529475,single_family,355000,0.0,2.0,3,Fontana,92337,CA,San Bernardino,2390.0,7405.0
+M2919460910,single_family,568000,0.0,3.0,4,Eastvale,92880,CA,Riverside,1630.0,7405.0
+M2427324398,single_family,355000,1.0,2.0,4,Moreno Valley,92551,CA,Riverside,2661.0,9148.0
+M2433009486,single_family,425000,0.0,3.0,4,Moreno Valley,92555,CA,Riverside,3046.0,6970.0
+M2066143066,single_family,440000,0.0,3.0,5,Perris,92571,CA,Riverside,2085.0,2500.0
+M9602967347,single_family,405500,1.0,3.0,4,Jurupa Valley,92509,CA,Riverside,2246.0,8712.0
+M1255232826,single_family,539000,1.0,2.0,4,Riverside,92503,CA,Riverside,2900.0,4250.0
+M9153827331,single_family,660000,0.0,4.0,5,Ontario,91762,CA,San Bernardino,1697.0,8276.0
+M2001970931,single_family,369900,0.0,3.0,4,Moreno Valley,92553,CA,Riverside,2989.0,6695.0
+M2691775967,single_family,578888,1.0,2.0,4,Fontana,92337,CA,San Bernardino,2650.0,7405.0
+M2851825150,single_family,509000,1.0,2.0,4,Riverside,92508,CA,Riverside,1800.0,4792.0
+M2994058064,single_family,450000,1.0,2.0,4,Riverside,92508,CA,Riverside,1284.0,8276.0
+M1931687363,single_family,325000,0.0,2.0,3,Moreno Valley,92553,CA,Riverside,1476.0,8276.0
+M2021793263,single_family,429900,0.0,2.0,3,Riverside,92508,CA,Riverside,1619.0,15682.0
+M2116732364,single_family,474800,0.0,2.0,4,Jurupa Valley,91752,CA,Riverside,1870.0,5227.0
+M2864969329,single_family,499900,1.0,2.0,3,Corona,92879,CA,Riverside,1745.0,10019.0
+M2541478203,single_family,439999,0.0,2.0,3,Riverside,92506,CA,Riverside,1841.0,7841.0
+M1765624026,single_family,489900,0.0,2.0,4,Corona,92879,CA,Riverside,2524.0,5227.0
+M1460705860,single_family,409900,1.0,2.0,4,Moreno Valley,92551,CA,Riverside,1749.0,22216.0
+M2226890490,single_family,565000,0.0,2.0,4,Jurupa Valley,91752,CA,Riverside,1756.0,28314.0
+M1577136037,single_family,515000,0.0,3.0,4,Riverside,92507,CA,Riverside,2390.0,7405.0
+M1050095031,single_family,580000,0.0,3.0,4,Eastvale,92880,CA,Riverside,2371.0,7700.0
+M1236587259,single_family,569800,0.0,3.0,5,Loma Linda,92354,CA,San Bernardino,1217.0,4792.0
+M1231967505,single_family,305000,0.0,2.0,3,Perris,92571,CA,Riverside,924.0,11326.0
+M1348644023,single_family,329900,0.0,1.0,2,Riverside,92505,CA,Riverside,2194.0,10019.0
+M2799578972,single_family,595000,0.0,3.0,4,Corona,92882,CA,Riverside,2572.0,6534.0
+M1337836929,single_family,415000,1.0,2.0,4,Moreno Valley,92551,CA,Riverside,1350.0,8276.0
+M1266051322,single_family,405000,0.0,2.0,3,Riverside,92503,CA,Riverside,2754.0,8712.0
+M1089922695,single_family,569900,0.0,2.0,3,Riverside,92503,CA,Riverside,1653.0,9583.0
+M1334084411,single_family,485000,0.0,2.0,4,Corona,92879,CA,Riverside,1235.0,11326.0
+M2940481501,single_family,549900,0.0,2.0,3,Corona,92882,CA,Riverside,1024.0,3485.0
+M1916069784,single_family,295000,0.0,2.0,3,Moreno Valley,92557,CA,Riverside,2004.0,7841.0
+M1640789416,single_family,399900,0.0,3.0,4,Moreno Valley,92557,CA,Riverside,3125.0,8276.0
+M1786071838,single_family,639900,0.0,3.0,4,Eastvale,92880,CA,Riverside,2544.0,9148.0
+M1570052359,single_family,594999,1.0,2.0,5,Corona,92882,CA,Riverside,1985.0,4356.0
+M1873922003,single_family,450000,0.0,3.0,4,Riverside,92507,CA,Riverside,1772.0,7841.0
+M2569502192,single_family,439000,0.0,2.0,4,Riverside,92506,CA,Riverside,2347.0,10454.0
+M2800984255,single_family,440000,0.0,3.0,3,Moreno Valley,92557,CA,Riverside,2623.0,21780.0
+M2705871727,single_family,629000,1.0,2.0,3,Riverside,92507,CA,Riverside,1507.0,7405.0
+M2162028154,single_family,304999,0.0,2.0,4,Moreno Valley,92553,CA,Riverside,1060.0,5663.0
+M1384869667,single_family,289900,0.0,2.0,3,Moreno Valley,92551,CA,Riverside,1060.0,7405.0
+M2020939295,single_family,300000,0.0,2.0,3,Moreno Valley,92553,CA,Riverside,1988.0,54450.0
+M1662314609,single_family,549000,0.0,2.0,3,Perris,92570,CA,Riverside,1542.0,2410.0
+M2703774896,single_family,349990,1.0,2.0,3,Moreno Valley,92555,CA,Riverside,1772.0,30492.0
+M1345625481,single_family,465000,0.0,2.0,3,Riverside,92505,CA,Riverside,980.0,10019.0
+M1467101081,single_family,375000,0.0,1.0,3,Riverside,92501,CA,Riverside,3173.0,7841.0
+M1784217132,single_family,665000,0.0,3.0,4,Eastvale,91752,CA,Riverside,1283.0,5227.0
+M2622806369,single_family,320000,0.0,2.0,3,Perris,92571,CA,Riverside,4057.0,10019.0
+M1777176314,single_family,749990,0.0,4.0,6,Corona,92879,CA,Riverside,1365.0,2000.0
+M9897210739,single_family,399990,1.0,2.0,3,Corona,92879,CA,Riverside,2128.0,7841.0
+M1214088076,single_family,489450,0.0,2.0,4,Corona,92882,CA,Riverside,1300.0,7405.0
+M1919449397,single_family,325000,0.0,2.0,2,Moreno Valley,92553,CA,Riverside,1890.0,7405.0
+M2290185730,single_family,375000,0.0,2.0,4,Moreno Valley,92553,CA,Riverside,1085.0,7405.0
+M2926573081,single_family,325000,0.0,2.0,2,Moreno Valley,92553,CA,Riverside,1015.0,7150.0
+M1571828529,single_family,275500,0.0,1.0,3,Colton,92324,CA,San Bernardino,1975.0,5663.0
+M2995626872,single_family,379900,1.0,2.0,3,Moreno Valley,92555,CA,Riverside,2389.0,6589.0
+M1185689011,single_family,648966,0.0,3.0,4,Chino,91708,CA,San Bernardino,1852.0,62726.0
+M2109032835,single_family,599500,0.0,2.0,3,Riverside,92508,CA,Riverside,2285.0,3920.0
+M2018622539,single_family,380000,0.0,3.0,5,Perris,92571,CA,Riverside,2505.0,39204.0
+M2356143300,single_family,595000,0.0,3.0,4,Riverside,92504,CA,Riverside,4414.0,31363.0
+M1263207738,single_family,999999,0.0,3.0,4,Riverside,92506,CA,Riverside,4466.0,28314.0
+M1345118279,single_family,1068000,1.0,4.0,5,Riverside,92506,CA,Riverside,1380.0,7841.0
+M1121410826,single_family,449900,0.0,2.0,3,Riverside,92506,CA,Riverside,1709.0,4792.0
+M1823203056,single_family,354900,1.0,2.0,3,Moreno Valley,92557,CA,Riverside,1283.0,15682.0
+M1351375809,single_family,389900,0.0,2.0,2,Corona,92879,CA,Riverside,2550.0,4045.0
+M2317606309,single_family,450000,1.0,2.0,4,Loma Linda,92354,CA,San Bernardino,2040.0,5227.0
+M2105750283,single_family,550000,1.0,2.0,3,Corona,92880,CA,Riverside,2131.0,3920.0
+M2773501189,single_family,349000,1.0,2.0,3,Perris,92571,CA,Riverside,1204.0,3485.0
+M1991275297,single_family,309999,0.0,2.0,3,Perris,92571,CA,Riverside,3640.0,9148.0
+M2151552417,single_family,638000,0.0,3.0,5,Corona,92879,CA,Riverside,3683.0,56235.0
+M9403328876,single_family,969900,0.0,4.0,4,Riverside,92506,CA,Riverside,1428.0,6970.0
+M1337639197,single_family,429900,0.0,2.0,4,Riverside,92504,CA,Riverside,3931.0,9583.0
+M1752314153,single_family,719000,1.0,2.0,4,Corona,92882,CA,Riverside,1530.0,4356.0
+M2371525237,single_family,2250000,1.0,3.0,4,Santa Barbara,93111,CA,Santa Barbara,4083.0,18295.0
+M1602400115,single_family,6495000,0.0,4.0,5,Santa Barbara,93109,CA,Santa Barbara,3650.0,14375.0
+M1541693894,single_family,2200000,0.0,1.0,3,Santa Barbara,93103,CA,Santa Barbara,1620.0,19602.0
+M2350624759,single_family,2150000,0.0,3.0,3,Santa Barbara,93110,CA,Santa Barbara,2842.0,10454.0
+M1113880874,single_family,1895000,0.0,2.0,3,Santa Barbara,93103,CA,Santa Barbara,1426.0,8712.0
+M2095692545,single_family,4125000,1.0,3.0,4,Santa Barbara,93108,CA,Santa Barbara,4067.0,36590.0
+M2169863143,single_family,6495000,2.0,5.0,5,Montecito,93108,CA,Santa Barbara,6707.0,42253.0
+M1959809546,single_family,1495000,1.0,2.0,3,Santa Barbara,93105,CA,Santa Barbara,1993.0,7405.0
+M2263478339,single_family,3975000,0.0,3.0,4,Santa Barbara,93110,CA,Santa Barbara,3283.0,97139.0
+M1178603593,single_family,2950000,0.0,3.0,4,Santa Barbara,93108,CA,Santa Barbara,3186.0,15246.0
+M1474726996,single_family,2300000,3.0,3.0,7,Santa Barbara,93108,CA,Santa Barbara,5219.0,27443.0
+M1692583696,single_family,3950000,0.0,3.0,3,Santa Barbara,93103,CA,Santa Barbara,2784.0,43560.0
+M1362008892,single_family,3995000,1.0,4.0,5,Santa Barbara,93109,CA,Santa Barbara,9000.0,510959.0
+M2174040077,single_family,2990000,0.0,3.0,3,Santa Barbara,93105,CA,Santa Barbara,4176.0,19602.0
+M2192219559,single_family,1695000,0.0,2.0,2,Montecito,93108,CA,Santa Barbara,4596.0,47916.0
+M9755332070,single_family,6995000,0.0,10.0,10,Carpinteria,93013,CA,Santa Barbara,2019.0,1742.0
+M9722924929,single_family,1435000,0.0,4.0,4,Santa Barbara,93101,CA,Santa Barbara,3233.0,43560.0
+M2598484425,single_family,3495000,2.0,3.0,3,Santa Barbara,93103,CA,Santa Barbara,1406.0,6970.0
+M1871366092,single_family,5995000,2.0,4.0,4,Santa Barbara,93103,CA,Santa Barbara,2100.0,40511.0
+M1111418293,single_family,924900,1.0,2.0,3,Carpinteria,93013,CA,Santa Barbara,1561.0,7841.0
+M1074006316,single_family,3250000,1.0,3.0,3,Santa Barbara,93108,CA,Santa Barbara,2886.0,13939.0
+M1580972198,single_family,845000,0.0,1.0,2,Santa Barbara,93109,CA,Santa Barbara,1860.0,4356.0
+M1037385267,single_family,4895000,1.0,3.0,4,Santa Barbara,93108,CA,Santa Barbara,2662.0,11326.0
+M2543792758,single_family,1442000,0.0,2.0,4,Santa Barbara,93111,CA,Santa Barbara,3277.0,17860.0
+M2554104052,single_family,1085000,0.0,3.0,3,Santa Barbara,93111,CA,Santa Barbara,2397.0,9583.0
+M2213934382,single_family,3875000,1.0,3.0,4,Santa Barbara,93103,CA,Santa Barbara,2077.0,12632.0
+M1641088461,single_family,815000,1.0,2.0,4,Goleta,93117,CA,Santa Barbara,2043.0,13068.0
+M1918283914,single_family,1649000,1.0,3.0,5,Santa Barbara,93110,CA,Santa Barbara,2416.0,11761.0
+M2977270201,single_family,1625000,0.0,3.0,4,Santa Barbara,93111,CA,Santa Barbara,1445.0,8276.0
+M1322942812,single_family,3250000,1.0,2.0,2,Montecito,93108,CA,Santa Barbara,936.0,4792.0
+M1576213530,single_family,2495000,0.0,3.0,3,Santa Barbara,93105,CA,Santa Barbara,2812.0,10890.0
+M2891019140,single_family,1455000,1.0,2.0,4,Santa Barbara,93101,CA,Santa Barbara,1027.0,6969.0
+M2998660852,single_family,1159000,0.0,3.0,3,Santa Barbara,93101,CA,Santa Barbara,1297.0,8712.0
+M1267576994,single_family,1975000,1.0,2.0,3,Santa Barbara,93103,CA,Santa Barbara,2724.0,17424.0
+M1295004727,single_family,750000,0.0,1.0,2,Santa Barbara,93103,CA,Santa Barbara,2063.0,6969.0
+M1320781387,single_family,13995000,2.0,3.0,3,Montecito,93108,CA,Santa Barbara,960.0,5662.0
+M2885626951,single_family,1475000,0.0,2.0,3,Santa Barbara,93105,CA,Santa Barbara,1432.0,13068.0
+M1781474341,single_family,895000,0.0,1.0,2,Carpinteria,93013,CA,Santa Barbara,3813.0,26136.0
+M2350773823,single_family,2350000,0.0,3.0,4,Santa Barbara,93110,CA,Santa Barbara,1970.0,14375.0
+M1204219817,single_family,725000,1.0,1.0,3,Goleta,93117,CA,Santa Barbara,3561.0,35284.0
+M2682108009,single_family,3295000,2.0,4.0,4,Santa Barbara,93103,CA,Santa Barbara,1574.0,6750.0
+M1717525984,single_family,998500,0.0,2.0,3,Santa Barbara,93101,CA,Santa Barbara,1627.0,6970.0
+M1793067198,single_family,5250000,1.0,3.0,3,Santa Barbara,93108,CA,Santa Barbara,3302.0,93654.0
+M1512555076,single_family,2300000,0.0,3.0,3,Montecito,93108,CA,Santa Barbara,2587.0,6416.0
+M1187641547,single_family,1999000,0.0,4.0,4,Santa Barbara,93103,CA,Santa Barbara,4316.0,56628.0
+M2232361277,single_family,1995000,0.0,3.0,3,Santa Barbara,93101,CA,Santa Barbara,2492.0,6543.0
+M2275870228,single_family,869900,0.0,1.0,2,Santa Barbara,93103,CA,Santa Barbara,2353.0,12632.0
+M2927990104,single_family,1165000,0.0,2.0,2,Santa Barbara,93108,CA,Santa Barbara,495.0,33977.0
+M2300812516,single_family,25000000,0.0,4.0,3,Montecito,93108,CA,Santa Barbara,5946.0,108900.0
+M1535253184,single_family,1270000,1.0,2.0,3,Santa Barbara,93105,CA,Santa Barbara,2196.0,8276.0
+M2856235495,single_family,4995000,1.0,3.0,3,Santa Barbara,93108,CA,Santa Barbara,1448.0,4791.0
+M9540802522,single_family,1325000,0.0,3.0,3,Summerland,93067,CA,Santa Barbara,1357.0,7841.0
+M2921408553,single_family,1475000,1.0,2.0,3,Santa Barbara,93109,CA,Santa Barbara,2702.0,6970.0
+M1977238635,single_family,2395000,0.0,4.0,5,Santa Barbara,93108,CA,Santa Barbara,2506.0,11326.0
+M2322209616,single_family,1845000,1.0,2.0,3,Santa Barbara,93105,CA,Santa Barbara,1582.0,18731.0
+M2208989234,single_family,4495000,1.0,4.0,3,Santa Barbara,93108,CA,Santa Barbara,9285.0,108029.0
+M1257093891,single_family,2195000,0.0,3.0,4,Montecito,93108,CA,Santa Barbara,3487.0,50530.0
+M1479359345,single_family,1495000,1.0,3.0,3,Santa Barbara,93105,CA,Santa Barbara,5227.0,49658.0
+M1147718350,single_family,2900000,0.0,4.0,4,Montecito,93108,CA,Santa Barbara,8572.0,455202.0
+M1331003628,single_family,1895000,1.0,2.0,4,Santa Barbara,93109,CA,Santa Barbara,4767.0,21780.0
+M2820050264,single_family,799000,0.0,,1,Santa Barbara,93108,CA,Santa Barbara,1543.0,7405.0
+M1953009474,single_family,4250000,1.0,4.0,6,Santa Barbara,93109,CA,Santa Barbara,3272.0,42689.0
+M1085495599,single_family,1625000,0.0,2.0,3,Santa Barbara,93101,CA,Santa Barbara,384.0,1306.0
+M1619187459,single_family,1300000,0.0,2.0,2,Santa Barbara,93105,CA,Santa Barbara,1344.0,6098.0
+M1239690696,single_family,999000,0.0,2.0,4,Santa Barbara,93109,CA,Santa Barbara,1051.0,9147.0
+M1459505002,single_family,1095000,0.0,3.0,5,Carpinteria,93013,CA,Santa Barbara,3889.0,29185.0
+M1482854120,single_family,1650000,0.0,2.0,3,Montecito,93108,CA,Santa Barbara,1882.0,7841.0
+M9065282512,single_family,1799900,0.0,3.0,6,Santa Barbara,93109,CA,Santa Barbara,3484.0,45738.0
+M1454308408,single_family,3250000,0.0,3.0,2,Montecito,93108,CA,Santa Barbara,1590.0,7405.0
+M2260714362,single_family,1299000,0.0,3.0,3,Santa Barbara,93105,CA,Santa Barbara,2150.0,43560.0
+M2901290019,single_family,12950000,4.0,7.0,8,Montecito,93108,CA,Santa Barbara,3190.0,87556.0
+M2634953477,single_family,4250000,1.0,3.0,5,Santa Barbara,93110,CA,Santa Barbara,3546.0,16117.0
+M9913972009,single_family,2850000,0.0,,0,Carpinteria,93013,CA,Santa Barbara,1973.0,6098.0
+M1092080298,single_family,6850000,2.0,5.0,6,Montecito,93108,CA,Santa Barbara,2674.0,33541.0
+M1113029871,single_family,8995000,2.0,6.0,6,Montecito,93108,CA,Santa Barbara,2070.0,8276.0
+M1124129009,single_family,9900000,1.0,6.0,5,Santa Barbara,93108,CA,Santa Barbara,1899.0,6098.0
+M2136879635,single_family,1169000,0.0,2.0,2,Santa Barbara,93105,CA,Santa Barbara,1430.0,8712.0
+M2536307378,single_family,3150000,1.0,4.0,3,Santa Barbara,93108,CA,Santa Barbara,2136.0,76666.0
+M1744606951,single_family,629000,0.0,2.0,0,Santa Barbara,93101,CA,Santa Barbara,2029.0,13504.0
+M1155289634,single_family,1195000,0.0,2.0,3,Santa Barbara,93109,CA,Santa Barbara,1668.0,1742.0
+M1117346607,single_family,1195000,0.0,2.0,2,Santa Barbara,93103,CA,Santa Barbara,2370.0,27878.0
+M1218418141,single_family,2075000,0.0,5.0,5,Santa Barbara,93105,CA,Santa Barbara,2716.0,8200.0
+M2038050355,single_family,1159000,0.0,2.0,4,Carpinteria,93013,CA,Santa Barbara,2022.0,6970.0
+M1666558770,single_family,2250000,0.0,3.0,4,Santa Barbara,93111,CA,Santa Barbara,5216.0,134600.0
+M1965258597,single_family,1095000,0.0,2.0,4,Santa Barbara,93105,CA,Santa Barbara,1348.0,1742.0
+M1598002734,single_family,6500000,0.0,2.0,4,Santa Barbara,93109,CA,Santa Barbara,1142.0,6534.0
+M2674813514,single_family,2495000,0.0,3.0,4,Santa Barbara,93110,CA,Santa Barbara,3200.0,34848.0
+M2776300048,single_family,5500000,0.0,4.0,5,Santa Barbara,93103,CA,Santa Barbara,2536.0,7405.0
+M1212008399,single_family,1795000,1.0,2.0,3,Santa Barbara,93109,CA,Santa Barbara,1800.0,6534.0
+M2915706864,single_family,1199000,0.0,3.0,4,Santa Barbara,93111,CA,Santa Barbara,1823.0,7405.0
+M1053025590,single_family,2285000,0.0,2.0,3,Santa Barbara,93105,CA,Santa Barbara,3611.0,14810.0
+M9144619526,single_family,27500000,3.0,8.0,5,Goleta,93117,CA,Santa Barbara,2685.0,14810.0
+M1740316293,single_family,1175000,0.0,2.0,3,Santa Barbara,93111,CA,Santa Barbara,1367.0,6970.0
+M2031107518,single_family,925000,1.0,1.0,3,Santa Barbara,93101,CA,Santa Barbara,1665.0,7840.0
+M2929718859,single_family,1149000,0.0,2.0,2,Santa Barbara,93111,CA,Santa Barbara,1821.0,8712.0
+M2004351760,single_family,1598000,1.0,2.0,3,Santa Barbara,93103,CA,Santa Barbara,1840.0,7405.0
+M1503987058,single_family,1299000,1.0,2.0,4,Santa Barbara,93105,CA,Santa Barbara,2513.0,14810.0
+M2226553076,single_family,1688000,0.0,2.0,2,Santa Barbara,93101,CA,Santa Barbara,5441.0,94961.0
+M2834731120,single_family,2950000,2.0,2.0,4,Montecito,93108,CA,Santa Barbara,3189.0,27878.0
+M1670145040,single_family,1975000,1.0,2.0,3,Santa Barbara,93103,CA,Santa Barbara,9056.0,58806.0
+M2959450783,single_family,2495000,1.0,3.0,4,Santa Barbara,93105,CA,Santa Barbara,1595.0,9148.0
+M1473388571,single_family,1150000,1.0,2.0,3,Santa Barbara,93111,CA,Santa Barbara,5836.0,43560.0
+M2592820217,single_family,9875000,2.0,4.0,5,Montecito,93108,CA,Santa Barbara,1500.0,10000.0
+M2436939041,single_family,959000,0.0,2.0,2,Santa Barbara,93101,CA,Santa Barbara,1824.0,13504.0
+M1376500269,single_family,775000,1.0,1.0,3,Goleta,93117,CA,Santa Barbara,2696.0,23087.0
+M2442572160,single_family,929000,0.0,1.0,2,Santa Barbara,93101,CA,Santa Barbara,2738.0,7405.0
+M2271949232,single_family,2195000,0.0,5.0,5,Santa Barbara,93110,CA,Santa Barbara,1282.0,5048.0
+M1473876177,single_family,1700000,1.0,2.0,5,Santa Barbara,93105,CA,Santa Barbara,1600.0,6970.0
+M2886498589,single_family,1235000,0.0,2.0,4,Carpinteria,93013,CA,Santa Barbara,1165.0,5227.0
+M1790200869,single_family,1015000,0.0,3.0,4,Santa Barbara,93103,CA,Santa Barbara,1526.0,4356.0
+M1607623644,single_family,1544000,0.0,2.0,3,Santa Barbara,93105,CA,Santa Barbara,1244.0,10890.0
+M1474357485,single_family,3895000,1.0,3.0,4,Santa Barbara,93108,CA,Santa Barbara,2071.0,9583.0
+M1715129591,single_family,875000,1.0,1.0,3,Santa Barbara,93101,CA,Santa Barbara,1376.0,6534.0
+M2510507974,single_family,1827500,0.0,3.0,4,Santa Barbara,93109,CA,Santa Barbara,1859.0,87120.0
+M1418544476,single_family,959900,0.0,2.0,4,Santa Barbara,93110,CA,Santa Barbara,2928.0,9148.0
+M2023803393,single_family,1549000,0.0,3.0,3,Santa Barbara,93105,CA,Santa Barbara,989.0,4792.0
+M1946737424,single_family,1695000,0.0,2.0,3,Santa Barbara,93101,CA,Santa Barbara,1469.0,341510.0
+M1888769287,single_family,1149000,0.0,2.0,2,Santa Barbara,93110,CA,Santa Barbara,2643.0,14810.0
+M2611535944,single_family,1695000,0.0,3.0,5,Santa Barbara,93110,CA,Santa Barbara,2354.0,8712.0
+M2240180827,single_family,7995000,2.0,4.0,3,Santa Barbara,93108,CA,Santa Barbara,2789.0,7405.0
+M2841329118,single_family,2295000,2.0,4.0,4,Santa Barbara,93103,CA,Santa Barbara,1342.0,7405.0
+M2158233020,single_family,9950000,2.0,8.0,7,Santa Barbara,93108,CA,Santa Barbara,2912.0,44867.0
+M2950736850,single_family,1695000,0.0,2.0,3,Santa Barbara,93109,CA,Santa Barbara,1072.0,2178.0
+M2199721386,single_family,2279000,2.0,3.0,4,Carpinteria,93013,CA,Santa Barbara,2682.0,11761.0
+M2145967450,single_family,735000,0.0,2.0,3,Santa Barbara,93110,CA,Santa Barbara,3054.0,35284.0
+M1631665252,single_family,959000,1.0,1.0,2,Santa Barbara,93109,CA,Santa Barbara,5102.0,67518.0
+M1869783252,single_family,1695000,0.0,2.0,3,Santa Barbara,93111,CA,Santa Barbara,3000.0,8276.0
+M1902509048,single_family,2388000,1.0,2.0,4,Santa Barbara,93105,CA,Santa Barbara,2828.0,9583.0
+M2461882216,single_family,2495000,0.0,3.0,4,Santa Barbara,93103,CA,Santa Barbara,2001.0,11326.0
+M2223268387,single_family,1259000,0.0,2.0,3,Santa Barbara,93103,CA,Santa Barbara,7248.0,60113.0
+M2468113852,single_family,925000,0.0,2.0,4,Carpinteria,93013,CA,Santa Barbara,2948.0,9583.0
+M2268956433,single_family,1249000,0.0,1.0,2,Santa Barbara,93103,CA,Santa Barbara,5033.0,43560.0
+M1484978279,single_family,5990000,1.0,5.0,5,Montecito,93108,CA,Santa Barbara,4547.0,7405.0
+M1141681268,single_family,1185000,1.0,2.0,3,Santa Barbara,93103,CA,Santa Barbara,2313.0,6969.0
+M1636412548,single_family,1400000,0.0,2.0,4,Carpinteria,93013,CA,Santa Barbara,4141.0,30928.0
+M2761035533,single_family,1187984,0.0,2.0,5,Goleta,93117,CA,Santa Barbara,1132.0,7405.0
+M2536812654,single_family,925000,0.0,2.0,3,Santa Barbara,93111,CA,Santa Barbara,1560.0,7405.0
+M2191783741,single_family,3500000,0.0,3.0,3,Carpinteria,93013,CA,Santa Barbara,1367.0,6970.0
+M2897890595,single_family,4495000,1.0,3.0,4,Santa Barbara,93108,CA,Santa Barbara,4001.0,48787.0
+M1310831381,single_family,1395000,0.0,3.0,5,Santa Barbara,93111,CA,Santa Barbara,9448.0,131551.0
+M1033653598,single_family,819000,0.0,2.0,3,Santa Barbara,93101,CA,Santa Barbara,2594.0,11326.0
+M1749047896,single_family,2575000,1.0,3.0,3,Santa Barbara,93105,CA,Santa Barbara,7796.0,265280.0
+M1943979744,single_family,860000,0.0,2.0,3,Goleta,93117,CA,Santa Barbara,2400.0,33541.0
+M2246723186,single_family,879000,0.0,2.0,3,Goleta,93117,CA,Santa Barbara,1360.0,5663.0
+M1250795947,single_family,1359000,1.0,2.0,3,Santa Barbara,93111,CA,Santa Barbara,3216.0,16553.0
+M1871061667,single_family,1598000,0.0,3.0,4,Santa Barbara,93109,CA,Santa Barbara,1829.0,7405.0
+M1825331281,single_family,1695000,0.0,3.0,4,Santa Barbara,93105,CA,Santa Barbara,2437.0,30056.0
+M2933439155,single_family,750000,0.0,1.0,3,Santa Barbara,93101,CA,Santa Barbara,1614.0,12197.0
+M1522356019,single_family,5250000,4.0,4.0,6,Santa Barbara,93108,CA,Santa Barbara,3432.0,23087.0
+M2293551955,single_family,3100000,1.0,2.0,3,Santa Barbara,93110,CA,Santa Barbara,4062.0,120226.0
+M2822770678,single_family,849900,0.0,1.0,2,Santa Barbara,93108,CA,Santa Barbara,4375.0,36590.0
+M2218610144,single_family,2195000,1.0,3.0,4,Santa Barbara,93105,CA,Santa Barbara,3590.0,44431.0
+M1510579981,single_family,2500000,0.0,3.0,3,Santa Barbara,93108,CA,Santa Barbara,4079.0,40946.0
+M2254597672,single_family,2995000,1.0,4.0,5,Santa Barbara,93110,CA,Santa Barbara,2539.0,8712.0
+M1494042126,single_family,1595000,0.0,2.0,4,Santa Barbara,93105,CA,Santa Barbara,3138.0,14810.0
+M2559337731,single_family,995000,0.0,,0,Santa Barbara,93108,CA,Santa Barbara,2023.0,41818.0
+M2015418556,single_family,1895000,0.0,3.0,4,Santa Barbara,93103,CA,Santa Barbara,2128.0,85813.0
+M1937401342,single_family,1295000,0.0,3.0,3,Santa Barbara,93105,CA,Santa Barbara,1917.0,7841.0
+M2093949269,single_family,1339000,1.0,2.0,3,Santa Barbara,93105,CA,Santa Barbara,5059.0,37897.0
+M2426897721,single_family,4199000,1.0,4.0,4,Santa Barbara,93110,CA,Santa Barbara,6503.0,140699.0
+M2339680894,single_family,1699000,0.0,4.0,5,Santa Barbara,93105,CA,Santa Barbara,1178.0,5663.0
+M2448503743,single_family,2250000,0.0,3.0,3,Santa Barbara,93103,CA,Santa Barbara,1877.0,10019.0
+M2652929998,single_family,4995000,1.0,5.0,5,Santa Barbara,93108,CA,Santa Barbara,5286.0,330620.0
+M1098911338,single_family,5195000,0.0,4.0,4,Montecito,93108,CA,Santa Barbara,2955.0,16117.0
+M2772847216,single_family,329900,0.0,2.0,3,Clovis,93611,CA,Fresno,1750.0,6370.0
+M2609756930,single_family,2200000,0.0,7.0,7,Fresno,93711,CA,Fresno,9804.0,46609.0
+M2895165412,single_family,227000,0.0,2.0,3,Fresno,93703,CA,Fresno,1393.0,7620.0
+M1556071486,single_family,355000,0.0,2.0,3,Clovis,93611,CA,Fresno,1646.0,8364.0
+M2575444014,single_family,305000,0.0,2.0,3,Clovis,93619,CA,Fresno,1379.0,4050.0
+M1174105051,single_family,500000,0.0,2.0,4,Clovis,93619,CA,Fresno,2521.0,8750.0
+M2061992576,single_family,330000,0.0,2.0,3,Fresno,93730,CA,Fresno,1458.0,7440.0
+M1418949477,single_family,320000,0.0,2.0,3,Clovis,93619,CA,Fresno,1379.0,4380.0
+M1043025325,single_family,419950,0.0,3.0,5,Clovis,93619,CA,Fresno,3100.0,8441.0
+M2056265513,single_family,505000,1.0,3.0,5,Clovis,93619,CA,Fresno,3304.0,12197.0
+M2980839814,single_family,149500,0.0,1.0,3,Fresno,93702,CA,Fresno,1286.0,7200.0
+M2752722259,single_family,389000,1.0,2.0,4,Fresno,93723,CA,Fresno,2697.0,5000.0
+M2137204511,single_family,635900,1.0,3.0,4,Clovis,93619,CA,Fresno,3772.0,8732.0
+M1996490941,single_family,320000,0.0,3.0,3,Clovis,93611,CA,Fresno,1890.0,4752.0
+M2358785330,single_family,329000,0.0,2.0,3,Fresno,93722,CA,Fresno,1981.0,6000.0
+M2658787538,single_family,169900,0.0,1.0,3,Fresno,93703,CA,Fresno,1002.0,8100.0
+M9090672822,single_family,288439,0.0,2.0,3,Fresno,93722,CA,Fresno,1440.0,5600.0
+M1905978234,single_family,219000,0.0,2.0,3,Fresno,93705,CA,Fresno,1109.0,7680.0
+M1849221714,single_family,545000,1.0,2.0,4,Fresno,93720,CA,Fresno,2999.0,12632.0
+M2022788437,single_family,275000,0.0,2.0,3,Clovis,93619,CA,Fresno,1271.0,2814.0
+M1438832831,single_family,435000,1.0,2.0,4,Clovis,93611,CA,Fresno,2674.0,9179.0
+M2813598945,single_family,164900,0.0,2.0,3,Fresno,93701,CA,Fresno,1041.0,230868.0
+M1048850184,single_family,229900,0.0,1.0,3,Fresno,93727,CA,Fresno,1789.0,7700.0
+M2482138747,single_family,320000,0.0,1.0,3,Madera,93636,CA,Madera,864.0,6098.0
+M1597714358,single_family,262500,0.0,2.0,3,Fresno,93726,CA,Fresno,1830.0,6300.0
+M1149542761,single_family,159200,0.0,1.0,2,Fresno,93702,CA,Fresno,1872.0,7475.0
+M1131368353,single_family,314995,0.0,2.0,2,Fresno,93711,CA,Fresno,3009.0,6325.0
+M2145245914,single_family,290000,0.0,2.0,5,Fresno,93727,CA,Fresno,1872.0,4410.0
+M2628771334,single_family,300000,1.0,2.0,4,Kerman,93630,CA,Fresno,1580.0,4500.0
+M1094799091,single_family,320000,0.0,4.0,5,Fresno,93701,CA,Fresno,1271.0,3036.0
+M1751977200,single_family,289000,1.0,2.0,3,Sanger,93657,CA,Fresno,1494.0,6600.0
+M1304711265,single_family,349999,1.0,2.0,3,Clovis,93619,CA,Fresno,998.0,6700.0
+M2223050018,single_family,265000,1.0,1.0,2,Clovis,93619,CA,Fresno,3147.0,14810.0
+M2797480004,single_family,318000,0.0,2.0,4,Clovis,93611,CA,Fresno,2207.0,6000.0
+M1900202013,single_family,227000,0.0,1.0,3,Fresno,93705,CA,Fresno,1735.0,8680.0
+M1268395224,single_family,495000,0.0,4.0,4,Fresno,93711,CA,Fresno,1276.0,6200.0
+M1637222584,single_family,435000,0.0,3.0,4,Fresno,93730,CA,Fresno,2642.0,12632.0
+M2597063765,single_family,345000,0.0,2.0,4,Clovis,93611,CA,Fresno,2202.0,4840.0
+M1904226735,single_family,225000,1.0,1.0,4,Fresno,93705,CA,Fresno,2282.0,6000.0
+M1550866543,single_family,525000,1.0,2.0,3,Clovis,93619,CA,Fresno,1300.0,8280.0
+M2972369072,single_family,330000,1.0,2.0,3,Fresno,93720,CA,Fresno,2516.0,8680.0
+M1019048802,single_family,419900,0.0,3.0,4,Clovis,93619,CA,Fresno,1312.0,4452.0
+M2915372845,single_family,319900,1.0,3.0,5,Fresno,93727,CA,Fresno,1720.0,6858.0
+M2893276221,single_family,229900,0.0,2.0,3,Fresno,93710,CA,Fresno,2435.0,754024.0
+P417000471478,single_family,491990,1.0,4.0,6,Clovis,93619,CA,Fresno,1700.0,6900.0
+P417000471475,single_family,481990,1.0,4.0,6,Clovis,93619,CA,Fresno,2065.0,7500.0
+P417000471476,single_family,430990,0.0,3.0,5,Clovis,93619,CA,Fresno,1885.0,3198.0
+P417000471481,single_family,423990,1.0,3.0,4,Clovis,93619,CA,Fresno,3980.0,11326.0
+P417000471487,single_family,410690,0.0,2.0,3,Clovis,93619,CA,Fresno,1220.0,7869.0
+M2176389573,single_family,285000,0.0,2.0,4,Fresno,93727,CA,Fresno,1421.0,9600.0
+M1383009885,single_family,419900,1.0,2.0,4,Clovis,93619,CA,Fresno,2213.0,9000.0
+M1304421484,single_family,395000,1.0,2.0,3,Fresno,93730,CA,Fresno,2304.0,40075.0
+M1765026701,single_family,695000,1.0,4.0,4,Fresno,93720,CA,Fresno,2138.0,8050.0
+M1014640049,single_family,214900,1.0,1.0,3,Fresno,93727,CA,Fresno,3403.0,20038.0
+M1981318598,single_family,250000,0.0,2.0,3,Fresno,93727,CA,Fresno,3063.0,12632.0
+M1350082170,single_family,296800,0.0,3.0,4,Fresno,93710,CA,Fresno,1470.0,6000.0
+M2076183166,single_family,425000,0.0,2.0,4,Fresno,93720,CA,Fresno,2251.0,7980.0
+M2186378558,single_family,695900,1.0,2.0,5,Fresno,93720,CA,Fresno,1248.0,6000.0
+M2297617397,single_family,425000,0.0,3.0,3,Fresno,93720,CA,Fresno,1223.0,8750.0
+M1786641314,single_family,209725,0.0,1.0,3,Fresno,93725,CA,Fresno,2468.0,8120.0
+P412623285736,single_family,319000,0.0,2.0,3,Fresno,93727,CA,Fresno,2148.0,6572.0
+P413013252063,single_family,420560,1.0,3.0,5,Fresno,93711,CA,Fresno,1588.0,5250.0
+P412262390925,single_family,384990,0.0,2.0,3,Clovis,93619,CA,Fresno,3534.0,11326.0
+P415725951614,single_family,345054,1.0,2.0,4,Fowler,93625,CA,Fresno,1080.0,6100.0
+M2069638882,single_family,249450,0.0,2.0,3,Clovis,93612,CA,Fresno,2625.0,6700.0
+M2487545669,single_family,335000,0.0,2.0,3,Clovis,93619,CA,Fresno,2050.0,5794.0
+M2274253423,single_family,360000,0.0,3.0,5,Fresno,93722,CA,Fresno,1362.0,7500.0
+M2473161015,single_family,429900,0.0,2.0,3,Clovis,93619,CA,Fresno,3550.0,5850.0
+M1310189358,single_family,310600,0.0,2.0,3,Fresno,93737,CA,Fresno,1764.0,6000.0
+M2185200415,single_family,899000,0.0,4.0,4,Fresno,93730,CA,Fresno,1218.0,7200.0
+M2045043360,single_family,205000,0.0,2.0,3,Fresno,93727,CA,Fresno,3331.0,87556.0
+M1399057107,single_family,410000,0.0,3.0,5,Fresno,93737,CA,Fresno,3024.0,4500.0
+M9625592456,single_family,356661,0.0,2.0,4,Fresno,93727,CA,Fresno,1784.0,6012.0
+M2762036944,single_family,215000,0.0,2.0,3,Sanger,93657,CA,Fresno,1086.0,6500.0
+M2957958525,single_family,229900,0.0,2.0,4,Fresno,93702,CA,Fresno,2008.0,6000.0
+M9154585444,single_family,462427,2.0,2.0,3,Clovis,93619,CA,Fresno,1425.0,8400.0
+M2368335925,single_family,385034,2.0,2.0,3,Fresno,93730,CA,Fresno,3564.0,10454.0
+M9799410148,single_family,652399,0.0,3.0,4,Fresno,93730,CA,Fresno,1301.0,2940.0
+M9609598760,single_family,382935,0.0,2.0,3,Fresno,93727,CA,Fresno,3280.0,10019.0
+M2362634235,single_family,656590,0.0,3.0,4,Clovis,93619,CA,Fresno,4985.0,13504.0
+M2353914005,single_family,391297,0.0,2.0,3,Clovis,93619,CA,Fresno,1790.0,5200.0
+M1423794050,single_family,350000,0.0,2.0,3,Fresno,93730,CA,Fresno,1700.0,7085.0
+M2337044764,single_family,564900,0.0,3.0,5,Fresno,93720,CA,Fresno,1847.0,12632.0
+M1772297777,single_family,1475000,0.0,4.0,5,Fresno,93730,CA,Fresno,4049.0,12596.0
+M2445919611,single_family,315000,1.0,2.0,4,Fresno,93727,CA,Fresno,1649.0,10890.0
+P417000450355,single_family,314950,0.0,2.0,3,Fresno,93727,CA,Fresno,2148.0,8710.0
+P417000450585,single_family,348950,1.0,2.0,3,Fresno,93727,CA,Fresno,2223.0,6200.0
+P417000449120,single_family,361900,1.0,2.0,3,Madera,93636,CA,Madera,2876.0,12632.0
+P415468457298,single_family,298000,0.0,2.0,3,Fresno,93727,CA,Fresno,2496.0,409028.0
+P415406665469,single_family,421990,0.0,4.0,5,Madera,93636,CA,Madera,1499.0,14375.0
+P412915817530,single_family,308800,0.0,2.0,3,Fowler,93625,CA,Fresno,3038.0,8505.0
+P413672042952,single_family,410028,1.0,3.0,5,Fresno,93711,CA,Fresno,2654.0,6120.0
+P412031646114,single_family,374990,0.0,2.0,3,Clovis,93619,CA,Fresno,1872.0,7350.0
+M1786818930,single_family,364900,0.0,2.0,3,Fresno,93720,CA,Fresno,1206.0,7000.0
+M2789676901,single_family,349000,0.0,2.0,3,Fresno,93711,CA,Fresno,1466.0,7480.0
+M1543838840,single_family,1750000,0.0,3.0,4,Fresno,93730,CA,Fresno,2256.0,8750.0
+M2287684906,single_family,375000,0.0,2.0,3,Clovis,93611,CA,Fresno,1607.0,6901.0
+M2234167863,single_family,375000,1.0,2.0,4,Fresno,93723,CA,Fresno,1620.0,4816.0
+M1816241845,single_family,259900,0.0,2.0,3,Clovis,93612,CA,Fresno,1513.0,4000.0
+M2905159591,single_family,354999,0.0,2.0,4,Fresno,93723,CA,Fresno,2278.0,7150.0
+M2630709866,single_family,619900,0.0,3.0,4,Clovis,93619,CA,Fresno,2101.0,10454.0
+M1695709266,single_family,775000,1.0,2.0,5,Clovis,93619,CA,Fresno,2600.0,6480.0
+M1612583469,single_family,219000,0.0,2.0,3,Fresno,93726,CA,Fresno,1379.0,4380.0
+M2571573860,single_family,479900,1.0,3.0,6,Clovis,93611,CA,Fresno,1684.0,6000.0
+M9159949692,single_family,470010,0.0,3.0,4,Fresno,93727,CA,Fresno,1373.0,7800.0
+M2269940174,single_family,315000,0.0,3.0,6,Fresno,93722,CA,Fresno,1592.0,1875.0
+M2560068680,single_family,324900,0.0,2.0,4,Kerman,93630,CA,Fresno,1652.0,14810.0
+M2694809184,single_family,305000,0.0,2.0,4,Fresno,93727,CA,Fresno,2031.0,10200.0
+M2506530270,single_family,305000,0.0,2.0,3,Fresno,93720,CA,Fresno,1271.0,7000.0
+M2244562067,single_family,225000,0.0,2.0,3,Fresno,93722,CA,Fresno,1103.0,5250.0
+M9635250012,single_family,532744,1.0,2.0,3,Clovis,93619,CA,Fresno,1482.0,6825.0
+M2801341141,single_family,255000,0.0,2.0,2,Fresno,93711,CA,Fresno,3312.0,8250.0
+M1532536225,single_family,375000,0.0,2.0,3,Fresno,93705,CA,Fresno,1028.0,6250.0
+P417000447722,single_family,349950,1.0,2.0,4,Fresno,93727,CA,Fresno,2576.0,14375.0
+P417000447863,single_family,305950,0.0,2.0,2,Fresno,93727,CA,Fresno,1104.0,6000.0
+P417000447723,single_family,462427,1.0,2.0,4,Clovis,93619,CA,Madera,1742.0,6800.0
+P417000446718,single_family,404900,0.0,3.0,4,Clovis,93619,CA,Fresno,1614.0,7350.0
+M2603533518,single_family,399900,0.0,2.0,3,Fresno,93711,CA,Fresno,2185.0,8436.0
+M2173759925,single_family,290000,0.0,2.0,3,Clovis,93611,CA,Fresno,1029.0,4500.0
+M2552903623,single_family,237500,0.0,2.0,3,Fresno,93722,CA,Fresno,1740.0,6656.0
+M2272749641,single_family,199000,0.0,3.0,5,Fresno,93705,CA,Fresno,1922.0,8100.0
+M1200671634,single_family,214500,1.0,1.0,3,Fresno,93702,CA,Fresno,2830.0,14810.0
+P415965746556,single_family,397130,1.0,3.0,4,Fresno,93711,CA,Fresno,1736.0,7405.0
+P414878208966,single_family,506900,1.0,2.0,3,Madera,93636,CA,Madera,1628.0,7345.0
+P413878803427,single_family,335800,0.0,2.0,4,Fowler,93625,CA,Fresno,1248.0,6500.0
+P413073845380,single_family,411136,0.0,3.0,4,Madera,93636,CA,Madera,1753.0,3150.0
+P411864444920,single_family,580900,1.0,2.0,2,Madera,93636,CA,Madera,3331.0,17424.0
+M1379857658,single_family,179999,0.0,2.0,3,Fresno,93705,CA,Fresno,2033.0,4200.0
+M1457843903,single_family,220000,1.0,1.0,5,Fresno,93702,CA,Fresno,2491.0,8050.0
+M9585951722,single_family,326000,0.0,2.0,4,Fresno,93727,CA,Fresno,2316.0,5141.0
+M2182554687,single_family,258500,0.0,2.0,4,Clovis,93612,CA,Fresno,2316.0,5684.0
+M2692960775,single_family,300000,0.0,2.0,4,Fresno,93722,CA,Fresno,1178.0,8102.0
+M9138976590,single_family,237690,0.0,2.0,3,Sanger,93657,CA,Fresno,1860.0,8024.0
+M1017870814,single_family,355000,0.0,2.0,3,Fresno,93720,CA,Fresno,744.0,4800.0
+M2400907217,single_family,265000,1.0,1.0,3,Fresno,93704,CA,Fresno,2877.0,88427.0
+M1970261985,single_family,565000,0.0,2.0,4,Fresno,93704,CA,Fresno,1482.0,5671.0
+M9223313478,single_family,274900,0.0,2.0,4,Fresno,93728,CA,Fresno,1767.0,8740.0
